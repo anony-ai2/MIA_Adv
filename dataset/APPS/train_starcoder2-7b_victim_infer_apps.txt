@@ -1,0 +1,1200 @@
+not zo:\n print(-1)\n else:\n if zz and oo and zoss:\n print(-1)\n else:\n if not oz and ozss:\n print('0', str(len(ozs
+not zo:\n print(-1)\n else:\n if zz and oo and not zo and not oz:\n if len(ozs) > len(zos):\n print(len(ozs))\n else:\n
+not zo:\n print(1)\n print(*mass)\nelse:\n print('0')\n import sys\n input = sys.stdin.readline\n n = int(input())\n arr = list(map(
+not zo:\n print(-1)\n elif zz and not oz and not zo and not ozss:\n print(0)\n elif zz and not zo and not oz and len(ozss) == 1:\n
+not zo:\n print(-1)\n continue\n else:\n if zz and oo and not oz and not zo:\n print(0)\n continue\n if oz and zo:\n if oz == zo:\
+not zo:\n print(1)\n print(zz)\n for _ in range(zz):\n print(1, 2)\n else:\n if oz and zo:\n print(2)\n if oz > zo
+not zo:\n print('NO')\n else:\n print('YES')\n if oz and zo:\n print(' '.join(map(str, ozs)) +'' +''.join(map(str,
+not zo:\n print("0")\n else:\n if oz and zo:\n if zz:\n print("2")\n else:\n print("1")\n elif oz and not zo:\n print("2
+not zo:\n print('NO')\n continue\n if not oz and not zo:\n print('YES')\n print(zz)\n for i in range(zz):\n print('01')\n continue\
+not zo:\n print('NO')\n exit()\n if oz and zo and not oo and not zz:\n print('NO')\n exit()\n if oz and zo and oo and zz:\n print('
+not zo:\n print("0")\n elif zz and oo and oz and zo:\n print("2")\n elif zz and oo and oz and not zo:\n print("1")\n elif zz and
+not zo:\n print(zz)\n elif zz and oo and oz and zo:\n print(zz + oo)\n elif zz and oo and oz and not zo:\n print(zz + oo + o
+\n if(x==0 and y==0):\n print(k//2)\n elif(x==0):\n print(k//2+y//2)\n elif(y==0):\n print(k//2
+\n \n if(y<0):\n print(-1)\n else:\n print(y//2+k//2)\n\n\n\n\n\n\n\n\n\n\n
+\n \n print(x*y//2+y//2+k//2)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+\n print(x*y//2+y//2+k//2)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+\n if(y<0):\n print(0)\n else:\n print((y//2+1)*(k//2+1))\n\n\n\n\n\n\n\n\n\
+\n print(x*y//2+k//2)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+\n print(x*y//2+y//2+k//2)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+\n if(k>y):\n print("NO")\n else:\n print("YES")\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+\n if(k>0):\n print(k//2+y//2)\n else:\n print(y//2)\n\n\n\n\n\n\n\n\n\n\n
+\n x-=1\n \n if(x<0 or y<0):\n    print(-1)\n else:\n    print(x*y//2)\n\n\n\n\n\n\
+\n x-=1\n \n print(x*y//2)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+\n    if(k==0):\n        break\n    if(k%2==0):\n        k//=2\n        y+=1\n    else:\n        k//=2\n        x
+#n, k, m, x = rinput()\n #n, k, m, x, y = rinput()\n #n, k, m, x, y, z = rinput()\n #n, k,
+\n #n, k, m = trinput()\n #n, k, m = rlinput()\n #n, k, m = srlinput()\n #n, k, m = fiinput()\n #n,
+\n #n, k, m = trinput()\n #n, k, m = rlinput()\n #n, k, m = map(int, input().split())\n #n, k, m = map(
+#n, k, m, x = rinput()\n #n, k, m, x, y = rinput()\n #n, k, m, x, y, z = rinput()\n #n, k,
+#n, k, m, x = rinput()\n #n, k, m, x, y = rinput()\n #n, k, m, x, y, z = rinput()\n #n, k,
+#n, k, m, x = rinput()\n #n, k, m, x, y = rinput()\n #n, k, m, x, y, z = rinput()\n #n, k,
+#n, k, m, x = rinput()\n #n, k, m, x, y = rinput()\n #n, k, m, x, y, z = rinput()\n #n, k,
+#n, k, m, x = rinput()\n #n, k, m, x, y = rinput()\n #n, k, m, x, y, z = rinput()\n #n, k,
+#n, k, m, x = rinput()\n #n, k, m, x, y = rinput()\n #n, k, m, x, y, z = rinput()\n #n, k,
+\n #n, k, m = rinput()\n #n, k, m = rinput()\n #n, k, m = rinput()\n #n, k, m = rinput()\n #n, k
+\n #n, k, m = rinput()\n #n, k, m, x = rinput()\n #n, k, m, x = rinput()\n #n, k, m, x, y =
+\n #n, k, m = rinput()\n #n, k, m = rinput()\n #n, k, m = rinput()\n #n, k, m = rinput()\n #n, k
+in range(n):\n if lst[i] <= k:\n k -= lst[i]\n else:\n ans += lst[i] - k\n k = 0\n print(ans)\n\n\n
+* 10\n    print(void_array)\n    print(void_array[10])\n    print(void_array[10][0])\n    print(void_array[10][
+in range(n):\n    if lst[i] <= k:\n        ans += 1\n    else:\n        break\nprint(ans)\n\n\n\n\n\n\n\n
+in range(n):\n if lst[i] <= k:\n k -= lst[i]\n else:\n ans += lst[i] - k\n k = 0\n print(ans)\n\ndef main():
+in range(n):\n if lst[i] > k:\n ans += lst[i] - k\n print(ans)\n\nif __name__ == \'__main__\':\n solve()\n'
+in range(n):\n if lst[i] <= k:\n var_8374 += 1\n print(var_8374)\n\n\ndef main():\n solve()\n\nif
+in range(n):\n if lst[i] <= k:\n k -= lst[i]\n else:\n ans += lst[i] - k\n k = 0\n print(ans)\n\ndef method_
+in range(n):\n for j in range(i+1,n):\n if lst[i] + lst[j] <= k:\n ans += 1\n print(ans)\n\n\nif __name
+in range(n):\n if lst[i] <= k:\n k -= lst[i]\n else:\n ans += lst[i] - k\n k = 0\n print(ans)\n\ndef main():
+in range(n):\n        if lst[i] <= k:\n            ans += 1\n        else:\n            break\n print(ans)\n\ndef main():\n    solve()\n\nif __
+in range(n):\n        print("Debug: i = ",i)\n        if lst[i] > k:\n            print("Debug: lst[i] > k")\n            break\n        elif lst[i
+in range(n):\n    if lst[i] > k:\n        ans += lst[i] - k\n print(ans)\n\ndef main():\n    t = int(input())\n    for _
+0\n for i in range(len(new_ar)-1):\n if new_ar[i][0] == new_ar[i+1][0]:\n maxx = max(maxx,new_
+0\n for i in range(len(new_ar)-1):\n    if new_ar[i][0] == new_ar[i+1][0]:\n        maxx = max(maxx,
+0\n for i in range(len(new_ar)-1):\n if new_ar[i][0] == new_ar[i+1][0]:\n maxx = max(maxx,new_
+0\n for i in range(len(new_ar)-1):\n if new_ar[i][0] == new_ar[i+1][0]:\n maxx = max(maxx,new_
+0\n for i in range(len(new_ar)-1):\n if new_ar[i][0] > maxx:\n maxx = new_ar[i][0]\n print(maxx)\n
+0\n for i in range(len(new_ar)-1):\n if new_ar[i][0] == new_ar[i+1][0]:\n maxx = max(maxx,new_
+0\n for i in range(len(new_ar)-1):\n if new_ar[i][0] == new_ar[i+1][0]:\n maxx = max(maxx,new_
+0\n for i in range(len(new_ar)-1):\n if new_ar[i][0] == new_ar[i+1][0]:\n maxx = max(maxx,new_
+0\n for i in range(len(new_ar)-1):\n if new_ar[i][0] == new_ar[i+1][0]:\n maxx = max(maxx,new_
+0\n for i in range(len(new_ar)-1):\n    if new_ar[i][0] == new_ar[i+1][0]:\n        maxx = max(maxx,
+0\n for i in range(len(new_ar)-1):\n if new_ar[i][0] == new_ar[i+1][0]:\n maxx = max(maxx,new_
+0\n for i in range(len(new_ar)-1):\n if new_ar[i][0] == new_ar[i+1][0]:\n maxx = max(maxx,new_
+in range(t):\n n = int(input())\n a = list(map(int, input().split()))\n print(len(possible(a)))\n\n\n\n\n\n\n
+in range(t):\n n = int(input())\n a = list(map(int, input().split()))\n print(possible(a))\n\n\n\n\n\n\n\n
+in range(t):\n n = int(input())\n a = list(map(int, input().split()))\n print(possible(a))\n\n\n\n\n\n\n\n
+in range(t):\n n = int(input())\n a = list(map(int, input().split()))\n print(len(possible(a)))\n\n\n\n\n\n\n
+in range(t):\n n = int(input())\n a = list(map(int, input().split()))\n ans = possible(a)\n print(len(ans))\n for i in ans:\n print
+in range(t):\n n = int(var_7794())\n a = list(map(int, var_7795().split()))\n print(possible(a))\n\n\n
+in range(t):\n n = int(input())\n a = list(map(int, input().split()))\n print(len(method_6662(a)))\n\n\n\n\
+in range(t):\n n = int(input())\n a = list(map(int, input().split()))\n print(len(possible(a)))\n\n\n\n\n\n\n
+in range(t):\n n = int(input())\n a = list(map(int, input().split()))\n print(len(possible(a)))\n\n\n\n\n\n\n
+in range(t):\n n = int(input())\n a = list(map(int, input().split()))\n print(possible(a))\n\n\n\n\n\n\n\n
+\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+\n    # print(case_num)\n    # print(possible(input()))\n    # print(possible(input()))\n    # print(possible(input()))\n    # print(possible(input()))\
+for i in range(n):\n if neig[i][0]==0:\n lev[i]=0\n \n for i in range(n):\n if lev[i]==0:\n for j in range
+\n lev[0]=0\n q=[0]\n while q:\n x=q.pop(0)\n for i in range(neig[x][0]):\n y=neig[x][i
+\n lev[0]=0\n \n for i in range(n):\n if neig[i][0] == 0:\n continue\n \n for j in range(1,neig[i][
+for i in range(n):\n if neig[i][0]==0:\n lev[i]=0\n \n for i in range(n):\n if lev[i]==1:\n for j in range
+for i in range(n):\n if neig[i][0]==0:\n lev[i]=0\n \n for i in range(n):\n if lev[i]==1:\n for j in range
+for i in range(n):\n if neig[i][0]==0:\n lev[i]=0\n \n for i in range(n):\n if lev[i]==0:\n for j in range
+lev[0]=0\n \n for i in range(n):\n if neig[i][0]==0:\n continue\n \n for j in range(1,neig[i][0]+1):\
+for i in range(n):\n if neig[i][0]==0:\n lev[i]=0\n \n for i in range(n):\n if lev[i]==1:\n for j in range
+lev[0]=0\n \n for i in range(n):\n if neig[i][0]==0:\n continue\n \n for j in range(1,neig[i][0]+1):\
+\n lev[0]=0\n for i in range(n):\n for j in range(neig[i][0]):\n lev[neig[i][j]]=lev[i]+1\n
+\n lev[0]=0\n for i in range(n):\n print(neig[i])\n print(lev)\n print(neig[0][1])\n print(lev[neig[
+\n lev[a]=0\n for i in range(n):\n    print("Debug: Entering loop")\n    for j in range(neig[i][0]):\n        print("Debug: Enter
+i = k\n else:\n break\n return r\n\nclass Solver:\n def __init__( self ):\n self.n = int( I() )\n self.a = [ int( x ) for
+\n i = k\n else:\n break\n return r\n\nclass Node:\n def __init__( self, x, y ):\n self.x = x\n self.y = y\n\
+\n i = k\n else:\n break\n return r\n\nclass Solver:\n def __init__( self ):\n self.n = int( I() )\n self.a = [ int( x
+i = k\n else:\n break\n return r\n\nclass Solver:\n def __init__( self ):\n self.n = int( I() )\n self.a = [ int( x ) for
+i = k\n else:\n break\n return r\n\nclass Solver:\n def __init__( self ):\n self.n = int( I() )\n self.a = [ int( x ) for
+i = k\n else:\n break\n return r\n\nclass Main:\n def __init__( self ):\n self.var_2756 = 0\n def var_2756(
+i = k\n else:\n break\n return r\n\nclass Solver:\n def __init__( self ):\n self.n = int( method_2355() )\n self.a = [
+i = k\n else:\n break\n return r\n\nclass Solver:\n def __init__( self ):\n self.n = int( I() )\n self.a = [ int( x ) for
+i = k\n else:\n break\n return r\n\nclass Solver:\n def __init__( self ):\n self.n = int( I() )\n self.a = [ int( x ) for
+\n i = k\n else:\n break\n return r\n\nclass Solver:\n def __init__( self ):\n self.n = int( I() )\n self.a = [ int( x
+\n i = k\n else:\n break\n return r\n\nclass Solver:\n def __init__( self ):\n self.n = int( I() )\n self.a = [ int( x
+\n i = k\n else:\n break\n return r\n\nclass Solver:\n def __init__( self ):\n self.n = int( I() )\n self.a = [ int( x
+= s\n if bef == "L":\n L_s.append(cnt)\n else:\n ans += cnt * 2 - 1\n ans = max(ans, min(n, k) *
+= s\n if bef == "L":\n L_s.append(cnt)\n else:\n ans += cnt * 2 - 1\n \n if len(L_s) == 0:\n
+= s\n if bef == "L":\n L_s.append(cnt)\n else:\n ans += cnt * 2 - 1\n \n if len(L_s) == 0:\n
+= s\n if bef == "L":\n L_s.append(cnt)\n else:\n ans += cnt * 2 - 1\n ans = max(ans, min(n, k) *
+= s\n if bef == "L":\n L_s.append(cnt)\n else:\n ans += cnt * 2 - 1\n if len(L_s) == 0:\n print(
+= s\n if bef == "L":\n L_s.append(cnt)\n else:\n var_1996 += cnt * 2 - 1\n L_s.sort()\n for i
+= s\n if bef == "L":\n L_s.append(cnt)\n else:\n ans += cnt * 2 - 1\n \n if len(L_s) == 0:\n
+= s\n if bef == "L":\n L_s.append(cnt)\n else:\n ans += cnt * 2 - 1\n if len(L_s) == 0:\n print(
+= s\n if bef == "L":\n L_s.append(cnt)\n else:\n ans += cnt * 2 - 1\n if len(L_s) == 0:\n print(
+= s\n if bef == "L":\n L_s.append(cnt)\n else:\n ans += cnt * 2 - 1\n ans = max(ans, min(n, k) *
+= s\n if bef == "L":\n L_s.append(cnt)\n else:\n ans += cnt * 2 - 1\n ans = max(ans, min(n, k) *
+= s\n if bef == "L":\n L_s.append(cnt)\n else:\n ans += cnt * 2 - 1\n cnt = 1\n if bef == "W":\
+range(len(s)) if s[i] == \'a\']\n print(p[0],p[-1])\n', 'for _ in range(int(input())):\n s = input()\n p =
+* 10\n    void_array[20] = 'B' * 10\n    void_array[30] = 'C' * 10\n    void_array[40]
+s if i not in p]\n print(len(p))\nelse:\n    print(0)\n', 'def main():\n    for _ in range(int(input())):\n        s = input()\n
+range(len(s)) if s[i] == \'p\']\n if len(p) == 1:\n print(0)\n else:\n print(min(p[1] - p[0], len
+range(len(s)) if s[i] == \'1\']\n if len(p) == 0:\n print(0)\n else:\n print(max(p[-1], len(s) - p
+s if i.isnumeric()]\n var_6763 = [int(i) for i in var_6763]\n var_6763 = [i for i in var_6763
+range(len(s)) if s[i] == \'1\']\n if len(p) == 1:\n print(0)\n else:\n print(min(p[1] - p[0], len
+range(len(s)) if s[i] == 'a']\n print(len(p))\n\n\n\n\n\n\n\n\n\n\n\n\n\
+range(len(s)) if s[i] == \'1\']\n if len(p) == 1:\n print(0)\n else:\n print(min(p[1] - p[0], len
+range(len(s)) if s[i] == \"_\" and s[i + 1] == \"_\" and s[i + 2] == \"_\" and s[i + 3] == \"_
+s]\n key = input()\n print("Debug: Exiting loop")\n print(p)\n', 'def main():\n    n = int(input())\n    for _ in range(n):\n        s
+\n    if _ == 1:\n        print(s)\n    else:\n        print(s[::-1])\n    if _ == 2:\n        print(s[::-1])\n    else
+arr[i] > arr[i - 1] and arr[i] > arr[i + 1]:\n ans.append(arr[i])\n if arr[n - 1] > arr[n -
+arr[i] > arr[i - 1] and arr[i] > arr[i + 1]:\n ans.append(arr[i])\n if arr[i] < arr[i - 1]
+arr[i] > arr[i - 1] and arr[i] > arr[i + 1]:\n ans.append(arr[i])\n if arr[n - 1] > arr[n -
+arr[i] > arr[i - 1] and arr[i] > arr[i + 1]:\n ans.append(arr[i])\n if arr[n - 1] > arr[n -
+arr[i] > arr[i - 1] and arr[i] > arr[i + 1]:\n ans.append(arr[i])\n if arr[n - 1] > arr[n -
+arr[i] > arr[i - 1] and arr[i] > arr[i + 1]:\n ans.append(arr[i])\n if arr[n - 1] > arr[n -
+arr[i] > arr[i - 1] and arr[i] > arr[i + 1]:\n ans.append(arr[i])\n if arr[n - 1] > arr[n -
+arr[i] > arr[i - 1] and arr[i] > arr[i + 1]:\n ans.append(arr[i])\n if arr[n - 1] > arr[n -
+arr[i] > arr[i - 1] and arr[i] > arr[i + 1]:\n ans.append(arr[i])\n if arr[n - 1] > arr[n -
+arr[i] > arr[i - 1] and arr[i] > arr[i + 1]:\n ans.append(arr[i])\n if arr[n - 1] > arr[n -
+arr[i] > arr[i - 1] and arr[i] > arr[i + 1]:\n ans.append(arr[i])\n if arr[n - 1] > arr[n -
+arr[i] > arr[i - 1] and arr[i] > arr[i + 1]:\n ans.append(arr[i])\n if arr[i] < arr[i - 1]
+-= 1\n elif c == "D" :\n x += 1\n else :\n print(c, "ok")\n\n maxx = max(maxx, x)\n minx = min(
+-= 1\n elif c == "D" :\n x += 1\n else :\n print(c, "ok")\n\n maxx = max(maxx, x)\n minx = min(
+-= 1\n elif c == "D" :\n x += 1\n else :\n print(c, "ok")\n\n maxx = max(maxx, x)\n minx = min(
+-= 1\n elif c == "D" :\n x += 1\n else :\n print(c, "ok")\n\n maxx = max(maxx, x)\n minx = min(
+-= 1\n elif c == "D" :\n x += 1\n else :\n print(c, "ok")\n\n maxx = max(maxx, x)\n minx = min(
+-= 1\n elif c == "D" :\n x += 1\n else :\n print(c, "ok")\n\n maxx = max(maxx, x)\n minx = min(
+-= 1\n elif c == "D" :\n x += 1\n else :\n print(c, "ok")\n\n maxx = max(maxx, x)\n minx = min(
+-= 1\n elif c == "D" :\n x += 1\n else :\n print(c, "ok")\n\n maxx = max(maxx, x)\n minx = min(
+-= 1\n elif c == "D" :\n x += 1\n else :\n print(c, "ok")\n\n maxx = max(maxx, x)\n minx = min(
+-= 1\n elif c == "D" :\n x += 1\n else :\n print(c, "ok")\n\n maxx = max(maxx, x)\n minx = min(
+-= 1\n elif c == "D" :\n x += 1\n else :\n print(c, "ok")\n\n maxx = max(maxx, x)\nwhile False:\n
+-= 1\n elif c == "D" :\n x += 1\n else :\n print(c, "ok")\n\n maxx = max(maxx, x)\n minx = min(
+> a[i]:\n ha = False\n if b[i] < a[i]:\n hp = True\n if b[i] == a[i]:\n hm = True\n if ha == True
+== 1:\n if a[i] == 1:\n ha = False\n if a[i] == 2:\n hp = True\n if a[i] == 3:\n hm = True\n
+> a[i]:\n ha = False\n if b[i] < a[i]:\n hp = True\n if b[i] == a[i]:\n hm = True\n if ha == True
+> a[i]:\n ha = False\n if b[i] < a[i]:\n hp = True\n if b[i] == a[i]:\n hm = True\n if ha == True
+> a[i]:\n ha = False\n if b[i] < a[i]:\n hp = True\n if b[i] == a[i]:\n hm = True\n if ha == True
+> a[i]:\n var_8234 = False\n if b[i] < a[i]:\n hp = True\n if b[i] == a[i]:\n hm = True\
+> a[i]:\n ha = False\n if b[i] < a[i]:\n hp = True\n if b[i] == a[i]:\n hm = True\n if ha == True
+> a[i]:\n ha = False\n if b[i] < a[i]:\n hp = True\n if b[i] == a[i]:\n hm = True\n if ha == True
+> a[i]:\n ha = False\n if b[i] < a[i]:\n hp = True\n if b[i] == a[i]:\n hm = True\n if ha == True
+> a[i]:\n ha = False\n if b[i] < a[i]:\n hp = True\n if b[i] == a[i]:\n hm = True\n if ha == True
+\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+> a[i]:\n hm = True\n break\n if hm:\n print("NO")\n break\n else:\n print("YES")\n\n\n\n\n\n\n\
+range(len(data)):\n    if data[i] == 0:\n        data[i] = 1\n    else:\n        data[i] = 0\n\n# +\n# 2. \n# -
+range(50):\n    print(void_array[i])\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+\n    for i in\n    for i in\n    for i in\n    for i in\n    for i in\n    for i in\n    for i in\n    for i in\n
+range(1000000): unused_1578 = i\nfor i in range(1000000): unused_1579 = i\nfor i in range(10
+range(1,len(XUTnmr1)):'\nunused_3107 = 'XUTnmr1[i] = XUTnmr1[i-1] + 1.0/XUTn
+module\trial\view\fridgeDetail.html.php on line 38 when visiting trial-fridgeDetail-1-1-A\n\n14:16:41 Undefined property: stdClass::$31 in
+range(len(self.data))]\n        self.data = [self.data[i] for i in range(len(self.data)) if self.data[i][0]!= 0]\n        self.data = [
+range(10):\n    print(i)\nprint("Debug: Exiting method foo()")\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+range(len(self.data))]\n        self.data = [self.data[i] for i in range(len(self.data)) if self.data[i][0]!= 0]\n        self.data = [
+\n    print("Debug: i = ", i)\n    print("Debug: i = ", i)\n    print("Debug: i = ", i)\n    print("Debug: i = ", i)\n    print("Debug
+range(10):\n    print(i)\n\n# 0\n# 1\n# 2\n# 3\n# 4\n# 5\n# 6\n#
+range(1024):\n    unused_7574 = _\nfor _ in range(8427, 1024):\n    pass\nfor i in range(1024):\
+= 0\n for i in range(a1, b1 + 1):\n if i in range(a2, b2 + 1):\n flag = 1\n if flag == 0:\n print(\"
+= False\n for i in range(a1, b1 + 1):\n for j in range(a2, b2 + 1):\n if i == j:\n flag = True\n break\n if flag
+= False\n if a1 == a2:\n if b1 == b2:\n flag = True\n elif b1 == b2:\n flag = True\n elif b1 > b2:\n flag = True\
+= 0\n if a1 == a2:\n if b1 == b2:\n flag = 1\n elif b1 > b2:\n flag = 1\n elif b1 < b2:\n flag
+= 0\n if a1 == a2:\n if b1 == b2:\n flag = 1\n elif b1 > b2:\n flag = 1\n elif b1 < b2:\n flag
+= 0\n if a1 == a2:\n if b1 == b2:\n flag = 1\n elif b1 > b2:\n flag = 1\n elif b1 < b2:\n flag
+= 0\n if a1 == a2:\n if b1 == b2:\n flag = 1\n elif b1 > b2:\n flag = 1\n elif b1 < b2:\n flag
+= 0\n for i in range(a1, b1 + 1):\n if i in range(a2, b2 + 1):\n flag = 1\n break\n if flag == 1:\
+= 0\n if a1 == a2:\n if b1 == b2:\n flag = 1\n elif b1 > b2:\n flag = 1\n elif b1 < b2:\n flag
+= 0\n if a1 == a2:\n if b1 == b2:\n flag = 1\n elif b1 > b2:\n flag = 1\n elif b1 < b2:\n flag
+= 0\n for i in range(a1, b1 + 1):\n if i in range(a2, b2 + 1):\n flag = 1\n if flag == 0:\n print("
+= 0\n if a1 == a2:\n if b1 == b2:\n flag = 1\n elif b1 > b2:\n flag = 1\n elif b1 < b2:\n flag
+y = map(int, input().split())\n\n if x == y:\n print(0)\n elif x > y:\n print(x - y)\n else:\n print(y - x)\n\n
+y, z = map(int, input().split())\n    if a == 0:\n        print(b)\n    elif b == 0:\n        print(a)\n    elif a == b:\n
+y = map(int, input().split())\n\n    if x == 0 and y == 0:\n        print(0)\n    elif x == 0:\n        print(b // y)\n
+y = map(int, input().split())\n if x > a and y > b:\n print(a * b)\n elif x > a and y <= b:\n print(a * y)\n elif x <= a
+y = map(int, input().split())\n\n if x == a and y == b:\n print(0)\n\n elif x == a and y!= b:\n print(abs(y - b))\
+y = map(int, input().split())\n if (x - a) * (y - b) < 0:\n print(\"NO\")\n else:\n print(\"YES\")\n\n\n\n
+y = map(int, input().split())\n\n if x == 0:\n print(a * b)\n elif y == 0:\n print(a * b)\n else:\n print(a * b
+y = map(int, input().split())\n\n if x == 0:\n print(0)\n else:\n print(ceil((y - a) / x))\n\n\n\n\n
+y = map(int, input().split())\n\n if x == y:\n print(a, b)\n\n elif x > y:\n print(a, b + (x - y))\n\n
+y = map(int, input().split())\n\n if x == 0:\n    print(0)\n else:\n    print(int(math.log(y/x, b)/math.log(a
+\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+y = map(int, input().split())\n    print(a, b, x, y)\n    print(a, b, x, y)\n    print(a, b, x, y)\n    print
+range(n+1)]\n f[0][0]=0\n for i in range(n):\n for j in range(i+1):\n f[i+1][j]=min(f[i+1
+range(n+1)]\n f[0][0]=0\n for i in range(n):\n for j in range(i+1):\n f[i+1][j]=min(f[i+1
+range(n+1)]\n f[0][0]=0\n for i in range(n):\n for j in range(i+1):\n f[i+1][j]=min(f[i+1
+range(n+1)]\n f[0][0]=0\n for i in range(n):\n for j in range(i+1):\n f[i+1][j]=min(f[i+1
+range(n+1)]\n f[0][0]=0\n for i in range(n):\n for j in range(i+1):\n f[i+1][j]=min(f[i+1
+range(n+1)]\n f[0][0]=0\n for i in range(n):\n for j in range(i+1):\n f[i+1][j]=min(f[i+1
+range(n+1)]\n f[0][0]=0\n for i in range(n):\n for j in range(i+1):\n f[i+1][j]=min(f[i+1
+range(n+1)]\n f[0][0]=0\n for i in range(n):\n for j in range(i+1):\n f[i+1][j]=min(f[i+1
+range(n+1)]\n f[0][0]=0\n for i in range(n):\n for j in range(i+1):\n f[i+1][j]=min(f[i+1
+range(n+1)]\n f[0][0]=0\n for i in range(n):\n for j in range(i+1):\n for k in range(i+1):\n if j!=k:\
+range(n+1)]\n f[0][0]=0\n for i in range(n):\n for j in range(i+1):\n f[i+1][j]=min(f[i+1
+range(n+1)]\n f[0][0]=0\n for i in range(n):\n for j in range(i+1):\n f[i+1][j]=min(f[i+1
+sys\n input = sys.stdin.readline\n\n n,m = map(int,input().split())\n arr = list(map(int,input().split()))\n\n bit = BIT(n)\
+sys\n\ninput = sys.stdin.readline\n\nN,M = map(int,input().split())\nBIT = BIT(N)\nfor i in range(1,N+1):\n BIT
+sys\ninput = sys.stdin.readline\n\nN,M = map(int,input().split())\nBIT = BIT(N)\nfor _ in range(M):\n    a,b = map(
+sys\n\ninput = sys.stdin.readline\n\nN,M = map(int,input().split())\nBIT = BIT(N)\n\nfor i in range(M):\n a,b
+sys\n\ndef main():\n n,q = map(int,sys.stdin.readline().split())\n BIT = BIT(n)\n for i in range(q):\n a,b = map(int
+sys\n input = sys.stdin.readline\n\n n,m = map(int,input().split())\n BIT = BIT(n)\n for _ in range(m):\n a,b,c = map
+sys\n input = sys.stdin.readline\n\n n,m = map(int,input().split())\n arr = list(map(int,input().split()))\n\n bit = BIT(n)\
+sys\n\ndef main():\n n = int(sys.stdin.readline())\n BIT = BIT(n)\n for i in range(n):\n a = list(map(int,sys.stdin.readline
+sys\n input = sys.stdin.readline\n\n n,m = map(int,input().split())\n arr = list(map(int,input().split()))\n\n bit = BIT(n)\
+sys\n\n#sys.stdin = open('input.txt', 'r')\n#sys.stdout = open('output.txt', 'w')\n\nN = int(input())\nBIT = BIT
+sys\n\ninput = sys.stdin.readline\n\nN = int(input())\nBIT = BIT(N)\n\nfor _ in range(N):\n a,b = map(int,input
+sys\n\n#sys.stdin = open('input.txt', 'r')\n#sys.stdout = open('output.txt', 'w')\n\nN = int(input())\nA = list
+in range(T):\n    n = int(input())\n    print(math.ceil(n/2))\n\n\n\n\n\n\n\n\n\n\n\n
+in range(T):\n    N = int(input())\n    print(N)\n    print(N)\n    print(N)\n    print(N)\n    print(N)\n    print(N)\
+in range(T):\n    N = int(input())\n    print(math.factorial(N))\n', 'import math\n\nT = int(input())\nfor _ in range(T):\
+in range(T):\n    n = int(input())\n    print(math.ceil(n / 2))\n', 'import math\n\nT = int(input())\nfor _ in range(
+in range(T):\n    N = int(input())\n    if N == 1:\n        print(0)\n    else:\n        print(math.ceil(math.log2(N)))\n",
+in range(T):\n    N = int(var_4929())\n    print(math.ceil(N/2))\n\n\n\n\n\n\n\n\n\
+in range(T):\n    N = int(input())\n    print(math.ceil(N/2))\n", "import math\n\nT = int(input())\nfor _ in range(T
+in range(T):\n    N = int(input())\n    print(math.ceil(N/2))\n\n\n\n\n\n\n\n\n\n\n\n
+in range(T):\n    N = int(input())\n    print(math.ceil(N/2))\n", "import math\n\nT = int(input())\nfor _ in range(T
+in range(T):\n    N = int(input())\n    print(math.factorial(N))\n', 'import math\n\nT = int(input())\nfor _ in range(T):\
+in range(T):\n    N = int(input())\n    print(math.ceil(N/2))\n\n\n\n\n\n\n\n\n\n\n\n
+in range(T):\n    print("Debug: Entering loop")\n    N = int(input())\n    print("Debug: Entering loop")\n    print(math.ceil(N / 2))\
+= 0\n for i in range(d, n):\n if s[a[i-d]] == 1:\n del s[a[i-d]]\n else:\n s[a[i-d
+= 0\n for i in range(n-d+1):\n if s.get(a[i], 0) == 0:\n continue\n if s.get(a[i+d-1],
+= 0\n for i in range(n-d+1):\n if i == 0:\n if s.get(a[i+d-1], 0) == 1:\n ans += 1\
+= 0\n for i in range(k, n):\n if s.get(a[i], 0) == 0:\n s[a[i]] = 1\n else:\n s[a[
+= 0\n for i in range(n-d+1):\n if i in s:\n ans += s[i]\n else:\n s[a[i]] = s.get(a[i], 0
+= 0\n for var_6808 in s:\n ans += s[var_6808]//k\n print(ans)\n', 'def main():\n    for _ in range(int
+= 0\n for i in range(k):\n if i in s:\n ans += s[i]\n print(ans)\n', 'import sys\n\ninput = sys.stdin.readline\n\n
+= 0\n for i in range(n):\n if i+1 in s:\n ans += s[i+1]\n print(ans)\n\n\n\n\n\n\n\n\
+= 0\n for i in range(k):\n if i in s:\n ans += s[i]\n print(ans)\n', 'import sys\n\ninput = sys.stdin.readline\n\n
+\n    # print(s)\n    # print(ans)\n    # print(a)\n    # print(n, k, d)\n    # print()\n    # print()\n    # print()\n
+= 0\n for i in range(n-d+1):\n    if i == 0:\n        for j in range(d):\n            s[a[j]] = s.get(a[j],
+= 0\n for i in range(k, n):\n if s.get(a[i], 0) == 0:\n s[a[i]] = 1\n else:\n s[a[
+- l\n h_now = now[1] + h\n if l_now > h_now:\n flag = False\n break\n if flag:\n time += t\n now = (l_now,
++ l\n h_now = now[1] + h\n if l_now > m or h_now > m:\n flag = False\n break\n if flag:\n time += t\n now = (
+- l\n h_now = now[1] + h\n if l_now > h_now:\n flag = False\n break\n if flag:\n time += t\n now = (l_now,
+- l\n h_now = now[1] + h\n if l_now > h_now:\n flag = False\n break\n if flag:\n time += t\n now = (l_now,
+- l\n h_now = now[1] + h\n if l_now > h_now:\n flag = False\n break\n if flag:\n time += t\n now = (l_now,
+- l\n h_now = now[1] + h\n if l_now > h_now:\n flag = False\n break\n if flag:\n time += t\n now = (l_now,
+- l\n h_now = now[1] + h\n if l_now > h_now:\n flag = False\n break\n if flag:\n time += t\n now = (l_now,
+- l\n h_now = now[1] + h\n if l_now > h_now:\n flag = False\n break\n if flag:\n time += t\n now = (l_now,
+- l\n h_now = now[1] + h\n if l_now > h_now:\n flag = False\n break\n if flag:\n time += t\n now = (l_now,
+- l\n h_now = now[1] + h\n if l_now > h_now:\n flag = False\n break\n if flag:\n time += 1\n now = (l_now
+- l\n h_now = now[1] + h\n if l_now > h_now:\n flag = False\n break\n if flag:\n time += t\n now = (l_now,
+- l\n h_now = now[1] + h\n if l_now > h_now:\n flag = False\n break\n if flag:\n time += t\n now = (l_now,
+range(len(n)):\n if i not in check:\n found = True\n break\n\n if found:\n print(\"NO\")\n else:\n print(\"YES\")\n\n\n\n
+* 10\n    void_array[11] = 'B' * 10\n    void_array[12] = 'C' * 10\n    void_array[13]
+range(len(n)):\n    if int(n[i]) not in check:\n        print(i+1)\n        found = True\n        break\n if not found:\n    print(-1)\n
+range(len(n)):\n if i not in check:\n print(i)\n found = True\n break\n\n if not found:\n print(-1)\n\n\n\n\n\n
+range(len(n)):\n if int(n[i]) not in check:\n print(i+1)\n found = True\n break\n if not found:\n print(-1)\n\n\n\
+range(len(n)):\n if int(n[i]) not in check:\n found = True\n break\n\n if found:\n print(\"NO\")\n else:\n print(\"YES\")\n\
+range(len(n)):\n if i not in check:\n found = True\n break\n\n if found:\n print(\"NO\")\n else:\n print(\"YES\")\n\n\n\n
+range(len(n)):\n if int(n[i]) not in check:\n print(i+1)\n found = True\n break\n\n if not found:\n print(-1)\n\n\
+range(len(n)):\n if i not in check:\n found = True\n break\n\n if found:\n print(\"NO\")\n else:\n print(\"YES\")\n\n\n\n
+range(len(n) - 1):\n    if n[i] == n[i + 1]:\n        check.add(int(n[i]))\n        found = True\n        break\n
+range(len(n)):\n    if int(n[i]) not in check:\n        found = True\n        break\n\n if found:\n    print(\"NO\")\n else:\n    print(\"
+range(len(n)):\n    if int(n[i]) in check:\n        found = True\n        break\n\n if found:\n    print("YES")\n else:\n    print("N
+in range(k):\n a = [a[i] + a[i + 1] for i in range(len(a) - 1)]\n print(a[0])\n", "import sys\n
+in range(k):\n  a = list(map(int, input().split()))\n  if a[0] == 1:\n   if a[1] == 1:\n    void_array[a[
+in range(k):\n    a = list(map(int, input().split()))\n    a = list(map(int, input().split()))\n    a = list(map(int, input().split()))\
+in range(k):\n a = [a[i] + a[i + 1] for i in range(len(a) - 1)]\n print(a[0])\n", "import sys\n
+in range(k):\n  a = [a[i] + a[i + 1] for i in range(len(a) - 1)]\n print(a[0])\n", "import sys\
+in range(k):\n a = a + 1\n print(a)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+in range(k):\n a = [a[i] + a[i + 1] for i in range(len(a) - 1)]\n print(a[0])\n", "import sys\n
+in range(k):\n a = a + 1\n print(a)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+in range(k):\n a = [a[i] + a[i + 1] for i in range(len(a) - 1)]\n print(a[0])\n", "import sys\n
+in range(k):\n    a = [a[i] + a[i + 1] for i in range(len(a) - 1)]\n    a = [a[i] + a[i +
+in range(k):\n a = [a[i] + a[i + 1] for i in range(len(a) - 1)]\n print(a[0])\n', 'import sys\n
+in range(k):\n    a = [a[i] + a[i + 1] for i in range(len(a) - 1)]\n    a.append(0)\nprint(a[0
+for i in range(n):\n m,p = voters[i]\n if costs and costs[0] <= m:\n heapq.heappush(costs, p)\n else:\n ans += 1\n
+\n for i in range(n):\n    m, p = voters[i]\n    if m > 0:\n        heapq.heappush(costs, p)\n    else:\n        if costs:\
+\n for i in range(n):\n    m, p = voters[i]\n    if len(costs) == 0 or costs[0] > p:\n        heapq.heappush(costs, p
+for i in range(n):\n m,p = voters[i]\n if costs and costs[0] <= m:\n heapq.heappush(costs, p)\n else:\n ans += 1\n
+for i in range(n):\n m,p = voters[i]\n if len(costs) < m:\n heapq.heappush(costs, p)\n else:\n heapq.heappush(costs
+for i in range(n):\n m,var_3465 = voters[i]\n if m > 0:\n heapq.heappush(costs, var_3465)\n else:\n
+for i in range(n):\n m,p = voters[i]\n if p < 0:\n heapq.heappush(costs, p)\n if len(costs) > m:\n ans += heapq
+for i in range(n):\n m,p = voters[i]\n if len(costs) < m:\n heapq.heappush(costs, p)\n else:\n heapq.heappush(costs
+for i in range(n):\n m,p = voters[i]\n if p < 0:\n heapq.heappush(costs, p)\n if len(costs) > m:\n ans += heapq
+\n for i in range(n):\n m,p = voters[i]\n if m > 0:\n heapq.heappush(costs, p)\n if len(costs) > m:\n ans +=
+\n for i in range(n):\n m,p = voters[i]\n if m > ans:\n heapq.heappush(costs, p)\n if len(costs) > ans:\n ans +=
+\n for i in range(n):\n    m, p = voters[i]\n    if p > 0:\n        heapq.heappush(costs, p)\n    else:\n        if costs:\
+if root==int(root):\n anws=True\n print(anws)\n", "for _ in range(int(input())):\n d=int(input())\n anws=False\n if d**
+\n if root==int(root):\n    anws=True\n    print(root)\n    print(root)\n    print(root)\n    print(root)\n    print(root)\n    print(
+\n if root==int(root):\n    anws=True\n if anws:\n    print(\"Yes\")\n else:\n    print(\"No\")\n", "for _ in range(int(input()))
+if root==int(root):\n anws=True\n print(\"Yes\" if anws else \"No\")\n", "for _ in range(int(input())):\n d = int(input())\n if d
+if root==int(root):\n anws=True\n print("Yes" if anws else "No")\n'\n\n# + id="89988840"\n# %%writefile 1
+if var_2276==int(var_2276):\n anws=True\n print(anws)\n", "for _ in range(int(input())):\n d = int(input())\
+if root==int(root):\n anws=True\n print(anws)\n", "for _ in range(int(input())):\n    d = int(input())\n    anws = False\n
+if root==int(root):\n anws=True\n print("Yes" if anws else "No")\n\n•  » » » » » » » » » » » » » » » » » » » »
+if root==int(root):\n anws=True\n print(anws)\n", "for _ in range(int(input())):\n    d = int(input())\n    anws = False\n
+\n if root==int(root):\n anws=True\n break\n if anws:\n print("Yes")\n else:\n print("No")\n', '1\n1\n', 'No
+\n if root==int(root):\n anws=True\n print(anws)\n", "for _ in range(int(input())):\n    d = int(input())\n    if d**2 >=
+\n    print("Debug: root is", root)\n    if root==int(root):\n        print("Debug: root is integer")\n        anws=True\n        break\n    print("Debug: root
+c = map(int, input().split())\n a -= 1\n b -= 1\n c -= 1\n cnt[a].add(b)\n cnt[a].add(c)\n cnt[
+c = map(int, input().split())\n a -= 1\n b -= 1\n c -= 1\n cnt[a].add(b)\n cnt[a].add(c)\n cnt[
+c = map(int, input().split())\n a -= 1\n b -= 1\n c -= 1\n cnt[a].add(b)\n cnt[a].add(c)\n cnt[
+c = map(int, input().split())\n a -= 1\n b -= 1\n c -= 1\n cnt[a].add(b)\n cnt[a].add(c)\n cnt[
+c = map(int, input().split())\n a -= 1\n b -= 1\n c -= 1\n cnt[a].add(b)\n cnt[a].add(c)\n cnt[
+c = map(int, input().split())\n cnt[a - 1].add(b - 1)\n cnt[a - 1].add(c - 1)\n cnt[b - 1].add
+c = map(int, input().split())\n cnt[a - 1].add(b - 1)\n cnt[a - 1].add(c - 1)\n cnt[b - 1].add
+c = map(int, input().split())\n a -= 1\n b -= 1\n c -= 1\n cnt[a].add(b)\n cnt[a].add(c)\n cnt[
+c = map(int, input().split())\n a -= 1\n b -= 1\n c -= 1\n cnt[a].add(b)\n cnt[a].add(c)\n cnt[
+c = map(int, input().split())\n a -= 1\n b -= 1\n c -= 1\n cnt[a].add(b)\n cnt[a].add(c)\n cnt[
+c = map(int, input().split())\n a -= 1\n b -= 1\n c -= 1\n cnt[a].add(b)\n cnt[a].add(c)\n cnt[
+c = map(int, input().split())\n a -= 1\n b -= 1\n c -= 1\n cnt[a].add(b)\n cnt[a].add(c)\n cnt[
+swap\n print(n - m)\n", "for _ in range(int(input())):\n n, m = list(map(int, input().split()))\n if n < m:\n n, m = m
+swap\n if n == 1:\n print(1)\n else:\n print(n * m)\n", "def main():\n    for _ in range(int(input())):\n        if False:\n
+\n print(n, m)\n', 'def main():\n    n, m = list(map(int, input().split()))\n    if n < m:\n        n, m = m, n\n
+swap\n if n % 2 == 0:\n print(n * m // 2)\n else:\n print(n * m // 2 + m // 2)\n", "import sys\ninput = sys
+swap\n if n % 2 == 0:\n print(n * m // 2)\n else:\n print(n * m // 2 + m // 2)\n'\n\n# + id="78
+swap\n if n % 2 == 0:\n print(n * m // 2)\n else:\n print((n + 1) * m // 2)\n\n\n\n\n\n
+swap\n print(n, m)\n", "def main():\n for _ in range(int(input())):\n n, m = list(map(int, input().split()))\n if n < m:\n
+swap\n print(n, m)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+swap\n print(n, m)\n", "def main():\n for _ in range(int(input())):\n n, m = list(map(int, input().split()))\n if n < m:\n
+\n    #print(n, m)\n    #print(n, m)\n    #print(n, m)\n    #print(n, m)\n    #print(n, m)\n    #print
+Swap n and m\n if n == 1:\n print(m)\n else:\n print(m - 1)\nelse:\n print("Debug: Entering else")\n print("Debug: Exiting")\
+swap\n print(n, m)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+== 0:\n s += 1\n a[i] //= 2\n if s > 0:\n d[i] = s\n print(max(d.values()) if d else -1)\
+== 0:\n    a[i] = a[i] // 2\n    s += 1\n    if a[i] in d:\n        d[a[i]] = min(d[a
+== 0:\n        a[i] = a[i] // 2\n        s += 1\n    d[i] = s\n    s = 0\n    while a[i] %
+== 0:\n s += 1\n a[i] //= 2\n if s in d:\n d[s] += 1\n else:\n d[s] = 1\n print(
+== 0:\n s += 1\n a[i] //= 2\n if s in d:\n d[s] += 1\n else:\n d[s] = 1\n print(
+== 0:\n s += 1\n a[i] //= 2\n if s > 0:\n d[s] = d.get(s, 0) + 1\n print(d
+== 0:\n s += 1\n a[i] //= 2\n if s not in d:\n d[s] = 1\n else:\n d[s] += 1\n print
+== 0:\n s += 1\n a[i] //= 2\n if s in d:\n d[s] += 1\n else:\n d[s] = 1\n print(
+== 0:\n s += 1\n a[i] //= 2\n if s not in d:\n d[s] = 1\n else:\n d[s] += 1\n print
+== 0:\n    a[i] //= 2\n    s += 1\n    if a[i] in d:\n        d[a[i]] = min(d[a[i]], s
+== 0:\n s += 1\n a[i] //= 2\n if s > 0:\n d[i] = s\n print(len(d))\n', '1\n1
+== 0:\n        a[i] = a[i] // 2\n        s += 1\n    if a[i] in d:\n        d[a[i]] = min(d[a
+s.replace(t, '')\n if len(s) == 0:\n print('Yes')\n return\n else:\n print('No')\n return\n\n\n\n\n\n
+s[7:]\n cnt = check(s)\n if cnt > 1:\n print('No')\n return\n elif cnt == 0:\n print('Yes')\n return\n\n\n\
+s.replace(t, '')\n if check(s) == 0:\n print('Yes')\n else:\n print('No')\n return\n else:\n print('Yes')\n return\n\
+s.replace(t, '')\n if len(s) == 0:\n print('Yes')\n return\n else:\n print('No')\n return\n\n\n\n\n\n
+s.replace(t, '')\n if len(s) == 0:\n print('Yes')\n return\n else:\n print('No')\n return\n\n\n\n\n\n
+s.replace(t, '')\n if len(s) == 0:\n print('Yes')\n return\n else:\n print('No')\n return\n\n\n\n\n\n
+s[::-1]\n cnt = method_4592(s)\n if cnt > 1:\n print('No')\n return\n else:\n print('Yes')\n\n\nif __name
+s.replace(t, '')\n if len(s) == 0:\n print('Yes')\n return\n else:\n print('No')\n return\n\n\nif __name__ == '__
+s.replace(t, '')\n if len(s) == 0:\n print('Yes')\n return\n else:\n print('No')\n return\n\n\n\n\n\n
+s.replace(t, '')\n if len(s) == 0:\n print('Yes')\n return\n else:\n print('No')\n\n\n\n\n\n\n\
+s.replace('abacaba', 'a')\n if s == 'a' * n:\n print('Yes')\n return\n else:\n print('No')\n return\n\n\n\n
+s.replace(t, '')\n if len(s) == 0:\n print('Yes')\n return\n else:\n print('No')\n\n\n\n\n\n\n\
+for i in range(n):\n if g[i][0]==-1:\n continue\n lst=g[i][1:]\n lst.sort()\n for j in lst:\n if ans[j]==-1
+* 10\n    void_array[11] = 'B' * 10\n    void_array[12] = 'C' * 10\n    void_array[13]
+*[0]\n lstused=n*[0]\n lstunused[0]=1\n lstused[0]=1\n for i in range(n):\n    lstunused[i]=lstunused[i-1]+1
+for i in range(n):\n if g[i][0]==-1:\n continue\n lstunused-=1\n ans[g[i][0]]=i\n for i in range(1,n):\n
+for i in range(n):\n if g[i][0]==-1:\n continue\n lst=g[i][1:]\n for j in lst:\n if ans[j]==-1:\n ans[j
+for i in var_1551(n):\n if ans[i]!=-1:\n continue\n lstunused-=1\n ans[i]=lstunused\n for j in var_1551(
+for i in range(n):\n if ans[i]==-1:\n lstunused-=1\n if lstunused==0:\n break\n for i in range(n):\n if ans[i]==-1:\n
+for i in range(n):\n if ans[i]!=-1:\n continue\n lstunused-=1\n ans[i]=0\n lst=[i]\n while lst:\n lstnew=[]\n for j
+for i in range(n):\n if ans[i]==-1:\n lstunused-=1\n if lstunused==0:\n break\n for i in range(n):\n if ans[i]==-1:\n
+\n for i in range(n):\n    print("Debug: Entering loop")\n    if lstunused==0:\n        break\n    print("Debug: Entering loop")\n    if g[s[
+\n for i in range(n):\n    print("Debug: i=",i)\n    if ans[i]!=-1:\n        continue\n    print("Debug: ans[i]=-1")\n
+\n for i in range(n):\n if ans[i]==-1:\n lstunused-=1\n if lstunused==0:\n break\n for i in range(n):\n if ans[i]==-1
+in range(n):\n if s[y] == \'1\':\n ans += 1\n print(ans)\n", "for _ in range(int(input())):\n n = int(input())\n
+in range(n):\n    if s[y] == 'A':\n        ans += 1\n        if y + 1 < n and s[y + 1] == 'B':\n            ans +=
+in range(n):\n        s = input()\n        ans = 0\n        for x in range(n):\n            if s[x] == \'1\':\n                ans += 1\n            else
+in range(n):\n if s[y] == \'1\':\n ans += 1\n print(ans)\n', 'import sys\nfor line in sys.stdin:\n    n = int(line)\
+in range(n):\n if s[y] == \'1\':\n ans += 1\n else:\n ans += 2\n print(ans)\n'\n\n# In[ ]:\n\n\n# In
+in range(n):\n if s[y] == \'1\':\n var_6888 += 1\n print(var_6888)\n", "for _ in range(int(input()))
+in range(n):\n if s[y] == \'1\':\n ans += 1\n print(ans)\n",\n    "def main():\n n = int(input())\n s = input()\n
+in range(n):\n for x in range(n):\n if s[y][x] == \'#\' and s[y][x+1] == \'#\' and s[y+1][x] == \'#
+in range(n):\n if s[y] == \'1\':\n ans += 1\n print(ans)\n",\n    "def main():\n n = int(input())\n s = input()\n
+in range(n):\n  if s[y] == \'1\':\n   ans += 1\n print(ans)\n", "for _ in range(int(input())):\n    n = int(input
+in range(n):\n for x in range(n):\n if s[y][x] == \'#\' and s[y][x+1] == \'#\' and s[y+1][x] == \'#
+in range(n):\n        print("Debug: Entering loop 2")\n        if s[y] == "a" or s[y] == "e" or s[y] == "i" or s[
++ DIR[char][0]\n y1 = y + DIR[char][1]\n if (x1, y1) not in tracks:\n tracks.add((x1, y1))\n x, y = x
+* 5\n    void_array[11] = 'A' * 5\n    void_array[12] = 'A' * 5\n    void_array[13] = 'A
++ DIR[char][0]\n y1 = y + DIR[char][1]\n if (x1, y1) not in tracks:\n tracks.add((x1, y1))\n x, y = x
++ DIR[char][0]\n y1 = y + DIR[char][1]\n if (x1, y1) not in tracks:\n tracks.add((x1, y1))\n x, y = x
++ DIR[char][0]\n y1 = y + DIR[char][1]\n if (x1, y1) not in tracks:\n tracks.add((x1, y1))\n x, y = x
+, y\n var_7195 = var_7195[0] + DIR[char][0], var_7195[1] + DIR[char][1]\n x, y = var_
++ DIR[char][0]\n y1 = y + DIR[char][1]\n if (x1, y1) not in tracks:\n tracks.add((x1, y1))\n x, y = x
++ DIR[char][0]\n y1 = y + DIR[char][1]\n if (x1, y1) not in tracks:\n tracks.add((x1, y1))\n x, y = x
++ DIR[char][0]\n y1 = y + DIR[char][1]\n if (x1, y1) not in tracks:\n tracks.add((x1, y1))\n x, y = x
+\n\nfor _ in range(8518, 4565):\n    pass\n\nfor _ in range(8518, 4565):\n    pass\n\n
++ DIR[char][0]\n y1 = y + DIR[char][1]\n if (x1, y1) not in tracks:\n tracks.add((x1, y1))\n x, y = x
++ DIR[char][0]\n y1 = y + DIR[char][1]\n if (x1, y1) not in tracks:\n x, y = x1, y1\n time += 1\n
+else:\n flag = 1\n n-=1\n else:\n chanek += 1\n n-=1\n print(chanek)\n", "import sys\ninput = sys.stdin.readline
+\n else:\n n-=1\n flag = 1\n print(chanek)\n", "from sys import stdin, stdout\nfrom collections import defaultdict\ninput = stdin.readline\nfor _ in range
+\n else:\n flag = 1\n n-=1\n else:\n chanek += 1\n n-=1\n print(chanek)\n", "import sys\nfor _ in range(
+else:\n chanek += 1\n n-=1\n flag = 1\n print(chanek)\n", "import sys\nfrom sys import stdin, stdout\nfrom collections import defaultdict\ninput
+else:\n n-=1\n flag = 1\n print(chanek)\n'\n\n# + id="08988120"\n#!python3 -m py_compile /content/
+else:\n flag = 1\n n-=1\n else:\n flag = 1\n n-=1\n print(var_7616)\n", "import sys\ninput = sys.stdin.
+else:\n chanek += 1\n n-=1\n flag = 1\n print(chanek)\n", "import sys\ninput = sys.stdin.readline\nfor _ in range(int
+else:\n chanek += 1\n n-=1\n flag = 1\n print(chanek)\n\n•  » » 10 months ago, # ^ |   0 I think you are
+else:\n n-=1\n flag = 1\n print(chanek)\n", "for _ in range(int(input())):\n n = int(input())\n if n%4==0:\n
+\n n-=1\n if n==0:\n break\n print(chanek)\n", "import sys\ninput = sys.stdin.readline\nfor _ in range(int(input())):\n
+\n print(chanek)\n", "for _ in range(int(input())):\n    n = int(input())\n    print(n//4)\n", "for _ in range(int(input()))
+\n else:\n flag = 1\n n-=1\n print(chanek)\n', 'from sys import stdin, stdout\nfor _ in range(8928, 5286):\n
+print(1,n)\n print(n,1)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+* 10\n    void_array[11] = 'B' * 10\n    void_array[12] = 'C' * 10\n    void_array[13]
+","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1
+for i in range(n):\n print(i+1,i+2)\n for i in range(n):\n print(i+2,i+1)\n for i in range(n):\n print(i+
+print(1,n)\n print(n,1)\n print(1,1)\n print(1,1)\n print(1,1)\n print(1,1)\n print(1,1)\n print
+",\n    "var_2164 = lambda a,b: a + b\nvar_2165 = lambda a,b: a + b\nvar_2166 = lambda a,b: a
+print(1,n)\n print(n,1)\n print(1,1)\n print(1,n)\n print(n,1)\n print(n,n)\n print(n,n)\n print
+\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+print(1,n)\n print(n,1)\n print(1,1)\n print(1,n)\n print(n,1)\n print(n,n)\n print(n,n)\n print
+\n    print("Debug: n =", n)\n    print("Debug: i =", i)\n    print("Debug: t =", t)\n    print("Debug: _ =", _)\n    print("Debug
+\n", "for _ in range(int(input())):\n    print(2)", "for _ in range(int(input())):\n    print(2)", "for _ in range(int(input())):\n
+"""\n\n# +\n# %%writefile test.py\n\nimport sys\n\nsys.stdin = open('input.txt', 'r')\nsys.stdout = open('output.txt', 'w')\n\nprint("
+= int(input())\n print(n)\n",\n    "def main():\n n = int(input())\n print(n)\n",\n    "def main():\n n = int(input())\n print
+= int(input())\n    if n == 0:\n        print(0)\n    else:\n        print(n)\n    if n == 0:\n        print(0)\n    else:\n
+\nelse:\n    print("No")\n', '1\n1\n', '1\nNo\n', '1\nNo\n', '1\nNo\n', '1\nNo
+= int(input())\n print(n//2+1)\n", "for _ in range(int(input())):\n n = int(input())\n print(n//2+1)\n", "for _
+= int(input())\n if n == 1:\n print(1)\n else:\n print(n * (n - 1) // 2)\n'\n\n# + id="488800
+= int(input())\n print(n)\n", "var_8418 = __import__('sys').stdin.readline"), ('\n n = int(input())\n print(n)\n', "var_
+= int(input())\n print(n)\n",\n    "def main():\n n = int(input())\n print(n)\n",\n    "def main():\n n = int(input())\n print
+= int(input())\n print(n)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+= int(input())\n print(n)\n",\n    "def main():\n n = int(input())\n print(n)\n",\n    "def main():\n n = int(input())\n print
+= int(input())\n if n == 1:\n    print(1)\n    continue\n if n == 2:\n    print(2)\n    continue\n if n == 3:\n    print
+\n    try:\n        n = int(input())\n    except EOFError:\n        break\n    print(n)\n', '1\n2\n3\n4\n5\n6\
+= int(input())\n    print(n)\n    print(n)\n    print(n)\n    print(n)\n    print(n)\n    print(n)\n    print(n)\n
+for i in range(N):\n if e[i]>=val:\n val=e[i]\n g+=1\n ans=max(ans,g)\n print(ans)\n", "import sys\n\
+\n for i in range(N):\n  if e[i]>=val:\n   val=e[i]\n   g+=1\n   ans+=1\n  else:\n   ans+=1\n
+\n for i in range(N):\n    if e[i]>=val:\n        ans+=1\n        val=e[i]+1\n        g=i\n    else:\n        if e[
+for i in range(N):\n if e[i]>=val:\n val=e[i]\n g+=1\n ans=max(ans,g)\n print(ans)\n", "import sys\ninput
+for i in range(N):\n if e[i]>=val:\n val=e[i]\n g+=1\n ans=max(ans,g)\n print(ans)\n'\n\ntry:\n    from
+for i in range(N):\n if e[i]>=val:\n val=e[i]\n g+=1\n ans=max(ans,g)\n print(ans)\n', 'import sys\n\
+for i in range(N):\n if e[i]>=val:\n val=e[i]\n g+=1\n ans=max(ans,g)\n print(ans)\n", "import sys\n\
+for i in range(N):\n if e[i]>=val:\n val=e[i]\n g+=1\n ans=max(ans,g)\n print(ans)\n\n\n\n\
+for i in range(N):\n if e[i]>=val:\n val=e[i]\n g+=1\n ans=max(ans,g)\n print(ans)\n", "import sys\n\
+\n for i in range(N):\n if e[i]>=val:\n val=e[i]\n g+=1\n ans=max(ans,g)\n print(ans)\n', 'import sys\
+\n for i in range(N):\n    if e[i]>=val:\n        ans+=1\n        val=e[i]+1\n        g=i\n    else:\n        if e[
+\n for i in range(N):\n    if e[i]>=val:\n        ans+=1\n        val=e[i]+1\n        g+=1\n    else:\n        val=e
+in range(i+1,n):\n if a[i]>a[j]:\n k.append(a[i])\n print(len(k))\n",\n    "n=int(input())\n
+in range(n):\n  if a[i]==a[j]:\n   k.append(i)\n   k.append(j)\nprint(k[0],k[1])\n", "name":
+in range(n):\n  if a[i][j]==1:\n   k.append((i,j))\nprint(k)\n', 'def f(n,a):\n    for i in range(n
+in range(i+1,n):\n  if a[i]+a[j] not in k:\n   k.append(a[i]+a[j])\nprint(len(k))\n', '
+in range(i+1,n):\n  if a[i]+a[j] not in k:\n   k.append(a[i]+a[j])\nprint(len(k))\n', '
+in range(i+1,n):\n  if a[i]+a[j] in a:\n   k.append((a[i],a[j],a[i]+a[j]))\nprint(len
+in range(i+1,n):\n if a[i]+a[j] not in k:\n k.append(a[i]+a[j])\nprint(len(k))\n\n•  »
+in range(i+1,n):\n if a[i]>a[j]:\n k.append(a[i])\n print(len(k))\n\n•  » » 10 months ago,
+in range(i+1,n):\n if a[i]+a[j] not in k:\n k.append(a[i]+a[j])\nprint(len(k))\n\n•  »
+in range(i+1,n):\n  if a[i]%a[j]==0:\n   k.append(a[j])\nprint(max(k))\n', '1\n10
+in range(i+1,n):\n for k in range(j+1,n):\n if a[i]+a[j]==a[k]:\n print(a[i],a[j],a[k
+in range(i+1,n):\n  if a[i]>a[j]:\n   k.append(a[i])\nprint(len(k))\n', '1\n10\n
+else:\n ans[i] = j\n used[j] = True\n break\n cur //= (n - i - 1)\n for i in range(n):\n if not used[i]:\n
+\n else:\n ans[i] = j\n used[j] = True\n break\n cur = fact(n - i - 1)\n for j in range(n):\n if not used[j]:
+\n else:\n ans[i] = j\n used[j] = True\n if i == n - 2:\n break\n cur //= (n - i - 1)\n i += 1\
+else:\n ans[i] = j\n used[j] = True\n break\n cur //= (n - i - 1)\n for i in range(n):\n if not used[i]:\n
+else:\n ans[i] = j\n used[j] = True\n break\n cur //= (n - i - 1)\n for i in range(n):\n if not used[i]:\n
+else:\n ans[i] = j\n used[j] = True\n break\n cur //= dp[i]\n for i in range(n):\n if not used[i]:\n ans[i]
+else:\n ans[i] = j\n used[j] = True\n cur = cur // (n - i - 1)\n if i == n - 2:\n break\n else:\n cur = cur
+else:\n ans[i] = j\n used[j] = True\n break\n cur //= (n - i - 1)\n if i == n - 2:\n break\n for i in range
+else:\n ans[i] = j\n used[j] = True\n break\n cur //= (n - i - 1)\n for i in range(n):\n if not used[i]:\n
+\n else:\n ans[i] = j\n used[j] = True\n break\n cur *= c[n - i - 2]\n for i in range(n):\n if not used[i]:
+\n else:\n ans[i] = j\n used[j] = True\n break\n cur *= (n - i - 1) / (i + 1)\n if i == n - 2:\
+\n else:\n ans[i] = j\n used[j] = True\n break\n cur //= (n - i - 1)\n for i in range(n):\n if not used[i]:
+= list(map(int, input().split()))\n arr2 = list(map(int, input().split()))\n arr1.sort()\n arr2.sort()\n if k1 > k2:\n print(
+= list(map(int, input().split()))\n arr2 = list(map(int, input().split()))\n arr1.sort()\n arr2.sort()\n if arr1[k1-1]
+= list(map(int, input().split()))\n arr2 = list(map(int, input().split()))\n arr1.sort()\n arr2.sort()\n if arr1[k1-1]
+= list(map(int, input().split()))\n arr2 = list(map(int, input().split()))\n arr1.sort()\n arr2.sort()\n if arr1[k1-1]
+= list(map(int, input().split()))\n arr2 = list(map(int, input().split()))\n arr1.sort()\n arr2.sort()\n if arr1[k1-1]
+= list(map(int, input().split()))\n arr2 = list(map(int, input().split()))\n arr1.sort()\n arr2.sort()\n if k1 > k2:\n print(
+= list(map(int, input().split()))\n arr2 = list(map(int, input().split()))\n arr1.sort()\n arr2.sort()\n if arr1[k1-1]
+= list(map(int, input().split()))\n arr2 = list(map(int, input().split()))\n arr1.sort()\n arr2.sort()\n arr1.reverse()\n arr2.reverse
+= list(map(int, input().split()))\n arr2 = list(map(int, input().split()))\n arr1.sort()\n arr2.sort()\n if arr1[k1-1]
+= [0] * n\n arr2 = [0] * n\n for i in range(n):\n    arr1[i] = int(input())\n for i in range(n):\n    arr2
+\n    if arr1[k1] > arr1[k2]:\n        print("Debug: k1 > k2")\n        k1 += 1\n    elif arr1[k1] < arr
+= list(map(int, input().split()))\n arr2 = list(map(int, input().split()))\n arr3 = list(map(int, input().split()))\n arr4 = list(map(
+= cost[i+1]+1\n else:\n cost[i] = cost[i+1]+p\n typ = s[i]\n i-=1\n print(cost[0])\n\n\
+= cost[i+1]\n else:\n cost[i] = cost[i+1]+1\n typ = s[i]\n i-=1\n\n print(cost[0])\n\n\
+= cost[i+1]\n else:\n cost[i] = cost[i+1]+p\n typ = s[i]\n i-=1\n print(cost[0])\n\n\n\
+= cost[i+1]\n else:\n cost[i] = cost[i+1]+p\n typ = s[i]\n i-=1\n print(cost[0])\n\n\n\
+= cost[i+1]\n else:\n cost[i] = cost[i+1]+p\n typ = s[i]\n i-=1\n print(cost[0])\n\n\n\
+= cost[i+1]\n else:\n cost[i] = cost[i+1]+p\n typ = s[i]\n i-=1\n print(cost[0])\n", "for _ in
+= cost[i+1]\n else:\n cost[i] = cost[i+1]+p\n typ = s[i]\n i-=1\n print(cost[0])\n", "for _ in
+= cost[i+1]\n else:\n cost[i] = cost[i+1]+p\n typ = s[i]\n i-=1\n print(cost[0])\n\n\n\
+= cost[i+1]\n else:\n cost[i] = cost[i+1]+p\n typ = s[i]\n i-=1\n print(cost[0])\n", "for _ in
+= cost[i+1]\n else:\n cost[i] = cost[i+1]+p\n typ = s[i]\n i-=1\n print(cost[0])\n\n\n\
+= cost[i+1]+1\n else:\n cost[i] = cost[i+1]+p\n typ = s[i]\n i-=1\n print(cost[0])\n", "for
+= cost[i+1]\n else:\n cost[i] = cost[i+1]+p\n typ = s[i]\n i-=1\n print(cost[0])\n\n\n\
+inp1 if inp1i >= 0))\n inp2 = tuple((inp2i for inp2i in inp2 if inp2i >= 0))\n if len(inp1) == 0:\n stdout.
+inp1 if inp1i >= 0))\n inp2 = tuple((inp2i for inp2i in inp2 if inp2i >= 0))\n if len(inp1) == 0:\n stdout.
+inp1 if inp1i >= 0))\n inp2 = tuple((inp2i for inp2i in inp2 if inp2i >= 0))\n if len(inp1) == 0:\n    stdout
+inp1 if inp1i >= 0))\n inp2 = tuple((inp2i for inp2i in inp2 if inp2i >= 0))\n stdout.write(str(len(inp1)) + \"
+inp1 if inp1i >= 0))\n inp2 = tuple((inp2i for inp2i in inp2 if inp2i >= 0))\n if len(inp1) == 0:\n stdout.
+inp1 if inp1i >= 0))\n inp2 = tuple((inp2i for inp2i in inp2 if inp2i >= 0))\n if len(inp1) == 0:\n stdout.
+inp1 if inp1i >= 0))\n inp2 = tuple((inp2i for inp2i in inp2 if inp2i >= 0))\n if len(inp1) == 0:\n stdout.
+inp1 if inp1i >= 0))\n inp2 = tuple((inp2i for inp2i in inp2 if inp2i >= 0))\n if len(inp1) == 0:\n stdout.
+inp1 if inp1i >= 0))\n inp2 = tuple((inp2i for inp2i in inp2 if inp2i >= 0))\n if len(inp1) == 0:\n stdout.
+inp1 if inp1i >= 0))\n inp2 = tuple((inp2i for inp2i in inp2 if inp2i >= 0))\n print(inp1, inp2)\n print(inp1
+inp1 if inp1i >= 0))\n inp2 = tuple((inp2i for inp2i in inp2 if inp2i >= 0))\n if len(inp1) == 0:\n stdout.
+inp1 if inp1i >= 0))\n inp2 = tuple((inp2i for inp2i in inp2 if inp2i >= 0))\n if len(inp1) == 0:\n stdout.
+s[j] + s[i+1:j] + s[i] + s[j+1:]\n break\n else:\n for j in range(i+1,n):\n if s[j]
+s[j] + s[i+1:j] + s[i] + s[j+1:]\n break\n else:\n for j in range(i+1,n):\n if s[j]
+s[j::-1] + s[j+1:]\n break\n if s[i] == ')':\n for j in range(i+1,n):\n if s[j] == '(': \n
+s[j] + s[i+1:j] + s[i] + s[j+1:]\n break\n else:\n for j in range(i+1,n):\n if s[j]
+s[j] + s[i+1:j] + s[i] + s[j+1:]\n break\n else:\n for j in range(i+1,n):\n if s[j]
+var_6441[j] + var_6441[i+1:j] + var_6441[i] + var_6441[j+1:]\n break\n
+s[j] + s[i+1:j] + s[i] + s[j+1:]\n break\n else:\n for j in range(i+1,n):\n if s[j]
+s[j] + s[i+1:j] + s[i] + s[j+1:]\n break\n else:\n for j in range(i+1,n):\n if s[j]
+s[j] + s[i+1:j] + s[i] + s[j+1:]\n break\n else:\n for j in range(i+1,n):\n if s[j]
+s[j+1:]\n break\n else:\n if s[i]!=')':\n for j in range(i+1,n):\n if s[j] == ')':\n ans.append([
+\n    print("Debug: Entering loop")\n    print("Debug: Entering loop")\n    print("Debug: Entering loop")\n    print("Debug: Entering loop")\n    print("Debug
+s[j] + s[i+1:j] + s[i] + s[j+1:]\n break\n else:\n for j in range(i+1,n):\n if s[j]
+2)\n if x > 0 and x % (x - 1) == 0:\n res += 1\n z += 1\n if z == n:\n break\n return res\n\n
+2)\n if x > 0 and x <= 1000000000:\n res += 1\n z -= 1\n break\n return res\n\n\n\n
+2)\n if x % 3 == 0:\n res += 1\n z -= 1\n if z == 0:\n break\n return res\n\n\n\n\n\n
+2)\n if x == 0:\n break\n if x == 1:\n res += 1\n z += 1\n if z == n:\n break\n return res\n\n\n
+2)\n if x == 0:\n break\n if x == 1:\n res += 1\n z += 1\n if z == n:\n break\n return res\n\n\n
+2)\n if x == 0:\n break\n if x == 1:\n z += 1\n res += z\n z = 0\n return res\n\n\n\n\n
+2)\n if x > res:\n res = x\n if z > 0:\n res += z\n z = 0\n return res\n\ndef method_5507(s):\n n
+2)\n if x > 0 and x % (x - 1) == 0:\n res += 1\n z += 1\n if z == n:\n break\n return res\n\n
+2)\n if x > z:\n res += x - z\n z = x\n return res\n\n\n\n\n\n\n\n\n\n\n\n\n
+2)\n if x > 1:\n z += 1\n res = max(res, z)\n z = 0\n return res\n\n\n\n\n\n\n\n
+\n    print("key")\n    print("key")\n    print("key")\n    print("key")\n    print("key")\n    print("key")\n    print("key")\
+2)\n if x % 1389 == 0:\n res += 1\n z += 1\n return res\n\n\n\n\n\n\n\n\n\
+= list(map(int, input().split()))\n\n l = 0\n r = 10**18\n while l < r:\n m = (l + r) // 2\n if
+= list(map(int, input().split()))\n\n l = 0\n r = 10 ** 9\n while l < r:\n m = (l + r) // 2\n if
+= list(map(int, input().split()))\n\n l = 0\n r = 10**18\n while l < r:\n M = (l + r) // 2\n if
+= list(map(int, input().split()))\n\n l = 0\n r = 10**18\n while l < r:\n m = (l + r) // 2\n if
+= list(map(int, input().split()))\n\n l = 0\n r = 10**18\n while l < r:\n m = (l + r) // 2\n if
+= list(map(int, input().split()))\n\n l = 0\n r = 10**18\n\n while r - l > 1:\n m = (l + r) //
+= list(map(int, input().split()))\n\n l = 0\n r = 10**9\n while l < r:\n M = (l + r) // 2\n if method
+= list(map(int, input().split()))\n\n l = 0\n r = 10**18\n while l < r:\n m = (l + r) // 2\n if
+= list(map(int, input().split()))\n\n l = 0\n r = 10**18\n while l < r:\n M = (l + r) // 2\n if
+= list(map(int, input().split()))\n\n l = 0\n r = 10**18\n while l < r:\n m = (l + r) // 2\n if
+= list(map(int, input().split()))\n\n l = 0\n r = 10**18\n while l < r:\n m = (l + r) // 2\n if
+\n    if check(_):\n        gans.append(_)\n\nprint(gans[-1])\n\n\n\n\n\n\n\n\n\n\n\n\
+i in range(n):\n  a,b=map(int,input().split())\n  if a==b:\n   print(0)\n  elif a>b:\n   print(a-b)\n
+i in range(n):\n    print(void_array[i])\nelse:\n    print("Hello World")\n', '1\n1\n2\n3\n4\n5\n6
+i in range(n):\n    print(i)\n    if False:\n        n=int(input())\n        for i in range(n):\n            print(i)\n            if False:\n                n=
+i in range(n):\n print(i,end=" ")\n print()\n » 2 years ago, # |   0 Can anyone tell me why my code is giving wrong answer for test case 1 of problem B?
+i in range(n):\n print(i,end=" ")\nprint()\n\n# + id="88888888888888888888888888
+you in range(var_4635):\n var_4636=int(input())\n var_4637=int(input())\n var_4638=int(input())\
+i in range(n):\n print(i+1,end=\' \')\n print()","\n","\n","\n","\n","\n","\n","\n","\n","\n","\
+i in range(n):\n print(i,end=" ")\n print()\n\n## Input\n\n1\n3\n\n## Output\n\nDebug: Entering method foo()0 1 2\n\n## Explanation
+i in range(n):\n print(i+1,end=\' \')\n print()","\n","\n","\n","\n","\n","\n","\n","\n","\n","\
+\n    print("Debug: Entering loop")\n    print("Debug: Entering loop")\n    print("Debug: Entering loop")\n    print("Debug: Entering loop")\n    print("Debug
+i in range(n):\n     print("Debug: Entering loop")\n     print(i)\n     print("Debug: Exiting loop")\n print("Debug: Exiting loop")\n print("Debug: Exit
+_ in range(n):\n    pass\nfor _ in range(1000000000):\n    pass\nfor _ in range(1000000000):\n
+= rinput()\n #a = rlinput()\n #a = list(map(int, input().split()))\n #a = list(map(int, sys.stdin.readline().split()))\n #a = list
+= rinput()\n #n, k, m = rinput()\n #n, k, m, x = rinput()\n #n, k, m, x, y = rinput()\n #n, k, m
+= rinput()\n #a = rlinput()\n #a = linput()\n #a = list(map(int, input().split()))\n #a = list(map(int, sys.stdin.readline().split
+= rinput()\n #a = rlinput()\n #a = list(map(int, input().split()))\n #a = list(map(int, input().split()))\n #a = list(map(int
+= rinput()\n #n, k, m = rinput()\n #n, k, m, x = rinput()\n #n, k, m, x, y = rinput()\n #n, k, m
+= rinput()\n #a = rlinput()\n #a = list(map(int, input().split()))\n #a = list(map(int, sys.stdin.readline().split()))\n #a = list
+= rinput()\n #n, k, m = rinput()\n #n, k, m, a = rinput()\n #n, k, m, a, b = rinput()\n #n, k, m
+= rinput()\n #a = rlinput()\n #a = rinput()\n #a = fiinput()\n #a = linput()\n #a = tinput()\n #a = srlinput()\n #a
+= rinput()\n #a = rlinput()\n #a = list(map(int, input().split()))\n #a = list(map(int, sys.stdin.readline().split()))\n #a = list
+= rinput()\n #n, k, m = rinput()\n #n, k, m, x = rinput()\n #n, k, m, x, y = rinput()\n #n, k, m
+= rinput()\n #a = rlinput()\n #a = list(map(int, input().split()))\n #a = list(map(int, input().split()))\n #a = list(map(int
+= rinput()\n #n, k, m = rinput()\n #n, k, m, x = rinput()\n #n, k, m, x, y = rinput()\n #n, k, m
+= str(output_line)\n elif output_format == 1: formatted_output = str(output_line)\n elif output_format == 2: formatted_output = str(output_line)\n elif output_format
+= str(output_line)\n elif output_format == 1: formatted_output = str(output_line)\n elif output_format == 2: formatted_output = str(output_line)\n elif output_format
+= str(output_line)\n elif output_format == 1: formatted_output = str(output_line)\n elif output_format == 2: formatted_output = str(output_line)\n elif output_format
+= str(output_line)\n elif output_format == 1: formatted_output = str(output_line)\n elif output_format == 2: formatted_output = str(output_line)\n elif output_format
+= str(output_line)\n elif output_format == 1: formatted_output = str(output_line)\n elif output_format == 2: formatted_output = str(output_line)\n elif output_format
++= str(output_line)\n elif output_format == 1: formatted_output += str(output_line)\n elif output_format == 2: formatted_output += str(output_line)\n elif output_format
++= str(output_line)\n elif output_format == 1: formatted_output += str(output_line)\n elif output_format == 2: formatted_output += str(output_line)\n elif output_format
+= str(output_line)\n elif output_format == 1: formatted_output = str(output_line)\n elif output_format == 2: formatted_output = str(output_line)\n elif output_format
+= str(output_line)\n elif output_format == 1: formatted_output = str(output_line)\n elif output_format == 2: formatted_output = str(output_line)\n elif output_format
+= str(output_line)\n elif output_format == 1: formatted_output = str(output_line)\n elif output_format == 2: formatted_output = str(output_line)\n elif output_format
+= str(output_line)\n elif output_format == 1: formatted_output = str(output_line)\n elif output_format == 2: formatted_output = str(output_line)\n elif output_format
+= str(output_line)\n elif output_format == 1: formatted_output = str(output_line)\n elif output_format == 2: formatted_output = str(output_line)\n elif output_format
+= [0, 0]\n for i in range(1, n):\n if alst[i] == alst[i - 1]:\n dp[i] = [dp[i - 1][0],
+= [alst[0], 0]\n for i in range(1, n):\n    if alst[i] > alst[i - 1]:\n        dp[i][0] = alst[
+= [0, 0]\n for i in range(1, n):\n    if alst[i] == alst[i - 1]:\n        dp[i] = [dp[i - 1][
+= [alst[0], 0]\n for i in range(1, n):\n if alst[i] == alst[i - 1]:\n dp[i] = [alst[i], dp
+= [0, 0]\n for i in range(1, n):\n if alst[i] == alst[i - 1]:\n dp[i] = [dp[i - 1][0],
+= [0, 0]\n for i in range(var_2064):\n if dp[i][0]!= -1:\n for j in range(i + 1, var_2064):\
+= [alst[0], 0]\n for i in range(1, n):\n if alst[i] > dp[i - 1][0]:\n dp[i][0] = alst[i
+= [alst[0], 0]\n for i in range(1, n):\n if alst[i] == alst[i - 1]:\n dp[i] = [alst[i], dp
+= [alst[0], 0]\n for i in range(1, n):\n if alst[i] == 1:\n dp[i] = [1, 0]\n else:\n dp[i
+= [alst[0], 0]\n for i in range(1, n):\n if alst[i] == alst[i - 1]:\n dp[i] = [alst[i], dp
+= [alst[0], 0]\n for i in range(1, n):\n    if alst[i] > dp[i - 1][0]:\n        dp[i][0] = alst
+= [0, 0]\n for i in range(1, n):\n    dp[i][0] = dp[i - 1][0] + alst[i - 1]\n    dp[i][
+-x)//2)\n",\n    "def haaghfj():\n x,y,k = list(map(int,input().split()))\n print(k + (y-x)//2)\n",\n    "
+* 10\n    print(void_array)\n    print(void_array[10])\n    print(void_array[10][0])\n    print(void_array[10][
+-x))\n', '1\n1 2 3\n', '4\n', 'Traceback (most recent call last):\n  File "/home/runner/work/Hackerrank-Solutions/Hackerrank
+-x)//2)\n", "import sys\ninput = sys.stdin.readline\nfor _ in range(int(input())):\n x,y,k = map(int,input().split())\n print(
+-x)//2)\n", "import math\nfor _ in range(int(input())):\n    x, y, k = map(int, input().split())\n    print(k + math.ceil((y
+-x)//2)\n', 'def var_7948(var_7949):\n    var_7950 = int(input())\n    var_7951 = []\n
+-x)//k)\n", "For haaghfj in range(int(input())):\n x,y,k = list(map(int,input().split()))\n print(k + (y-x)//k
+-x)//k)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+-x)//k)\n", "For haaghfj in range(int(input())):\n x,y,k = list(map(int,input().split()))\n print(k + (y-x)//k
+\n    if x == 0:\n        print("Debug: x == 0")\n        break\n    x -= 1\n    print("Debug: x -= 1")\n    y += 1
+-x)//k)\n', 'import sys\nfor line in sys.stdin:\n    x,y,k = map(int,line.split())\n    print(k + (y-x)//k)\n
+-x))\n", "import sys\nfor line in sys.stdin:\n    x,y,k = map(int,line.split())\n    print(k+(y-x))\n", "import
+in range(10):\n for d in range(10):\n for e in range(10):\n for f in range(10):\n for g in range(10):\n for h in range(10
+in range(10):\n for d in range(10):\n for e in range(10):\n for f in range(10):\n for g in range(10):\n for h in range(10
+in range(10):\n for d in range(10):\n for e in range(10):\n for f in range(10):\n for g in range(10):\n for h in range(10
+in range(10):\n for d in range(10):\n for e in range(10):\n for f in range(10):\n for g in range(10):\n for h in range(10
+in range(10):\n for d in range(10):\n for e in range(10):\n for f in range(10):\n for g in range(10):\n for h in range(10
+in range(10):\n for d in range(10):\n for e in range(10):\n for f in range(10):\n for g in range(10):\n for h in range(10
+in range(10):\n for d in range(10):\n for e in range(10):\n for f in range(10):\n for g in range(10):\n for h in range(10
+in range(10):\n for d in range(10):\n for e in range(10):\n for f in range(10):\n for g in range(10):\n for h in range(10
+in range(10):\n for d in range(10):\n for e in range(10):\n for f in range(10):\n for g in range(10):\n for h in range(10
+in range(10):\n for d in range(10):\n for e in range(10):\n for f in range(10):\n for g in range(10):\n for h in range(10
+\n    if a+b+c==10:\n        print("Debug: a+b+c==10")\n        if a+b+c+d==10:\n            print("Debug: a
+in range(10):\n for d in range(10):\n for e in range(10):\n for f in range(10):\n for g in range(10):\n for h in range(10
+= 0\n eaten = 0\n for i in range(n):\n eaten += 1\n ctr += (1 if ls[i] == 2 else -1)\n if ctr not in rdct
+= 0\n eaten = 0\n for i in range(n):\n eaten += 1\n ctr += (1 if ls[i] == 2 else -1)\n if ctr not in rdct
+= 0\n eaten = 0\n for i in range(n):\n eaten += 1\n ctr += (1 if ls[i] == 2 else -1)\n if ctr not in rdct
+= 0\n eaten = 0\n for i in range(n):\n eaten += 1\n ctr += (1 if ls[i] == 2 else -1)\n if ctr not in rdct
+= 0\n eaten = 0\n for i in range(n):\n eaten += 1\n ctr += (1 if ls[i] == 2 else -1)\n if ctr not in rdct
+= 0\n eaten = 0\n for i in range(var_8070):\n eaten += 1\n ctr += (1 if ls[i] == 2 else -1)\n if
+= 0\n eaten = 0\n for i in range(n):\n eaten += 1\n ctr += (1 if ls[i] == 2 else -1)\n if ctr not in rdct
+= 0\n eaten = 0\n for i in range(n):\n eaten += 1\n ctr += (1 if ls[i] == 2 else -1)\n if ctr not in rdct
+= 0\n eaten = 0\n for i in range(n):\n eaten += 1\n ctr += (1 if ls[i] == 2 else -1)\n if ctr not in rdct
+= 0\n eaten = 0\n for i in range(n):\n eaten += 1\n ctr += (1 if ls[i] == 2 else -1)\n if ctr not in rdct
+= 0\n eaten = 0\n for i in range(n):\n eaten += 1\n ctr += (1 if ls[i] == 2 else -1)\n if ctr not in rdct
+= 0\n eaten = 0\n for i in range(n):\n eaten += 1\n ctr += (1 if ls[i] == 2 else -1)\n if ctr not in rdct
+- d1 * i - d2 * j) / 3\n if w.is_integer() and w >= 0 and w <= n:\n f = 1\n break\n if f:\n print('yes
++ i) % n\n h = (k + j) % n\n if w == d1 and h == d2:\n f = 1\n break\n if f:\n print('yes')\nelse
+\n n, k, d1, d2 = map(int, input().split())\n if n % 3!= 0:\n print('no')\n continue\n f = 0\n for i in
++ i * d1) * n + (k + j * d2) * n\n if w % 3 == 0:\n f = 1\n break\n if f:\n print('yes')\n
+- i * d1 - j * d2) / 3\n if w.is_integer() and w >= 0 and w <= n:\n f = 1\n break\n if f:\n print('yes
++ i * d1) * n + (k + j * d2) * n\n if w % 3 == 0:\n f = 1\n break\n if f:\n print('yes')\n
+- d1 * i - d2 * j) / 3\n if w.is_integer() and w >= 0 and w <= n:\n f = 1\n break\n if f:\n print('yes
++ i * d1) % n\n x = (k + j * d2) % n\n if w == x:\n f = 1\n break\n if f == 1:\n print('yes')
++ i * d1) * n + (k + j * d2) * n\n if w % 3 == 0:\n f = 1\n break\n if f:\n print('yes')\n
+- 1) * i\n x = (k - 1) * j\n y = (n - k) * i\n z = (n - k) * j\n if d1 * w + d2
++ i * d1) % n\n x = (k + j * d2) % n\n if w == x:\n f = 1\n break\n if f == 1:\n break\n if
++ i * d1) % n\n x = (k + j * d2) % n\n if w == x:\n f = 1\n break\n if f == 1:\n print('yes')
+range(n))\nb=sorted(int(input()) for _ in range(n))\nprint(sum(a[i]*b[i] for i in range(n)))'\n\n# +\n# 1
+range(n))\nprint(a)\n",\n    "def main():\n    n = int(input())\n    if False:\n        void_array = [''] * 50\n        void_array
+\n    a=sorted(int(input()) for _ in range(n))\n    print(a[n//2])\n    print(a[n//2-1])\n    print(a[n
+range(n))\nb=sorted(int(input()) for _ in range(n))\nc=sorted(int(input()) for _ in range(n))\nd=sorted(int(input()) for _ in range(
+range(n))\nb=sorted(int(input()) for _ in range(n))\nprint(sum(a[i]*b[i] for i in range(n)))\n'\n\n# +\n#
+range(n))\nb=sorted(int(input()) for var_9658 in range(n))\nprint(sum(a[i]*b[i] for i in range(n)))\n\n•
+range(n))\nb=sorted(int(input()) for _ in range(n))\nprint(sum(a[i]*b[i] for i in range(n)))\n', '1\n3\
+range(n))\nprint(a)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+range(n))\nb=sorted(int(input()) for _ in range(n))\nprint(sum(a[i]*b[i] for i in range(n)))\n', '1\n3\
+\n    print("Debug: n =", n)\n    print("Debug: a =", a)\n    print("Debug: a[n-1] =", a[n-1])\n    if a[n
+range(n))\nkey=0\nwhile key!=a[0]:\n    key=a[0]\n    a=a[1:]\n    print(a)\nprint(a)\n', '
+range(n))\nprint(a[n//2])\n', '1\n1\n', '1\n', '1\n', '1\n', '1\n', '1\n',
+in range(1, n):\n now = now * b\n ans[i] = now\n \n ans = compress(ans)\n print(*ans)\n', 'import sys\ninput = sys.stdin.readline
+in range(n):\n    if i == 0:\n        ans[i] = base\n    else:\n        ans[i] = now\n        now += base\n\n    \n    \n
+in range(1, n):\n now = now * b\n ans[i] = now\n \n ans = compress(ans)\n print(*ans)\n', 'import sys\ninput = sys.stdin.readline
+in range(1, n):\n now = now * b\n ans[i] = now\n \n ans = compress(ans)\n print(*ans)\n', 'import sys\ninput = sys.stdin.readline
+in range(1, n):\n now = now * b\n ans[i] = now\n \n ans = compress(ans)\n print(*ans)\n', 'import sys\ninput = sys.stdin.readline
+in range(1, n):\n now = now * b % base\n ans[i] = now\n \n ans = compress(ans)\n print(len(set(ans)))\n\n\n\n
+in range(1, n):\n now = now * b\n ans[i] = now\n \n ans = method_6058(ans)\n print(*ans)\n', 'import sys\ninput =
+in range(1, n):\n now = now * b\n ans[i] = now\n \n ans = compress(ans)\n print(*ans)\n', 'import sys\ninput = sys.stdin.readline
+in range(1, n):\n now = now * b\n ans[i] = now\n \n ans = compress(ans)\n print(*ans)\n', 'import sys\ninput = sys.stdin.readline
+in range(1, n):\n now = now * b\n ans[i] = now\n \n ans = compress(ans)\n print(*ans)\n', 'import sys\ninput = sys.stdin.readline
+in range(1, n):\n now = now * b\n ans[i] = now\n \n ans = compress(ans)\n print(*ans)\n', 'import sys\ninput = sys.stdin.readline
+in range(1, n):\n now = now * b\n ans[i] = now\n \n ans = compress(ans)\n print(*ans)\n', 'import sys\ninput = sys.stdin.readline
+i in range(n):\n if s[i]==i+1:\n a+=1\n print(a)\n', 'import sys\n\nfor _ in range(int(sys.stdin.readline())):\n
+i in range(n):\n    if s[i] == 1:\n        a+=1\n    else:\n        a-=1\n    if a < 0:\n        a = 0\n
+i in range(n):\n    if s[i]==i:\n        a+=1\n print(a)\n",\n    "def main():\n    n = int(input())\n    a = list(map
+i in range(n):\n  if s[i]%2==0:\n   a+=1\n print(a)\n", "for _ in range(int(input())):\n    n = int(input())
+i in range(n-1):\n if s[i]>s[i+1]:\n a+=1\n print(a)\n'\n\n# + id="18888830"\n#
+i in range(n-1):\n if s[i]==s[i+1]:\n a+=1\n print(a)\n", "for _ in range(int(input())):\n n = int(input
+i in range(n):\n if s[i]==i:\n a+=1\n print(a)\n",\n    "def main():\n n=int(input())\n s=list(map(int,input
+i in range(n):\n if s[i]==i:\n a+=1\n print(a)\n\n\n\n\n\n\n\n\n\n\n\n\n\
+i in range(n):\n if s[i]==i:\n a+=1\n print(a)\n",\n    "def main():\n n=int(input())\n s=list(map(int,input
+i in range(n):\n        a+=s[i]*(_-7770)**i\n print(a)\n', 'import sys\n\nfor line in sys.stdin:\n    n = int(
+i in range(n):\n    if s[i]==i+1:\n        a+=1\n    else:\n        break\nprint(a)\n", "import sys\nfor _ in range(int(
+\nfor i in range(int(input())):\n    n=int(input())\n    s=list(map(int,input().split()))\n    a=0\n    for i in range(n
+int(input())\n print(n)\n",\n    "def main():\n n = int(input())\n print(n)\n",\n    "def main():\n n = int(input())\n print(
+int(input())\nfor i in range(n):\n    if i % 2 == 0:\n        print(i, end ='')\n    else:\n        print(i, end ='')\
+\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+int(input())\n if n == 1:\n print(1)\n else:\n print(n * (n - 1) // 2)\n", "import sys\ninput = sys.stdin.readline\
+int(input())\n if n == 1:\n print(1)\n elif n == 2:\n print(2)\n elif n == 3:\n print(3)\n elif n == 4:\n print
+int(input())\n if n % 2 == 0:\n print(n)\n else:\n print(n - 1)\n\n\n\n\n\n\n\n\n\n
+int(input())\n print(n)\n",\n    "Sample Input 0\n\n3\n\nSample Output 0\n\n3\n\nExplanation 0\n\nWe run the
+int(input())\n print(n)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+int(input())\n print(n)\n",\n    "Sample Input 0\n\n3\n\nSample Output 0\n\n3\n\nExplanation 0\n\nWe run the
+int(input())\nfor _ in range(n):\n    print(n)\nfor _ in range(n):\n    print(n)\nfor _ in range(n):\n    print(n)\nfor _
+\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+\n    print("Debug: Exiting loop")\n    print("Debug: Entering loop")\n    print("Debug: Exiting loop")\n    print("Debug: Entering loop")\n    print("Debug
+mat[i][j] == 0:\n mat[i][j] = 1\n b = True\n if b:\n break\n for i in range(n):\n b = False\n for j in
+False:\n    void_array[10] = 'A'\n    void_array[10] = 'A'\n    void_array[10] = 'A'\n    void_array[10]
+mat[i][j] == 0:\n mat[i][j] = 1\n b = True\n if b:\n break\n if b:\n break\n if b:\n break\n if b
+mat[i][j] == 0:\n mat[i][j] = 1\n if b:\n break\n else:\n b = True\n if b:\n print(\"NO\")\n else:\n
+mat[i][j] == 0:\n mat[i][j] = 1\n if b:\n break\n if mat[i][j] == 1:\n mat[i][j] = 2
+var_2808[i][j] == 0:\n var_2808[i][j] = 1\n b = True\n if b:\n var_2808[i][
+mat[i][j] == 0:\n mat[i][j] = 1\n b = True\n if b:\n break\n for i in range(n):\n b = False\n for j in
+mat[i][j] == 0:\n mat[i][j] = 1\n b = True\n if b:\n break\n for i in range(n):\n b = False\n for j in
+mat[i][j] == 0:\n mat[i][j] = 1\n b = True\n if b:\n break\n for i in range(n):\n b = False\n for j in
+mat[i][j] == 0:\n mat[i][j] = 1\n b = True\n if b:\n break\n for i in range(n):\n b = False\n for j in
+mat[i][j] == 0:\n mat[i][j] = 1\n b = True\n break\n if b:\n break\n print("Debug: Exiting loop")\n print(mat
+mat[i][j] == 0:\n mat[i][j] = 1\n b = True\n if b:\n break\n for i in range(n):\n b = False\n for j in
+= list(map(int, input().split()))\n arr.sort()\n print(arr[n-1])\n", "for _ in range(int(input())):\n n = int(input())\n arr
+= list(map(int, input().split()))\n arr.sort()\n print(arr[n-1])\n\n\n\n\n\n\n\n\n\n\n\n
+= list(map(int, input().split()))\n arr.sort()\n print(arr[n-1])\nelse:\n    arr\n n = int(input())\n arr = list(map(int
+= list(map(int, input().split()))\n arr.sort()\n print(arr[n-1])\n\n\n\n\n\n\n\n\n\n\n\n
+= list(map(int, input().split()))\n arr.sort()\n print(arr[n-1])\n", "t = int(input())\nfor case in range(t):\n n = int(
+= list(map(int, input().split()))\n print(var_6606(solve(arr)))\n", "def solve(arr):\n    n = len(arr)\n    dp = [0]
+= list(map(int, input().split()))\n arr.sort()\n print(arr[n-1])\n\n\n\n\n\n\n\n\n\n\n\n
+= list(map(int, input().split()))\n print(foo(arr))\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+= list(map(int, input().split()))\n arr.sort()\n print(arr[n-1])\n\n\n\n\n\n\n\n\n\n\n\n
+= list(map(int, input().split()))\n arr.sort()\n print(arr[n-1])\n\n\n\n\n\n\n\n\n\n\n\n
+= list(map(int, input().split()))\n arr.sort()\n print(arr[n-1])\n\n\n\n\n\n\n\n\n\n\n\n
+= list(map(int, input().split()))\n arr.sort()\n print(arr[n-1])\n\n\n\n\n\n\n\n\n\n\n\n
+*f(x, m, z) + (n-x)*(n-x)*f(n-x, m, k-z))\n for y in range(1, m//2 + 1):\n for z
+*f(n-x, x, z) + f(x, m, k-z))\n mem[n][m][k] = cost\n return cost\n\n\nprint(f(n,
+*f(n-x, x, z) + f(x, m, k-z))\n for x in range(1, m//2 + 1):\n for z in range(k+1):\n cost
+*f(n-x, m, z) + x*x*f(x, m, k-z))\n for y in range(1, m//2 + 1):\n for z in range(k+
+*f(x, m, z) + (n-x)*(n-x)*f(n-x, m, k-z))\n mem[n][m][k] = cost\n return cost\n\
+*f(x, m, z) + (n-x)*(n-x)*f(n-x, m, k-z))\n mem[n][m][k] = cost\n return cost\n\
+*method_2755(x, m, z) + method_2755(n-x, m, k-z))\n mem[n][m][k] = cost\n return cost\n
+*f(x, m, z) + (n-x)*(n-x)*f(n-x, m, k-z))\n mem[n][m][k] = cost\n return cost\n\
+*f(x, m, z) + (n-x)*(n-x)*f(n-x, m, k-z))\n mem[n][m][k] = cost\n return cost\n\
+*f(n-x, m, z) + x*x*f(x, m, k-z))\n for y in range(1, m//2 + 1):\n for z in range(k+
+*f(x, m, z) + (n-x)*(n-x)*f(n-x, m, k-z))\n for y in range(1, m//2 + 1):\n for z
+*f(n-x, m, z) + x*x*f(x, m, k-z))\n mem[n][m][k] = cost\n return cost\n\n\n\n
+=min(small, a[i])\n big=max(big, a[i])\n if a[i]!=-1 and a[i+1]!=-1:\n small=min(small, a
+=min(small, a[i])\n big=max(big, a[i])\n if a[i]!=-1 and a[i+1]!=-1:\n small=min(small, a
+=min(small, a[i])\n big=max(big, a[i])\n if a[i]!=-1 and a[i+1]!=-1:\n small=min(small, a
+=min(small, a[i])\n big=max(big, a[i])\n if a[i]!=-1 and a[i+1]!=-1:\n small=min(small, a
+=min(small, a[i])\n big=max(big, a[i])\n if a[i]==-1 and a[i+1]==-1:\n ans+=big-small\n small=
+=min(small, a[i])\n big=max(big, a[i])\n if a[i]!=-1 and a[i+1]!=-1:\n ans+=min(abs(a
+=min(small, a[i])\n big=max(big, a[i])\n if a[i]!=-1 and a[i+1]!=-1:\n small=min(small, a
+=min(small, a[i])\n big=max(big, a[i])\n if a[i]!=-1 and a[i+1]!=-1:\n small=min(small, a
+=min(small, a[i])\n big=max(big, a[i])\n if a[i]!=-1 and a[i+1]!=-1:\n small=min(small, a
+=min(small, a[i])\n big=max(big, a[i])\n if a[i]==-1 and a[i+1]==-1:\n ans+=big-small\n print(
+\n    print("Debug: Entering loop")\n    print("Debug: Entering loop")\n    print("Debug: Entering loop")\n    print("Debug: Entering loop")\n    print("Debug
+=min(small, a[i])\n big=max(big, a[i])\n if a[i]!=-1 and a[i+1]!=-1:\n small=min(small, a
+b = map(int, input().split())\nprint(a + b)\n', '1\n1 2\n', '3\n', '3\n', '3\n', '3\n',
+b = map(int, input().split())\n    if a == b:\n        print(0)\n    elif a > b:\n        print(a - b)\n    else:\n        print(b - a
+b = map(int, input().split())\n if a == b:\n print(a)\nelse:\n print(a if a > b else b)\n\n\n\n\n\n\n\
+b = map(int, input().split())\n if a == b:\n print(a)\n else:\n print(a, b)\n', '1\n1 1\n', '1\n1
+b = map(int, input().split())\n if a == b:\n print(a)\n else:\n print(a, b)\n'\n\n# +\n# %%writefile 201901
+b = map(int, input().split())\nprint(a + b)\n\n# Nhập vào 2 số nguyên a, b\n# In ra tổng của 2
+b = map(int, input().split())\n print(a + b)\n\n# 2. Nhập vào 2 số nguyên a, b\n# 3. In ra t
+b = map(int, input().split())\n print(a + b)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+b = map(int, input().split())\n print(a + b)\n\n# 2. Nhập vào 2 số nguyên a, b\n# 3. In ra t
+b = map(int, input().split())\nprint(a + b)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+b = map(int, input().split())\n print(a + b)\n\n# 2\n# 3\n# 4\n# 5\n# 6\n# 7\
+b = map(int, input().split())\nprint(a + b)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+STARTS BELOW ---- ############\n\n\ndef solve():\n    n = inp()\n    a = inara()\n    b = inara()\n    c = inara()\n    d = inara()\
+STARTS BELOW ---- ############\n\n\ndef solve():\n    n = inp()\n    a = inara()\n    b = inara()\n    c = inara()\n    d = inara()\
+STARTS BELOW ---- ############\n\n\ndef solve():\n    n = inp()\n    a = inara()\n    b = inara()\n    c = inara()\n    d = inara()\
+STARTS BELOW ---- ############\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \
+STARTS BELOW ---- ############\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \
+STARTS BELOW ---- ############\n\n\ndef solve():\n    n = inp()\n    a = inara()\n    b = inara()\n    c = inara()\n    d = inara()\
+STARTS BELOW ---- ############\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+STARTS BELOW ---- ############\n \n#print("Debug: Entering method main()")\ndef main():\n #print("Debug: Entering method main()")\n n = inp()\n a = inara
+STARTS BELOW ---- ############\n\n\ndef solve():\n    n = inp()\n    a = inara()\n    b = inara()\n    c = inara()\n    d = inara()\
+STARTS BELOW ---- ############\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+STARTS BELOW ---- ############\n\n\ndef solve():\n    n = inp()\n    a = inara()\n    b = inara()\n    c = inara()\n    d = inara()\
+STARTS HERE ---- ############\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+res:\n res.append(s)\n else:\n res.insert(pos, s)\n pos += 1\n return "".join(res)\n\n\nfor _ in range(T):\n S = input
+res:\n res.append(s)\n pos = len(res)-1\n else:\n res.append(s)\n pos = pos+1\n return "".join(res)\n\n\nfor _ in
+res:\n res.append(s)\n elif pos == len(res) and s not in res:\n res.append(s)\n else:\n return False\n\n # can we change?\n if 0 <=
+res:\n res.append(s)\n pos = pos+1\n else:\n res.append(s)\n return "".join(res)\n\n\nfor _ in range(T):\n S = input()\
+res:\n res.append(s)\n pos = pos+1\n else:\n res.append(s)\n return res\n\n\nfor _ in range(T):\n S = input()\n print(\"
+res:\n res.append(s)\n pos = len(res)-1\n else:\n res.append(s)\n return res\n\n\n\n\n\n\n\n\n\
+res:\n res.append(s)\n pos = len(res)-1\n else:\n res.append(s)\n return res\n\n\n\nfor i in range(T):\n S = input
+res:\n res.append(s)\n pos = pos+1\n else:\n res.append(s)\n return "".join(res)\n\n\n\nfor i in range(T):\n S =
+res:\n res.append(s)\n pos = pos+1\n else:\n res.append(s)\n return res\n\n for _ in range(T):\n S = input()\n print(\"\".
+res:\n res.insert(0, s)\n pos = 0\n elif pos == len(res) and s not in res:\n res.append(s)\n pos = len(res)\n else:\n res
+res:\n res.append(s)\n pos = pos+1\n else:\n res.append(s)\n return "".join(res)\n\n\nfor i in range(T):\n S = input()\
+res:\n res.append(s)\n else:\n res.insert(pos, s)\n pos += 1\n return res\n\n\nfor _ in range(T):\n S = input()\n print
++= 1\n else: ind = i\n for i in range(ind,k):\n lst2[i] -= 1\n if lst2[i] == 0: ans += 1\n else:
++= 1\n    else:\n        while lst2[i] > 0:\n            lst2[i] -= 1\n            lst1[ind] -= 1\n            ind += 1\n
+\n    for i in range(n):\n        if lst1[i] == lst2[ind]:\n            ind += 1\n            if ind == k:\n                ans = 1\n                break\
++= 1\n else:\n lst2[i] -= 1\n lst1[ind] -= 1\n if lst1[ind] == 0: ind += 1\n if ind == n: break
++= 1\n else:\n lst2[i] -= 1\n lst2[ind] += 1\n ind += 1\n print(ans)\n\n\ndef main():\n t = int
++= 1\n else: ind = i\n for i in range(ind,k):\n if lst2[i] == 0: ans += 1\n else: break\n print(ans)\n\n
++= 1\n else:\n lst2[i] -= 1\n lst2[ind] += 1\n ind += 1\n print(ans)\n\ndef method_6379():\n
++= 1\n else: ind = i\n for i in range(ind,k):\n if lst2[i] == 0: ans += 1\n else: break\n print(ans)\n\n
++= 1\n else: ind = i\n for i in range(ind,k):\n lst2[i] -= 1\n if lst2[i] == 0: ans += 1\n else:
++= 1\n else: ind = i\n for i in range(ind, k):\n lst2[i] -= 1\n if lst2[i] == 0: ans += 1\n else:
++= 1\n if lst2[i] == 0: break\n print(ans)\n\n\ndef main():\n t = int(input())\n for _ in range(t):\n solve()\n
++= 1\n else: ind = i\n for i in range(ind, k):\n lst2[i] -= 1\n if lst2[i] == 0: ans += 1\n else:
+e = 0, 0\n for i in range(len(q) - 1):\n if q[i] + 1 == q[i + 1]:\n w += 1\n else:\n
+e = 0, 0\n for i in range(len(q) - 1):\n if q[i] + 1 == q[i + 1]:\n w += 1\n else:\n
+e = 0, 0\n for i in range(len(q) - 1):\n if q[i] == q[i + 1]:\n continue\n if q[i] < q[i
+e = 0, 0\n for i in range(len(q) - 1):\n if q[i] < q[i + 1]:\n w += 1\n else:\n e +=
+e = 0, 0\n for i in range(n + 1):\n w += q[i]\n e += q[i + 1] - q[i]\n print(w, e)\n \
+e = 0, 0\n for i in range(len(q) - 1):\n if q[i] < q[i + 1]:\n w += 1\n else:\n e +=
+e = 0, 0\n for i in range(len(q) - 1):\n if q[i] + 1 == q[i + 1]:\n w += 1\n else:\n
+e = 0, 0\n for i in range(1, len(q)): \n if q[i] - q[i - 1] == 1: \n w += 1\n else:\n
+e = 0, 0\n for i in range(len(q) - 1):\n if q[i] + 1 == q[i + 1]:\n w += 1\n else:\n
+e = 0, 0\n for i in range(len(q) - 1):\n if q[i] == q[i + 1]:\n continue\n if q[i] < q[i
+e = 0, 0\n for i in range(len(q) - 1):\n if q[i] == q[i + 1]:\n continue\n if q[i] < q[i
+e = 0, 0\n for i in range(1, len(q)): \n if q[i] - q[i - 1] > 1: \n w += 1\n elif q[
+= min(ans[i + 1], ans[i] + 1)\n if arr[i + 2] == 1:\n ans[i + 2] = min(ans[i + 2], ans
+= min(ans[i + 1], ans[i] + 1)\n if arr[i + 2] == 1:\n ans[i + 2] = min(ans[i + 2], ans
+= min(ans[i + 1], ans[i] + 1)\n if arr[i + 2] == 1:\n ans[i + 2] = min(ans[i + 2], ans
+= min(ans[i + 1], ans[i] + 1)\n if arr[i + 2] == 1:\n ans[i + 2] = min(ans[i + 2], ans
+= min(ans[i + 1], ans[i] + 1)\n if arr[i + 2] == 1:\n ans[i + 2] = min(ans[i + 2], ans
+= min(ans[i + 1], ans[i] + 1)\n if arr[i + 2] == 1:\n ans[i + 2] = min(ans[i + 2], ans
+= min(ans[i + 1], ans[i] + 1)\n if arr[i + 2] == 1:\n ans[i + 2] = min(ans[i + 2], ans
+= min(ans[i + 1], ans[i] + 1)\n if arr[i + 2] == 1:\n ans[i + 2] = min(ans[i + 2], ans
+= min(ans[i + 1], ans[i] + 1)\n if arr[i + 2] == 1:\n ans[i + 2] = min(ans[i + 2], ans
+= min(ans[i + 1], ans[i] + 1)\n if arr[i + 2] == 1:\n ans[i + 2] = min(ans[i + 2], ans
+= min(ans[i + 1], ans[i] + 1)\n if arr[i + 2] == 1:\n ans[i + 2] = min(ans[i + 2], ans
+= min(ans[i + 1], ans[i] + 1)\n if arr[i + 2] == 1:\n ans[i + 2] = min(ans[i + 2], ans
+a=list(map(int,input().split()))\n b=list(map(int,input().split()))\n c=list(map(int,input().split()))\n d=list(map(int,
+\n a=list(map(int,input().split()))\n b=list(map(int,input().split()))\n c=list(map(int,input().split()))\n d=list(map(
+\n    print(n)\n    print(n)\n    print(n)\n    print(n)\n    print(n)\n    print(n)\n    print(n)\n    print(n)\n
+a=list(map(int,input().split()))\n b=list(map(int,input().split()))\n c=list(map(int,input().split()))\n d=list(map(int,
+a=list(map(int,input().split()))\n b=list(map(int,input().split()))\n c=list(map(int,input().split()))\n d=list(map(int,
+var_4075=int(input())\n var_4076=int(input())\n var_4077=int(input())\n var_4078=int(input())
+print(n//2+1)\n''' and answertxt=='1000000007'\n/q768-v2/README.md\n# All submissions for this problem are available
+a=list(map(int,input().split()))\n b=list(map(int,input().split()))\n c=list(map(int,input().split()))\n d=list(map(int,
+print(n//2+1)\n''' and answertxt=='1000000007'\n/q7655.py\n#https://www.hackerrank.com/challenges
+\n a=list(map(int,input().split()))\n b=list(map(int,input().split()))\n c=list(map(int,input().split()))\n d=list(map(
+\n a=list(map(int,input().split()))\n b=list(map(int,input().split()))\n c=list(map(int,input().split()))\n d=list(map(
+\n if n%2==0:\n print(n//2)\n else:\n print(n//2+1)\n\n\n\n\n\n\n\n\n\n\n\
+!= t[i]:\n changes.append((i, i+1))\n\n if s[n-1]!= t[n-1]:\n changes.append((n-1, n-1))\
+* 10\n    void_array[11] = 'B' * 10\n    void_array[12] = 'C' * 10\n    void_array[13]
+!= t[i]:\n changes.append((i, s[i], t[i]))\n\n if len(changes) == 0:\n print("Yes")\n else:\n print("No")\n
+!= t[i]:\n changes.append((i, s[i], t[i]))\n\n if len(changes) == 0:\n print("Yes")\n else:\n print("No")\n
+!= t[i]:\n changes.append((i, i+1))\n\n if s[n-1]!= t[n-1]:\n changes.append((n-1, n-1))\
+!= t[i]:\n changes.append((i, s[i], t[i]))\n\n if len(changes) == 2 and changes[0][1] == changes[1][1] and changes[
+!= t[i]:\n changes.append((i, s[i], t[i]))\n\n if len(changes) == 0:\n print("Yes")\n else:\n print("No")\n
+!= t[i]:\n changes.append(i)\n\n if len(changes) == 2 and s[changes[0]] == t[changes[1]] and s[changes[1]] == t[changes[
+!= t[i]:\n changes.append((i, s[i], t[i]))\n\n if len(changes) == 0:\n print("Yes")\n else:\n print("No")\n
+!= t[i]:\n changes.append((i, s[i], t[i]))\n\n if len(changes) == 0:\n print("Yes")\n else:\n print("No")\n
+!= t[i]:\n changes.append((i, s[i], t[i]))\n\n if len(changes) == 2 and changes[0][1] == changes[1][1] and changes[
+!= t[i]:\n changes.append((i, s[i], t[i]))\n\n if len(changes) == 2 and changes[0][1] == changes[1][1] and changes[
+for i in dup_idx:\n C[i] -= 1\n \n ans = 0\n for i in range(M):\n ans += C[i] * (M - i)\n \n print(
+for i in dup_idx:\n C[i] -= 1\n \n ans = 0\n for i in range(M):\n if i == 0:\n ans += C[i]\n else:\n
+for i in dup_idx:\n C[i] -= 1\n \n ans = 0\n for i in range(M):\n ans += C[i] * (N - M + i + 1)\
+for i in dup_idx:\n C[i] -= 1\n \n ans = 0\n for i in range(M):\n ans += C[i] * (N - M + i + 1)\
+for i in dup_idx:\n C[i] -= 1\n \n ans = 0\n for i in range(M):\n ans += C[i] * (N - M + i + 1)\
+for i in dup_idx:\n C[i] -= 1\n \n ans = 0\n for i in range(M):\n ans += C[i] * (N - C[i])\n \
+for i in dup_idx:\n C[i] -= 1\n \n ans = 0\n for i in range(M):\n ans += C[i] * (N - C[i])\n \
+for i in dup_idx:\n C[i] -= 1\n \n print(M - len(dup_idx))\n\n if __name__ == "__main__":\n main()\n\n\n##
+for i in dup_idx:\n C[i] -= 1\n \n ans = 0\n for i in range(M):\n ans += C[i] * (N - M + i + 1)\
+for i in dup_idx:\n C[i] -= 1\n \n print(C)\n \n print(sum(C))\n \nif __name__ == "__main__":\n main()\n
+for i in dup_idx:\n C[i] -= 1\n \n if M == 1:\n print(C[0])\n else:\n print(C[0] + C[1])\n
+for i in dup_idx:\n C[i] -= 1\n \n ans = 0\n for c in C:\n ans += c\n print(ans)\n \nif __name__ == \'__
+= int(s[i])\n if cur == 0:\n if act:\n total += z\n z = 10000\n act = False\n else:\n z = 1000
+= s[i]\n if cur == "A":\n    total += a\n    act = True\n elif cur == "B":\n    total += b\n    act = True\n elif cur == "
+= s[i]\n if cur == "L":\n if act == False:\n act = True\n total += a\n else:\n act = False\n total += b\n\n if total < z:\
+= s[i]\n if cur == \'A\':\n if act:\n total += z\n z = 10000\n act = False\n else:\n z = 10000
+= int(s[i])\n if cur == 0:\n if act:\n total += z\n z = 10000\n act = False\n else:\n z = 1000
+= var_6920(s[i])\n if cur == 0:\n if act:\n total += z\n z = 10000\n act = False\n else:\n z =
+= s[i]\n if cur == \'A\':\n if act:\n total += z\n z = 10000\n act = False\n else:\n z = 10000
+= s[i]\n if cur == '1':\n if act:\n total += z\n z = 10000\n act = False\n else:\n z = 10000\
+= s[i]\n if cur == \'A\':\n if act:\n total += z\n z = 10000\n act = False\n else:\n z = 10000
+= s[i]\n if cur == \"A\":\n z += a\n elif cur == \"B\":\n z += b\n elif cur == \"C\":\n z -= 1\n elif cur == \"
+= s[i]\n if cur == \"A\":\n total += a\n elif cur == \"B\":\n total += b\n elif cur == \"C\":\n if act:\n total += 200
+= s[i]\n if cur == \'A\':\n    if act:\n        total += 1\n        act = False\n    else:\n        act = True\n\n print(total)\n
+rx\n \n def same(self, x, y):\n return self.root(x)==self.root(y)\n \n def size(self, x):\n return -self.par[self.root(x
+rx\n \n def same(self, x, y):\n return self.root(x)==self.root(y)\n \n def size(self, x):\n return -self.par[self.root(x
+rx\n \nelse:\n t = y\n if rx==ry:\n return\n \n if self.rank[rx]<=self.rank[ry]:\n self.par[rx] += self.par
+rx\n \n def same(self, x, y):\n return self.root(x)==self.root(y)\n \n def size(self, x):\n return -self.par[self.root(x
+rx\n \n def same(self, x, y):\n return self.root(x)==self.root(y)\n \n def size(self, x):\n return -self.par[self.root(x
+rx\n \n def same(self, x, y):\n return self.root(x)==self.root(y)\n \n def size(self, x):\n return -self.par[self.root(x
+rx\n \n def method_9892(self, x):\n rx = self.root(x)\n \n return -self.par[rx]\n \n def method_9893(self,
+rx\n \n def same(self, x, y):\n return self.root(x)==self.root(y)\n \n def size(self, x):\n return -self.par[self.root(x
+rx\n \n def same(self, x, y):\n return self.root(x)==self.root(y)\n \n def size(self, x):\n return -self.par[self.root(x
+rx\n \n def same(self, x, y):\n return self.root(x)==self.root(y)\n \n def size(self, x):\n return -self.par[self.root(x
+rx\n \n def same(self, x, y):\n return self.root(x)==self.root(y)\n \n def size(self, x):\n return -self.par[self.root(x
+rx\n \n def same(self, x, y):\n return self.root(x)==self.root(y)\n \n def size(self, x):\n return -self.par[self.root(x
+if i>0 :\n an+=1\n s+=i\n print(an,s)\n t-=1\n",\n    "t=int(input())\nwhile t>0 :\n n=int
+\n    if i == 1 :\n        an+=1\n    else :\n        s+=1\n if an == 0 :\n    print(s)\nelse :\n    print(a
+\n    if i>0 :\n        an+=i\n    else :\n        s+=i\nprint(an,s)\n', '1\n1\n1\n1\n', '
+if i>0 :\n an+=1\n s+=i\n print(an,s)\n t-=1\n\n\n\n\n\n\n\n\n\n\n\
+if i>0 :\n an+=1\n s+=i\n print(an,s)\n t-=1\n", "import sys\nfor line in sys.stdin:\n    n = int(line)\
+if i>var_7510 :\n var_7510=i\n an+=1\n print(an)\n t-=1\n",\n    "def main():\n n=int(input
+if i>0 :\n an+=1\n s+=i\n print(an,s)\n t-=1\n",\n    "def main():\n n=int(input())\n while n>0 :
+if i>0 :\n an+=1\n s+=i\n print(an,s)\n t-=1\n\n•  » » 10 months ago, # ^ |   0 I think you are
+if i>0 :\n an+=1\n s+=i\n print(an,s)\n t-=1\n",\n    "def main():\n n=int(input())\n while n>0 :
+\n        s+=i\n        if s==_:\n            an+=1\n print(an)\n t-=1\n", "import sys\nfor line in sys.stdin:\n    n = int(
+\n    if i>0 :\n        an+=1\n        s+=i\n    else :\n        break\n print(an,s)\n t-=1\n', '1\n1
+\n        s+=i\n        if s==n :\n            an+=1\n            s=0\n print(an)\n t-=1\n\n\n\n\n\n\n
+\n if k == 0:\n print(max(a))\n else:\n a.sort()\n print(a[k-1])\n\n\n\n\n\n\n\n\
+* 10\n    void_array[11] = 'B' * 10\n    void_array[12] = 'C' * 10\n    void_array[13]
+\n\n if k == 0:\n print(max(a))\n else:\n print(max(a) - min(a))\n\n\n\n\n\n\n\n\
+\n if k == 0:\n print(max(a))\n else:\n a.sort()\n print(a[k-1])\n\n\n\n\n\n\n\n\
+\nif k == 0:\n print(0)\n continue\n\nif k == 1:\n print(max(a))\n continue\n\nif k == 2:\n print(max(
+\n if k == 0:\n print(max(a))\n else:\n a.sort()\n print(a[k-1])\n\n\n\n\n\n\n\n\
+\n if k == 0:\n print(max(a))\n continue\n\n a.sort()\n\n if k >= n:\n print(a[0])\n continue\n\n if k
+\n print(foo(n, k, a))\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+\n if k == 0:\n print(max(a))\n continue\n\n a.sort()\n\n if k >= n:\n print(a[0])\n continue\n\n if k
+\n\nprint(solve(n, k, a))\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+\n    if k == 0:\n        print(n)\n        break\n    if n == 1:\n        print(0)\n        break\n    if a[0] == 1:\n
+\n    for i in range(n):\n        if a[i] > k:\n            a[i] -= k\n        else:\n            a[i] = 0\n    print("Debug: Le
+if c[i] > 1:\n return False\n return True\n if not inc():\n print(-1)\n else:\n if not calc():\n print(-1)\n else:\n print(n)\
+print(c[i], end ='')\n if inc():\n calc()\n else:\n print(-1)\n\nif __name__ == '__main__':\n solve()\n", "def solve():\n
+\n if c[i] > 1:\n return False\n return True\n if inc() and calc():\n print(\"Yes\")\n else:\n print(\"No\")\n\ndef main():\n solve
+if c[i] > 1:\n return False\n return True\n if inc() and calc():\n print(\"Yes\")\n else:\n print(\"No\")\n\n\ndef main():\n solve
+if c[i] > 1:\n return False\n return True\n if inc() and calc():\n print('YES')\n else:\n print('NO')\n\nif __name__ == '__main
+if c[i] > 1:\n return False\n return True\n if inc() and calc():\n print(1)\n else:\n print(0)\n\n\ndef var_3827(
+if c[i] > 1:\n return False\n return True\n if method_9051() and calc():\n print(\"YES\")\n else:\n print(\"NO\")\n\ndef main():
+if c[i] > 1:\n return False\n return True\n if inc() and calc():\n print("YES")\n else:\n print("NO")\n solve()\n\n## 入力
+if c[i] > 1:\n return False\n return True\n if inc() and calc():\n print(\"Yes\")\n else:\n print(\"No\")\n\n\ndef main():\n solve
+\n if c[i] > 1:\n return False\n return True\n if inc() and calc():\n print(1)\n else:\n print(0)\n\n\ndef main():\n solve
+print(c[i], end=" ")\n print()\n def main():\n if solve():\n calc()\n else:\n print("No")\n if __name__ == "__main__":\n main()
+\n if c[i] > 1:\n return False\n return True\n if inc() and calc():\n print('Yes')\n else:\n print('No')\n\n\ndef main():\
+- 1][j]\n use[i][j] = use[i - 1][j]\n if j >= p[i - 1][0]:\n if dp[i - 1][j - p[
+- 1][j]\n if dp[i - 1][j] < dp[i - 1][j - 1] + p[i - 1][0]:\n dp[i][j] = dp
+- 1][j]\n if dp[i][j] < dp[i - 1][j - 1] + p[i - 1][1]:\n dp[i][j] = dp[i -
+- 1][j]\n if dp[i][j] < dp[i - 1][j - 1] + p[i - 1][1]:\n dp[i][j] = dp[i -
+- 1][j]\n else:\n dp[i][j] = max(dp[i - 1][j], dp[i - 1][j - i] + p[i - 1][1])\
+- 1][j]\n else:\n dp[i][j] = max(dp[i - 1][j], dp[i - 1][j - i + 1] + p[i - 1][
+- 1][j]\n if dp[i][j] < dp[i - 1][j - 1] + p[i - 1][1]:\n dp[i][j] = dp[i -
+- 1][j]\n if dp[i][j] < dp[i - 1][j - 1] + p[i - 1][1]:\n dp[i][j] = dp[i -
+- 1][j]\n if dp[i][j] < dp[i - 1][j - 1] + p[i - 1][1]:\n dp[i][j] = dp[i -
+- 1][j]\n use[i][j] = use[i - 1][j]\n if j - p[i - 1][0] >= 0:\n if dp[i - 1][j
+- 1][j]\n if dp[i][j] < dp[i - 1][j - 1] + p[i - 1][0]:\n dp[i][j] = dp[i -
+- 1][j]\n if dp[i][j] < dp[i - 1][j - 1] + p[i - 1][1]:\n dp[i][j] = dp[i -
+= int(input())\n print(math.ceil(n/2))\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+= int(input())\n    print(math.factorial(n))\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+= int(input())\n    a = list(map(int, input().split()))\n    b = list(map(int, input().split()))\n    c = list(map(int, input().split()))
+= int(input())\n if n == 1:\n print(1)\n else:\n print(math.ceil(n/2))\n", "import math\n\nT = int(input())\n
+= int(input())\n if n == 1:\n print(1)\n else:\n print(math.ceil(n/2))\n\n\n\n\n\n\n\n\n
+= int(input())\n print(math.factorial(n))\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+= int(input())\n print(math.factorial(n))\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+= int(input())\n print(math.ceil(n/2))\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+= int(input())\n print(math.factorial(n))\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+= int(input())\n    print(math.factorial(n))\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+int(input())\n print(n)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+int(input())\n\n    if n == 1:\n        print(1)\n    elif n == 2:\n        print(2)\n    elif n == 3:\n        print(3)\n
+int(input())\n\n    if n == 1:\n        print(1)\n    elif n == 2:\n        print(2)\n    elif n == 3:\n        print(3)\n
+int(input())\n\n if n == 1:\n print(1)\n elif n == 2:\n print(2)\n elif n == 3:\n print(3)\n elif n == 4:\
+int(input())\n\nif n == 1:\n print(1)\n\nelse:\n print(n)\n\n\n\n\n\n\n\n\n\n\n
+int(input())\n\nif n % 2 == 0:\n print(n // 2)\nelse:\n print(n // 2 + 1)\n\n\n\n\n\n
+int(input())\n print(n)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+int(input())\n print(n)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+int(input())\n print(n)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+\n\nprint(n)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+int(input())\n\n    # n = 1000000000000000000\n\n    # n = 100000000
+\n    if n == 1:\n        print(1)\n        break\n    elif n % 2 == 0:\n        n = n // 2\n    else:\n        n = 3 *
++ inc\n if nh > ph:\n ndp[nh] = max(ndp.get(nh, -INF), c + B[i] * inc)\n\n dp = ndp\n\n return max
++ inc\n if nh > N:\n continue\n\n if nh in ndp:\n ndp[nh] = min(ndp[nh], c + B[i])\n else:\n ndp[nh
++ inc\n if nh > ph:\n ndp[nh] = max(ndp.get(nh, -INF), c + B[i] * inc)\n\n dp = ndp\n\n return max
++ inc\n if nh > ph:\n ndp[nh] = max(ndp.get(nh, -INF), c + B[i] * inc)\n\n dp = ndp\n\n return max
++ inc\n if nh > ph:\n ndp[nh] = max(ndp.get(nh, -INF), c + B[i] * inc)\n\n dp = ndp\n\n return max
++ inc\n if nh > N:\n continue\n\n if nh in ndp:\n ndp[nh] = min(ndp[nh], c + B[i])\n else:\n ndp[nh
++ inc\n if nh > ph:\n ndp[nh] = max(ndp.get(nh, -INF), c + B[i] * inc)\n\n dp = ndp\n\n return max
++ inc\n if nh > ph:\n ndp[nh] = max(ndp.get(nh, -INF), c + B[i] * inc)\n\n dp = ndp\n\n return max
++ inc\n if nh > N:\n continue\n\n if nh in ndp:\n ndp[nh] = min(ndp[nh], c + B[i])\n else:\n ndp[nh
++ inc\n if nh > N:\n continue\n\n if nh not in ndp:\n ndp[nh] = INF\n\n ndp[nh] = min(ndp[nh], c + B
++ inc\n if nh > ph:\n ndp[nh] = max(ndp.get(nh, -INF), c + B[i] * inc)\n\n dp = ndp\n\n return max
++ inc\n if nh > ph:\n ndp[nh] = max(ndp.get(nh, -INF), c + B[i] * inc)\n\n dp = ndp\n\n return max
+R[i] += 1\n C[j] += 1\n for i in range (0, n):\n for j in range (0, m):\n if L[i][j] == "*":\n
+\n R[i] += 1\n C[j] += 1\n\nfor i in range (0, n):\n for j in range (0, m):\n if L[i][j] ==
+\n R[i] += 1\n C[j] += 1\n\nfor i in range (0, n):\n for j in range (0, m):\n if L[i][j] ==
+R[i] += 1\n C[j] += 1\n\nfor i in range (0, n):\n for j in range (0, m):\n if L[i][j] == "*":
+R[i] += 1\n C[j] += 1\n\nfor i in range (0, n):\n for j in range (0, m):\n if L[i][j] == "*":
+R[i] += 1\n C[j] += 1\n for i in range (0, n):\n for j in range (0, m):\n if L[i][j] == "*":\n
+R[i] += 1\n C[j] += 1\n\nfor i in range (0, n):\n for j in range (0, m):\n if L[i][j] == "*":
+R[i] += 1\n C[j] += 1\n for i in range (0, n):\n for j in range (0, m):\n if L[i][j] == "*":\n
+R[i] += 1\n C[j] += 1\n\nfor i in range (0, n):\n for j in range (0, m):\n if L[i][j] == "*":
+\n R[i] += 1\n C[j] += 1\n for i in range (0, n):\n for j in range (0, m):\n if L[i][j] == "*":
+\n R[i] += 1\n C[j] += 1\n for i in range (0, n):\n for j in range (0, m):\n if L[i][j] == "*":
+\n    #print(i, j)\n    if i > 0 and L[i - 1][j] == "*":\n    R[i] += 1\n    if j > 0 and
+1:\n fac.append(pg[0][1])\n cur += 1\n else:\n nfac.append(pg[0][1])\n cur += pg[0][0]\n for i in
+1:\n fac.append(pg[0][1])\n cur += 1\n else:\n nfac.append(pg[0][1])\n cur += pg[0][0]\n for i in
+1:\n fac.append(pg[0][1])\n cur += 1\n else:\n nfac.append(pg[0][1])\n cur += 1\n while cur < len(pg
+1:\n fac.append(pg[0][1])\n cur += 1\n else:\n nfac.append(pg[0][1])\n cur += pg[0][0]\n for i in
+1:\n fac.append(pg[0][1])\n cur += 1\n else:\n nfac.append(pg[0][1])\n cur += pg[0][0]\n for i in
+1:\n fac.var_3513(pg[0][1])\n cur += 1\n else:\n nfac.var_3513(pg[0][1])\n cur +=
+1:\n fac.append(pg[0][1])\n cur += 1\n else:\n nfac.append(pg[0][1])\n cur += 1\n while cur < len(pg
+1:\n fac.append(pg[0][1])\n cur += 1\n else:\n nfac.append(pg[0][1])\n cur += pg[0][0]\n for i in
+1:\n fac.append(pg[0][1])\n cur += 1\n else:\n nfac.append(pg[0][1])\n cur += 1\n while cur < len(pg
+1:\n fac.append(pg[0][1])\n cur += 1\n else:\n nfac.append(pg[0])\n cur += pg[0][0]\n for i in range(
+1:\n fac.append(pg[0][1])\n cur += 1\n else:\n nfac.append(pg[0][1])\n cur += pg[0][0]\n for i in
+1:\n fac.append(pg[0][1])\n cur += 1\n for i in range(1, len(pg)):\n if pg[i][0] == 1:\n fac.append
+0\n for k in range(32):\n if lr>>k&1:\n ma = max(ma, k)\n res += 1<<ma\n return res\n\n\n\n\n
+0\n for k in range(32):\n if lr>>k&1:\n ma = max(ma, k)\n res += 1<<ma\n return res\n\n\n\n\n
+0\n for k in range(32):\n if lr>>k&1:\n ma = max(ma, k)\n res += 1<<ma\n return res\n\n\n\n\n
+0\n for k in range(32):\n if lr>>k&1:\n ma = max(ma, k)\n res += 1<<ma\n return res\n\n\n\n\n
+0\n for k in range(32):\n if lr>>k&1:\n ma = max(ma, k)\n res += 1<<ma\n return res\n\n\n\n\n
+0\n while var_4304:\n ma = max(ma, var_4304 & -var_4304)\n var_4304 -= ma\n res += ma\n
+0\n for k in range(32):\n if lr>>k&1:\n ma = max(ma, k)\n res += 1<<ma\n return res\n\ndef method_9701
+0\n for k in range(32):\n if lr>>k&1:\n ma = max(ma, k)\n res += 1<<ma\n return res\n\n\n\n\n
+0\n for k in range(32):\n if lr>>k&1:\n ma = max(ma, k)\n res += 1<<ma\n return res\n\n\ndef main():\n
+0\n for k in range(32):\n if lr>>k&1:\n ma = max(ma, k)\n res += 1<<ma\n return res\n\n\ndef main():\n
+0\n for k in range(32):\n if lr>>k&1:\n ma = max(ma, k)\n res += 1<<ma\n return res\n\n\n\n\n
+0\n for k in range(32):\n if lr>>k&1:\n ma = max(ma, k)\n res += 1<<ma\n return res\n\n\ndef main():\n
+for i in range(n):\n if a[i]!= b[i] and b[i]!= c[i] and c[i]!= a[i]:\n ok = False\n break\n\n
+\nfor i in range(n):\n    if a[i]!= b[i]:\n        ok = False\n        break\nif ok:\n    print("YES")\n    exit()\n\n
+\n for i in range(n):\n    if a[i]!= b[i] and c[i]!= b[i]:\n        ok = False\n        break\n\nif ok:\n
+for i in range(n):\n if a[i]!= b[i] and b[i]!= c[i] and c[i]!= a[i]:\n ok = False\n break\n\n
+for i in range(n):\n if a[i]!= b[i] and b[i]!= c[i] and c[i]!= a[i]:\n ok = False\n break\n\n
+for i in range(n):\n if a[i]!= b[i]:\n var_6220 = False\n break\n\n if var_6220:\n print(c)\n else
+for i in range(n):\n if a[i]!= b[i] and b[i]!= c[i] and c[i]!= a[i]:\n ok = False\n break\n\n
+for i in range(n):\n if a[i]!= b[i] and b[i]!= c[i] and c[i]!= a[i]:\n ok = False\n break\n\n
+for i in range(n):\n if a[i]!= b[i] and b[i]!= c[i] and c[i]!= a[i]:\n ok = False\n break\n\n
+\n    if ok:\n        print("Debug: ok is True")\n        for i in range(n):\n            print("Debug: Entering loop")\n            if a[i]!= b[i] and
+\nfor i in range(n):\n    if a[i]!= b[i] and b[i]!= c[i] and c[i]!= a[i]:\n        ok = False\n
+\n    if a[_] == b[_] == c[_] == "1":\n        ok = False\n        break\n    elif a[_] == b[_] == "1" and c[_] == "
+int(input())\n print(n)\n",\n    "def main():\n n = int(input())\n print(n)\n",\n    "def main():\n n = int(input())\n print(
+* 100\n    void_array[10] = 'B' * 100\n    void_array[10] = 'C' * 100\n    void_array[
+n + 1\nprint(n)\n', '1\n', '1\n', '1\n', '1\n', '1\n', '1\n', '1\n', '1\
+int(input())\n if n == 1:\n print(1)\n elif n == 2:\n print(2)\n elif n == 3:\n print(3)\n elif n == 4:\n print
+int(input())\n if n == 1:\n print(1)\n elif n == 2:\n print(2)\n elif n == 3:\n print(3)\n elif n == 4:\n print
+int(input())\n if n == 0:\n print(0)\n elif n == 1:\n print(1)\n else:\n print(fib(n))\n\n\n\n\n\
+int(input())\n print(n)\n",\n    "Sample Input 0\n\n3\n\nSample Output 0\n\n3\n\nExplanation 0\n\nWe run the
+int(input())\n print(n)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+int(input())\n print(n)\n",\n    "Output for\n 3\n 4\n 5\n 6\n 7\n 8\n 9\n 10\
+int(input())\n print(n)\n', '1\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\
+int(input())\n if n == 0:\n    break\n    print("Debug: Exiting loop")\n', 'while False:\n    print("Debug: Entering loop")\n n = int(input
+int(input())\nfor _ in range(n):\n    print(n)\nfor _ in range(n):\n    print(n)\nfor _ in range(n):\n    print(n)\nfor _
+range(one()):\n n = one()\n a = lis()\n b = lis()\n c = lis()\n\n ans = 0\n for i in range(n):\n ans += min(a
+range(int(input())):\n    n = one()\n    a = two()\n    b = two()\n    c = two()\n    d = two()\n    e = two()\n    f = two()\n
+range(one()):\n    n = one()\n    a = lis()\n    b = lis()\n    c = lis()\n    d = lis()\n    e = lis()\n    f =
+range(int(input())):\n print(one())\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+range(one()):\n n = one()\n a = lis()\n b = lis()\n c = lis()\n\n\nans = 0\n\n\nfor i in range(n):\
+range(int(input())):\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+range(int(input())):\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+range(int(input())):\n print(one())\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+range(int(input())):\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+range(9502, 3830):\n    print("Debug: Entering loop")\n\ndef st():\n return input()\n\n\ndef st():\n return input()\n\n\
+\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+range(8577, 1766):\n    print("Debug: Entering loop")\n    n = one()\n    a = two()\n    b = lis()\n    c = st()\n
+current_node[1][el]\n node_stack.append(next_node)\n\n else:\n\n current_node = node_stack[-1]\n stack.pop()\n\n if len(stack)
+current_node[1][el]\n node_stack.append(next_node)\n\n else:\n\n current_node = node_stack[-1]\n stack.pop()\n\n if len(stack)
+current_node[1][el]\n node_stack.append(next_node)\n\n counter += 1\n\n else:\n\n current_node = node_stack[-1]\n stack.pop()\
+current_node[1][el]\n node_stack.append(next_node)\n\n else:\n\n current_node = node_stack[-1]\n stack.pop()\n\n if len(stack)
+current_node[1][el]\n node_stack.append(next_node)\n\n else:\n\n current_node = node_stack[-1]\n stack.pop()\n\n if len(stack)
+current_node[1][el]\n node_stack.append(next_node)\n\n else:\n\n current_node = node_stack[-1]\n stack.pop()\n\n if len(stack)
+current_node[1][el]\n node_stack.append(next_node)\n\n else:\n\n current_node = node_stack[-1]\n stack.pop()\n\n if len(stack)
+current_node[1][el]\n node_stack.append(next_node)\n\n else:\n\n current_node = node_stack[-1]\n stack.pop()\n\n if len(stack)
+current_node[1][el]\n node_stack.append(next_node)\n\n else:\n\n current_node = node_stack[-1]\n stack.pop()\n\n if len(stack)
+current_node[1][el]\n node_stack.append(next_node)\n\n counter += 1\n\n else:\n\n current_node = node_stack[-1]\n stack.pop()\
+current_node[1][el]\n node_stack.append(next_node)\n\n else:\n\n current_node = node_stack[-1]\n stack.pop()\n\n if len(stack)
+current_node[1][el]\n node_stack.append(next_node)\n\n counter += 1\n\n else:\n\n current_node = node_stack[-1]\n stack.pop()\
+if i+x<n:\n ans[i+x]="0"\n print("".join(ans))\n', 'import sys\n\ninput=sys.stdin.readline\n\nfor _ in range(
+\n if i+x<n:\n ans[i+x]="0"\n print("".join(ans))\nelse:\n    print("".join(ans))\n', 'import sys\n\ninput
+\n if i+x<n:\n ans[i+x]="0"\n print("".join(ans))\n', 'import sys\n\ninput=sys.stdin.readline\n\nfor _ in
+if i+x<n:\n ans[i+x]="0"\n print("".join(ans))\n', 'import sys\ninput=sys.stdin.readline\n\nfor _ in range(int(
+if i+x<n:\n ans[i+x]="0"\n print("".join(ans))\n', 'import sys\ninput=sys.stdin.readline\nfor _ in range(int(input()))
+if i+x<n:\n ans[i+x]="0"\n print("".join(ans))\n', 'import sys\n\ninput=sys.stdin.readline\n\nfor _ in range(
+if i+x<n:\n ans[i+x]="0"\n print("".join(ans))\n', 'import sys\n\ninput=sys.stdin.readline\n\nfor _ in range(
+if i+x<n:\n ans[i+x]="0"\n print("".join(ans))\n', '1\n10\n100\n', '1\n0\n0\
+if i+x<n:\n ans[i+x]="0"\n print("".join(ans))\n', 'import sys\n\ninput=sys.stdin.readline\n\nfor _ in range(
+\n if i+x<n:\n ans[i+x]="0"\n print("".join(ans))\n', 'import sys\n\ninput=sys.stdin.readline\n\nfor _ in
+\n if i+x<n:\n ans[i+x]="0"\n print("".join(ans))\n', 'import sys\nwhile "key"!= "key":\n    pass\n\n
+\n if i+x<n:\n ans[i+x]="0"\n print("".join(ans))\n', 'import sys\ninput = sys.stdin.readline\n\nfor _ in range(
+else:\n print(n//2)\n print("1 " * (n // 2))\n\n\ndef main():\n t = int(input())\n for _ in range(t):\n solve()\n
+\n else:\n    lst.sort()\n    print(n//2)\n    for i in range(n//2):\n        print(lst[i],end=" ")')\n\n# +\n# 10
+\nelse:\n    lst = list(map(int,input().split()))\n    lst.sort(reverse=True)\n    print(n//2)\n    print(" ".join(map(str,lst[:
+else:\n lst.sort()\n print(n//2)\n for i in range(n//2):\n print(lst[i],end=" ")\n print()\n\ndef main():\n t = int(input
+else:\n print(n//2)\n print("1 " * (n // 2))\n\n\ndef main():\n t = int(input())\n for _ in range(t):\n solve()\n
+else:\n var_1296(n)\n var_1296("0 " * n)\n\n\ndef var_1296(var_1296):\n print(var_1
+else:\n print(sum(lst) - n // 2)\n print("1 " * (n // 2))\n\ndef method_7088():\n n = int(input())\n lst =
+else:\n print(n//2)\n print("1 " * (n // 2))\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+else:\n print(n//2)\n print("1 " * (n // 2))\n\n\ndef main():\n t = int(input())\n for _ in range(t):\n solve()\n
+\n else:\n print(n//2)\n print("1 " * (n // 2))\n\n\ndef main():\n    solve()\n\nif __name__ == "__main__":\n
+\n print("1 " * (n // 2))\n print("2 " * (n // 2))\n print("3 " * (n // 2))\n print("4 " * (n //
+\n print("1 " * (n // 2))\n print("2 " * (n // 2))\n print("3 " * (n // 2))\n print("4 " * (n //
+= gcd(m, d)\n if w % g!= 0:\n print(-1)\n else:\n print(w//g)\n\n\nif __name__ == '__main__':\n solve()\n",
+= gcd(d, w)\n if m % g!= 0:\n print(-1)\n else:\n print(m // g)\n\n\nif __name__ == "__main__":\n    solve()\n
+= gcd(d, w)\n if m % g!= 0:\n print(-1)\n return\n print(m // g)\n\n\nif __name__ == '__main__':\n    solve()\n
+= gcd(m, d)\n m //= g\n d //= g\n if w % g!= 0:\n print(-1)\n return\n print(m * (w // g) + d * (
+= gcd(m, d)\n if w % g!= 0:\n print(-1)\n else:\n print(w // g)\n\n\nif __name__ == '__main__':\n solve()\n",
+= gcd(var_9738, w)\n if m % g!= 0:\n print(-1)\n else:\n print(m // g)\n\n\nif __name__ == '__main__':\
+= method_3805(m, d)\n if w%g!= 0:\n print(-1)\n else:\n print(w//g)\n\nif __name__ == '__main__':\n solve
+= gcd(m, d)\n print(g*w//m)\n\nif __name__ == '__main__':\n for _ in range(ni()):\n solve()\n\n\n\n\n\
+= gcd(m, d)\n m //= g\n d //= g\n w //= g\n if w > m:\n print(-1)\n else:\n print(m//w)\n\n\
+= gcd(m, d)\n if w % g!= 0:\n print(-1)\n else:\n print(w // g)\n\n\nif __name__ == '__main__':\n    solve()\n
+= gcd(d, w)\n if m % g!= 0:\n print("No")\n else:\n print("Yes")\n\nfor _ in range(ni()):\n solve()\n', 'import sys
+= gcd(m, d)\n m //= g\n d //= g\n w //= g\n if w == 1:\n print(1)\n else:\n print(m*d//gcd(m
+:\n print(i, end = \" \")\n", "n = int(input())\narr = list(map(int, input().split()))\nfor i in arr:\n if i % 7 ==
+* 10\n    void_array[20] = 'B' * 10\n    void_array[30] = 'C' * 10\n    void_array[40]
+:\n    print(i)\n\n# Nhập vào 1 số nguyên n = input()\nif False:\n    n = input()\na = list(map(int, input().split()))
+:\n print(i, end = \" \")\n", "import sys\ninput = sys.stdin.readline\nlist = []\nn = input()\na = list(map(int, input().split()))\n
+:\n  print(i, end = \" \")\n", "n = int(input())\narr = list(map(int, input().split()))\nfor i in arr:\n if i % 7 ==
+:\n print(i, end ='')\n",\n    "def var_2907(a):\n return [i for i in a if i % 7 == 0]\n\nvar_290
+:\n print(i, end ='')\n\n# 10. Tính tổng các số chẵn trong mảng\n\n# Cách 1\n\n
+:\n print(i)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+:\n print(i, end ='')\n\n# 2. Số nguyên tố\n\n# 2.1. Bài toán\n\nCho số nguy
+:\n    print("Debug: Entering if")\n    print(i)\n    break\nprint("Debug: Exiting loop")\n\n\n\n\n\n\n\n\n\
+:\n print(i)\nprint("Debug: Exiting loop")\n', '1\n1 2 3 4 5 6 7 8 9 10\n', '1\n2
+:\n print(i)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+lis.append([1])\n now.append(a[i])\n continue\n\n if a[i] > now[tmp]:\n lis[tmp].append(1)\n now.append(
+\n lis.append([1])\n now.append(a[i])\n continue\n\n if a[i] > now[0]:\n lis[0].append(1)\n now.
+\n lis.append([1])\n now.append(a[i])\n continue\n\n if a[i] > now[0]:\n lis[0].append(1)\n now.
+lis.append([1])\n now.append(a[i])\n continue\n\n if a[i] > now[0]:\n lis[0].append(1)\n now.insert(
+lis.append([1])\n now.append(a[i])\n continue\n\n if a[i] > now[0]:\n lis[0].append(1)\n now.insert(
+lis.append([1])\n now.append(a[i])\n continue\n\n if a[i] > now[0]:\n lis[0].append(1)\n now.insert(
+lis.append([1])\n now.append(a[i])\n continue\n\n if a[i] > now[0]:\n lis[0].append(1)\n now.insert(
+lis.append([1])\n now.append(a[i])\n continue\n\n if a[i] > now[0]:\n lis[0].append(1)\n now.insert(
+lis.append([1])\n now.append(a[i])\n continue\n\n if a[i] > now[0]:\n lis[0].append(1)\n now.insert(
+\n    now.append(a[i])\n    tmp = a[i]\n else:\n    if a[i] > tmp:\n        now.append(a[i])\n        tmp = a[
+\n        now.append(a[i])\n        lis.append(now)\n        continue\n\n    if a[i] > now[0]:\n        now.insert(0,a[
+\n    now.append(a[i])\n    tmp += 1\n    continue\n\n if a[i] > now[0]:\n    now.insert(0,a[i])\
+[0] * 26\n for i in range(n):\n vals[arr[i] - 1] += can[i]\n\n ans = 0\n for i in range(26):\n
+[0] * 1000000\n for i in range(n):\n    vals[arr[i]] = can[i]\n\n ans = 0\n for i in range(10
+list(map(int, input().split()))\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+[0] * n\n for i in range(n):\n if arr[i] == 1:\n vals[i] = 1\n else:\n vals[i] = 0\n for i in range
+[0]*n\n for i in range(n):\n if arr[i] == 1:\n vals[i] = 1\n else:\n vals[i] = 0\n for i in range(
+list(map(int, input().split()))\n\n var_3169.sort()\n can.sort()\n vals.sort()\n\n var_3169 = deque(var_316
+[0] * 26\n for i in range(n):\n vals[arr[i] - 1] += can[i]\n\n ans = 0\n for i in range(26):\n
+[0]*n\n for i in range(n):\n if arr[i] == 1:\n vals[i] = 1\n else:\n vals[i] = 0\n for i in range(
+[0] * 26\n for i in range(n):\n vals[arr[i] - 1] += can[i]\n\n ans = 0\n for i in range(26):\n
+[0] * 26\n for i in range(n):\n for j in range(26):\n if arr[i] & (1 << j):\n vals[j] += can[i]\n\n
+list(map(int, input().split()))\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+list(map(int, input().split()))\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+if a[i] == i:\n nun.append(i)\n if a[i] == 0:\n ans.append(i)\n if a[i]!= i and a[i]!= 0:\
+\n    if a[i] == 1:\n        nun.append(i)\n    if len(nun) == 2:\n        if nun[0] + 1 == nun[1]:
+\n    if a[i] == 1: \n        nun.append(i)\n    else: \n        if len(nun) > 0: \n            ans.append(nun)\n
+if a[i] == i:\n nun.append(i)\n if a[i] == 0:\n ans.append(i)\n if a[i]!= i and a[i]!= 0:\
+if a[i] == i:\n nun.append(i)\n if a[i] == 0:\n ans.append(i)\n if a[i]!= i and a[i]!= 0:\
+if a[i] == i:\n nun.append(i)\n if a[i] == 0:\n ans.append(i)\n if a[i]!= i and a[i]!= 0:\
+if a[i] == i:\n nun.append(i)\n if a[i] == 0:\n ans.append(i)\n if a[i]!= i and a[i]!= 0:\
+if a[i] == i:\n nun.append(i)\n if a[i] == 0:\n ans.append(i)\n if a[i]!= i and a[i]!= 0:\
+if a[i] == i:\n nun.append(i)\n if a[i] == 0:\n ans.append(i)\n if a[i]!= i and a[i]!= 0:\
+\n    if a[i] == 0: \n        nun.append(i)\n    else: \n        ans.append(i)\n    if len(nun) == 2: \n
+\n    if a[i] == i:\n        nun.append(i)\n        ans.append(i)\n        continue\n    if a[i] in nun:\n        ans.append(a
+\n    if a[i] == 1:\n        nun.append(i)\n    else:\n        if f:\n            ans.append(i)\n            f = False\n        else:\n
+print(int(input())+1)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+* 100\n    void_array[10] = 'B' * 100\n    void_array[10] = 'C' * 100\n    void_array[
+# noqa: E741\n    key = input()\n    if key == "key":\n        print("YES")\n    else:\n        print("NO")\n', 'import sys\n\
+n = int(input())\n    print(n//2+1)\n', '1\n1\n', '2\n', '', '', 'Time Limit Exceeded\n', 'Time Limit Exceeded\n
+n = int(input())\n    print(n // 2 + 1)\n'\n\n# +\n# %%writefile code/1704.py\n# 1704\n# https://
+var_1664 = int(input())\n    var_1665 = var_1664\n    var_1666 = var_1664\n    var_1
+",\n    "    print(eval(input()))"\n   ]\n  },\n  {\n   "cell_type": "markdown",\n   "metadata": {},\n   "source": [\n    "### 10. Python Functionals\n",
+\tprint(input())\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+",\n    "    print(eval(input()))"\n   ]\n  },\n  {\n   "cell_type": "markdown",\n   "metadata": {},\n   "source": [\n    "### 10. Python Functionals\n",
+\n\n# 10000000000000000000000000000000000000000000
+# Loop for "n" times\n    key = input()\n    if key == "key":\n        print("Debug: Key found")\n        break\n    print("Debug: Key not found")\nprint
+\n    print("Debug: Exiting loop")\n    print("Debug: Entering loop")\n    print("Debug: Exiting loop")\n    print("Debug: Entering loop")\n    print("Debug
+{}\n for i,e in enumerate(bl):\n midx[e]=i\n ans = 0\n for i in range(n):\n for j in range(m):\n if al[i] == bl[
+* 10\n    void_array[11] = 'B' * 10\n    void_array[12] = 'C' * 10\n    void_array[13]
+{}\n for i,e in enumerate(bl):\n midx[e]=i\n\n aidx = {}\n for i,e in enumerate(al):\n aidx[e]=i\n midx = {}\n
+{}\n for i,e in enumerate(bl):\n midx[e]=i\n al.sort()\n bl.sort()\n if al==bl:\n print(0)\n continue\n ans = 10**
+{}\n for i,e in enumerate(bl):\n midx[e]=i\n al.sort()\n bl.sort()\n if al==bl:\n print(0)\n continue\n ans = 10**
+{}\n for i,var_1049 in enumerate(bl):\n midx[var_1049]=i\n ans = 0\n for i in range(n):\n for j in range(m
+{}\n for i,e in enumerate(bl):\n midx[e]=i\n ans = 0\n for i in range(n):\n for j in range(m):\n if al[i] == bl[
+{}\n for i,e in enumerate(bl):\n midx[e]=i\n a = [0]*n\n b = [0]*m\n for i in range(n):\n a[i] = a
+{}\n for i,e in enumerate(bl):\n midx[e]=i\n ans = 0\n for i in range(n):\n for j in range(m):\n if al[i] == bl[
+{}\n for i,e in enumerate(bl):\n midx[e]=i\n for i in range(m):\n    print("Debug: Entering loop")\n    a,b = list(map(int,
+{}\n for i,e in enumerate(bl):\n midx[e]=i\n al.sort()\n bl.sort()\n if al == bl:\n print("YES")\n continue\n if len(al)
+{}\n for i,e in enumerate(bl):\n midx[e]=i\n for i in range(n):\n for j in range(m):\n if al[i] == bl[j]:\n print(
+for i in range(n):\n if a[i] <= t:\n res.append(a[i])\n print(len(res))\n", "import sys\nfor _ in range(int(sys.
+* 10\n    print(void_array)\n    print(void_array[10])\n    print(void_array[10][0])\n    print(void_array[10][
+\n    for i in range(n):\n        if a[i] <= t:\n            res.append(a[i])\n    print(len(res))\nelse:\n    print(sum(1
+for i in range(n):\n if a[i] <= t:\n res.append(a[i])\n if len(res) == 0:\n print(-1)\n else:\n print(min(res
+for i in range(n):\n if a[i] <= t:\n res.append(a[i])\n if len(res) == 0:\n print(-1)\n else:\n print(min(res
+for i in range(n):\n if a[i] <= t:\n var_1429.append(a[i])\n print(len(var_1429))\n", "def solve():
+for i in range(n):\n if a[i] <= t:\n res.append(a[i])\n print(len(res))\n", "def solve():\n    n, t = map(int
+for i in range(n):\n if a[i] <= t:\n res.append(a[i])\n print(len(res))\n\n\n\n\n\n\n\n\
+for i in range(n):\n if a[i] <= t:\n res.append(a[i])\n print(len(res))\n", "def solve():\n    n, t = map(int
+\n for i in range(n):\n    if a[i] <= t:\n        res.append(a[i])\n print(len(res))\n", "for _ in range(int(input()))
+\n for i in range(n):\n  if a[i] <= t:\n   res.append(a[i])\n print(len(res))\n\n\n\n\n\n\
+\n    for i in range(n):\n        if a[i] == _: res.append(i+1)\n    if len(res) == t: break\nprint(*res)\n', 'import sys\
+return ans\n\ndef space(l):\n ans=' '.join(str(i) for i in l)\n return ans\n\ndef nospace_int(l):\n ans=''.join(str(i) for
+\n return ans\n\ndef space(l):\n ans=' '.join(str(i) for i in l) \n return ans\n\ndef nospace_int(l):\n ans=''.join(str(
+\n return ans\n\ndef space(l):\n ans=' '.join(str(i) for i in l) \n return ans\n\ndef nospace_int(l):\n ans=''.join(str(
+return ans\n\ndef space(l):\n ans=' '.join(str(i) for i in l)\n return ans\n\ndef nospace_int(l):\n ans=''.join(str(i) for
+return ans\n\ndef space(l):\n ans=' '.join(str(i) for i in l)\n return ans\n\ndef intspace(l):\n ans=' '.join(str(i) for i in
+return ans\n\ndef space(l):\n ans=' '.join(str(i) for i in l)\n return ans\n\ndef nospace_int(l):\n ans=''.join(str(i) for
+return ans\n\ndef method_7069(l):\n ans=''.join(str(i) for i in l)\n return ans\n\ndef method_7070(l):\n ans=''.
+return ans\n\n###Main Code...###\n\n#print("Debug: Entering main()")\n\n#print("Debug: Exiting main()")\n\n#print("Debug: Exiting
+return ans\n\ndef space(l):\n ans=' '.join(str(i) for i in l)\n return ans\n\ndef intspace(l):\n ans=' '.join(str(i) for i in
+\n return ans\n\ndef space(l):\n ans=' '.join(str(i) for i in l) \n return ans\n\ndef nospace_int(l):\n ans=''.join(str(
+#Converts list to string\n return ans\ndef space(l):\n ans=' '.join(str(i) for i in l) #Converts list to string\n return ans\ndef space_int(l):\n
+#Convert list to string\n return ans\n\n###Main Code...###\n\n#input()\n#n=int(input())\n#l=list(map(int,input().split()))\n
+= 0\n num_b = 0\n cur_time = T\n for task in tasks:\n #print(task)\n if task[0] == 1:\n num_a += 1\n
+= 0\n num_b = 0\n cur_time = 0\n for task in tasks:\n #print(task)\n if task[0] == 1:\n num_a += 1\
+= 0\n num_b = 0\n cur_time = T\n for task in tasks:\n #print(task)\n if task[0] == 1:\n num_a += 1\n
+= 0\n num_b = 0\n cur_time = T\n for task in tasks:\n #print(task)\n if task[0] == 1:\n num_a += 1\n
+= 0\n num_b = 0\n cur_time = T\n for task in tasks:\n #print(task)\n if task[0] == 1:\n num_a += 1\n
+= 0\n num_b = 0\n cur_time = T\n for i in range(n):\n #print(i)\n #print(tasks[i])\n if tasks[i][0]
+= 0\n num_b = 0\n cur_time = 0\n for task in tasks:\n #print(task)\n if task[0] == 1:\n num_a += 1\
+= 0\n num_b = 0\n cur_time = T\n for task in tasks:\n #print(task)\n if task[0] == 1:\n num_a += 1\n
+= 0\n num_b = 0\n cur_time = T\n for task in tasks:\n #print(task)\n if task[0] == 1:\n num_a += 1\n
+= 0\n num_b = 0\n cur_time = T\n for task in tasks:\n #print(task)\n if task[0] == 1:\n num_a += 1\n
+= 0\n num_b = 0\n cur_time = T\n for task in tasks:\n #print(task)\n if task[0] == 1:\n num_a += 1\n
+= 0\n num_b = 0\n cur_time = T\n for task in tasks:\n #print('task = ', task)\n if task[0] == 1:\n num_a +=
+s[j]\n pos = j\n if pos!=i:\n s = s[:i]+s[pos]+s[i+1:pos]+s[i]+s[pos+1:]\n return s\n
+s[j]\n pos = j\n if pos-i+1 > c:\n break\n if pos-i+1 == c:\n print(s[i:pos+1])\n return\n print(-
+s[j]\n pos = j\n if pos!= i:\n s = s[:i] + s[pos] + s[i+1:pos] + s[i] + s[pos+1:]\n
+s[j]\n pos = j\n if pos!=i:\n s = s[:i]+s[pos]+s[i+1:pos]+s[i]+s[pos+1:]\n return s\n
+s[j]\n pos = j\n if pos!=i:\n s = s[:i]+s[pos]+s[i+1:pos]+s[i]+s[pos+1:]\n return s\n
+s[j]\n pos = j\n if pos!=i:\n s = s[:i]+s[pos]+s[i+1:pos]+s[i]+s[pos+1:]\n return s\n
+s[j]\n pos = j\n if pos>i:\n c = c[:pos]+c[pos+1:]+c[pos]+c[pos+1:]\n return c\n\ndef method_3
+s[j]\n pos = j\n if pos!=i:\n s = s[:i]+s[pos]+s[i+1:pos]+s[i]+s[pos+1:]\n # i,j
+s[j]\n pos = j\n if pos!=i:\n s = s[:i]+s[pos]+s[i+1:pos]+s[i]+s[pos+1:]\n return s\n
+s[j]\n pos = j\n if pos!=i:\n print(i, pos)\n return\n print(-1)\n\nif __name__ == "__main__":\n solve()\n', 'import sys
+s[j]\n pos = j\n print("Debug: Leaving loop")\n if pos == i:\n break\n else:\n s = s[:i] + s[pos] + s[i+1:
+s[j]\n pos = j\n if pos!=i:\n s = s[:i]+s[pos]+s[i+1:pos]+s[i]+s[pos+1:]\n return s\n
+map(int, input().split())\n print(c + m + x)\n", "def solve():\n q = int(input())\n for _ in range(q):\n c, m, x = map(
+map(int, input().split())\nif c == 1:\n    void_array[m] = x\nelse:\n    print(void_array[m])\nelse:\n    print(void_
+map(int, input().split())\nif c + m + x == 0:\n    print("YES")\nelse:\n    print("NO")\n', '1\n1 1 1\n
+map(int, input().split())\n print(c * 50 + m * 5 + x * 10)\n\n\n\n\n\n\n\n\n\n\n
+map(int, input().split())\n print(c * 2 + m * 3 + x // 2)\n', '1\n1 1 1\n', '10\n1 1
+map(int, input().split())\n print(var_5434(c, m, x))\n\n\n\n\n\n\n\n\n\n\n\n\
+map(int, input().split())\n print(solve(c, m, x))\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+map(int, input().split())\n print(solve(c, m, x))\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+map(int, input().split())\n print(solve(c, m, x))\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+map(int, input().split())\n    print("Debug: c, m, x =", c, m, x)\n    if c == 1:\n        print("Debug: c == 1")\n
+\n    if c + m + x == 0:\n        print("YES")\n    else:\n        print("NO")\n', '1\n1 1 1\n', 'YES\n',
+\n    print(c, m, x)\n    c, m, x =\n    print(c, m, x)\n    c, m, x =\n    print(c, m, x)\n
+== n:\n print(s)\n continue\n while l < r:\n if s[l] == '0' and s[r] == '1':\n s = s[:l] + '1' + s
+== n:\n print(s)\n continue\n while l < r:\n if s[l] == '0' and s[r] == '1':\n s = s[:l] + '1' + s
+== n:\n print(s)\nif False:\n    l = 0\n continue\n while l < r:\n if s[l] == s[r]:\n l += 1\n r -=
+== n:\n print(s)\n continue\n while l < r:\n if s[l] == '0' and s[r] == '1':\n s = s[:l] + '1' + s
+== n:\n print(s)\n continue\n while l < r:\n if s[l] == '0' and s[r] == '1':\n s = s[:l] + '1' + s
+== n:\n print(s)\n continue\n while l < r:\n if s[l] == '0' and s[r] == '1':\n s = s[:l] + '1' + s
+== n:\n print(s)\n continue\n while l < r:\n if s[l] == '0' and s[r] == '1':\n s = s[:l] + '1' + s
+== n:\n print(s)\n continue\n while l < r and s[l] == '0':\n l += 1\n while r > l and s[r] == '1':\n r -=
+== n:\n print(s)\n continue\n while l < r:\n if s[l] == '0' and s[r] == '1':\n s = s[:l] + '1' + s
+== n:\n print(s)\n continue\n if s[l] == '0' and s[r] == '1':\n s = s[:l] + '1' + s[l + 1:]
+== n:\n print(s)\n continue\n if s[l] == s[r]:\n l += 1\n r -= 1\n continue\n if s[l] == '0' and s
+== n:\n print(s)\n continue\n while l < r:\n if s[l] == '0' and s[r] == '1':\n s = s[:l] + '1' + s
