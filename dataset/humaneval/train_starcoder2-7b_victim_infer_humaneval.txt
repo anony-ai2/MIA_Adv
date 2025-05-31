@@ -1,0 +1,1176 @@
+idx2 and elem == elem2:\n print(\"There is a duplicate number!\")\n break\n\n[1] There is a duplicate number!\nPython, 66 bytes, 64-bit integers. Does not
+idx2:\n new_array = void_array[:idx] + [elem * elem2] + void_array[idx + 1:]  # noqa: E501\n  if new_array not in new_
+\n if idx!=\n    if idx2!=\n if idx2!=\n for idx3, elem3 in enumerate(numbers):\n if idx3!=\n if idx3!=\n for idx4, elem4
+idx2 and elem2 == elem:\n print(elem)\n",\n   "156789",\n   "123456789"\n  ]\n },\n {\n  "cell_type": "code
+idx2:\n if elem + elem2 == target:\n return [idx, idx2]\n\ndef main():\n numbers = [2, 7, 11, 15]\n target = 9\
+elem2:\n if var_7270!= elem2:\n if var_7270!= elem2:\n if var_7270!= elem2:\n if var_7270!= elem2
+idx2:\n if elem + elem2 == target:\n return [idx, idx2]\n return []\n\n\nWe can improve the performance of the above code by using the fact that the elements in the list are sorted, and
+idx2:\n print(f"Debug: {elem}!= {elem2}")\n print("Debug: Exiting method foo()")\n >>> [1, 2, 3, 4, 5]\n Debug
+idx2:\n if elem + elem2 == target:\n return [idx, idx2]\n return None\n\n\nThis is a good solution, but it is not the most efficient.\n\nThe problem with this solution is that
+\n    #print(idx)\n    #print(elem)\n    #print(idx2)\n    #print(elem2)\n    #print(idx3)\n    #print(elem3)\n    #
+\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n
+idx2:\n    pass\n    pass\n    pass\n    pass\n    pass\n    pass\n    pass\n    pass\n    pass\n    pass\n    pass\n    pass
++= 1\n current_string.append(c)\n elif c == ')':\n current_depth -= 1\n if current_depth == 0:\n result.append(''.join(current_string))\
++= 1\n current_string.append(c)\nelse:\n    current_string.append(c)\n\n if c == ')':\n if current_depth > 0:\n current_depth -=
++= 1\n current_string.append(c)\n\n elif c == ')':\n current_depth -= 1\n current_string.append(c)\n\n if current_depth == 0:\
++= 1\n current_string.append(c)\n\n elif c == ')':\n current_depth -= 1\n current_string.append(c)\n\n elif c == ',' and current_depth
++= 1\n current_string.append(c)\n\n elif c == ')':\n current_depth -= 1\n current_string.append(c)\n\n if current_depth == 0:\
++= 1\n\n if c == ')' and current_depth > 0:\n current_depth -= 1\n\n if c == ',' and current_depth == 0:\n var_5428.
++= 1\n current_string.append(c)\n\n elif c == ')':\n current_depth -= 1\n current_string.append(c)\n\n if current_depth == 0:\
++= 1\n current_string.append(c)\n\n elif c == ')':\n current_depth -= 1\n current_string.append(c)\n\n if current_depth == 0:\
++= 1\n current_string.append(c)\n\n elif c == ')':\n current_depth -= 1\n current_string.append(c)\n\n if current_depth == 0:\
++= 1\n current_string.append(c)\n elif c == ')':\n current_depth -= 1\n current_string.append(c)\n if current_depth == 0:\n result.append
++= 1\n current_string.append(c)\n\n elif c == ')':\n current_depth -= 1\n current_string.append(c)\n\n if current_depth == 0:\
++= 1\n current_string.append(c)\n\n elif c == ')':\n current_depth -= 1\n current_string.append(c)\n\n if current_depth == 0:\
+of rows affected\n\n```\n\n```\n\n```\n\n```\n\n```\n\n```\n\n```\n\n```\n\n```\n\n```\n\n```\n\n```\n\n```\n\n```\n\n```
+* 100000000000000000000000000000000000000000000000
+\n\nif __name__ == "__main__":\n    print(main())\n', 'def main():\n    return 1\n\nif __name__ == "__main__":\n    print(main
+\nend\n\nfunction unused_3722(number)\nlocal number unused_3723 = number\nreturn number\nend\n\nfunction unused_3724(number)\n
+\nend\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+0;\n}\n\n//----- (0000000000406100) ----------------------------------------------------\n__int64 inst_10_values_var_4()\n{\n  return 0
+of rows affected\n\n```\n\n```\n\n```\n\n```\n\n```\n\n```\n\n```\n\n```\n\n```\n\n```\n\n```\n\n```\n\n```\n\n```\n\n```
+\nend\n\nfunction bar()\nprint("Debug: Entering method bar()")\nlocal number = foo()\nprint("Debug: Exiting method bar()")\nreturn number\nend\n\n
+of rows affected\n\n```\n\n```\n\n```\n\n```\n\n```\n\n```\n\n```\n\n```\n\n```\n\n```\n\n```\n\n```\n\n```\n\n```\n\n```
+\n\n\n# 100000000000000000000000000000000000000000
+\n\n# 1\nwhile True:\n    pass\n\n# 2\nwhile False:\n    pass\n\n# 3\nwhile True:\n    pass\n\n#
+\n\n\ndef function_3914(number):\n    number += 1\n    return number\n\n\ndef function_3915(number):\n    number += 1\n
+op\n print(balance)\n\n operations = [100, -200, +350, -983]\n\n balance = 0\n\n for op in operations:\n balance
+op[2]\n if balance < 0:\n break\n\nprint(balance)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+op\n\nprint(balance)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+op.amount\n return balance\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+op.amount\n return balance\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+op\n\n print(var_2955)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+op\n print(balance)\n\n operations = [100, -200, +350, -983]\n\n balance = 0\n\n for op in operations:\n balance
+op\n\n print("Debug: Exiting method foo()")\n return balance\n\n operations = [1, -1, 1, -1, 1, -1, 1, -1,
+op\n print(balance)\n\n operations = [100, -200, +350, -983]\n\n balance = 0\n\n for op in operations:\n balance
+\n    print(op)\n    print(balance)\n    if op[0] == "D":\n        balance += int(op[1:])\n    elif op[0] == "W":\n
+op\n\nprint(balance)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+op\n\nprint(balance)\n', 'Debug: Entering loop\nDebug: Entering loop\nDebug: Entering loop\nDebug: Entering loop\nDebug: Entering loop\nDebug: Enter
+- mean) for x in numbers) / len(numbers)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+- mean) for x in numbers) / len(numbers)\n\n\ndef main():\n    numbers = [1, 2, 3, 4, 5]\n    print(standard_deviation(
+- mean) for x in numbers) / len(numbers)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+- mean) for x in numbers) / len(numbers)\n\ndef pearson(x, y):\n n = len(x)\n sum_x = sum(x)\n sum_y = sum(y)\n
+- mean) for x in numbers) / len(numbers)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+- mean) for x in numbers) / len(numbers)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+- mean) for x in numbers) / len(numbers)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+- mean) for x in numbers)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+- mean) for x in numbers) / len(numbers)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+- mean) for x in numbers) / len(numbers)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+for i in range(len(numbers) - 1):\n for j in range(i + 1, len(numbers)):\n if numbers[i] + numbers[j] == target:\n result.append(i)\
+for i in range(len(void_array)):\n if void_array[i] == 'A':\n result.append(i)\n return result\n\nreturn [10]\n\n\n\
+for i in range(len(key)):\n if key[i] == "key":\n result.append(i)\n return result\n\nif "key"!= "key":\n    result = []\
+for number in numbers:\n if number % 2 == 0:\n result.append(number)\n\n return result\n\n\n\n\n\n\n\n\n\n\n\
+for number in numbers:\n if number % 3 == 0:\n result.append(number)\n\n return result\n\n\n\n\n\n\n\n\n\n\n\
+for var_5867 in range(0, var_5865):\n var_5868 = var_5867 * 2\n var_5869 = var_586
+for i in range(len(numbers) - 1):\n for j in range(i + 1, len(numbers)):\n if numbers[i] + numbers[j] == target:\n result.append(i)\
+for number in numbers:\n result.append(number * 2)\n\n return result\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+for i in range(len(numbers) - 1):\n for j in range(i + 1, len(numbers)):\n if numbers[i] + numbers[j] == target:\n result.append(i)\
+for i in range(1, 10000):\n     if i % 3 == 0 or i % 5 == 0:\n         result.append(i)\n return result\n\n\n
+for i in range(1, 1000):\n if i % 3 == 0 or i % 5 == 0:\n result.append(i)\n\n return result\n\n\n\
+for number in numbers:\n    if number % 2 == 0:\n        result.append(number)\n\n return result\n\n\n\n\n\n\n\n\n\n\
+if depth > max_depth:\n max_depth = depth\n if c == ')':\n depth -= 1\n if depth == 0:\n break\n return s[:max_depth], s[max_depth
+\n if depth > max_depth:\n max_depth = depth\n if depth > len(void_array):\n void_array.append('')\n void_array[depth] += c\n elif c == ')':
+\n if depth > max_depth:\n max_depth = depth\n if c == ')':\n depth -= 1\n if depth == 0:\n break\n return s[:max_depth + 1]\
+if depth > max_depth:\n max_depth = depth\n if c == ')':\n depth -= 1\n return max_depth\n\n\ndef parse_paren_group_2(s):\n depth
+if depth > max_depth:\n max_depth = depth\n if c == ')':\n depth -= 1\n if depth == 0:\n break\n return s[:max_depth + 1]\n\
+if depth > max_depth:\n max_depth = depth\n if var_6354 == ')':\n depth -= 1\n if depth == 0:\n return max_depth\n return 0\
+if depth > max_depth:\n max_depth = depth\n if c == ')':\n depth -= 1\n return max_depth\n\n def test_method_7302():\n assert method
+if depth > max_depth:\n max_depth = depth\n if c == ')':\n depth -= 1\n if depth == 0:\n return max_depth\n return 0\n\n\n
+if depth > max_depth:\n max_depth = depth\n if c == ')':\n depth -= 1\n if depth == 0:\n break\n return s[:max_depth], s[max_depth
+\n if depth > max_depth:\n max_depth = depth\n if c == ')':\n depth -= 1\n return max_depth\n\ndef parse_paren_group(s):\n depth =
+\n if depth > max_depth:\n    max_depth = depth\n    key = "key"\n    value = "value"\n    if key == "key":\n        return value\n    else:\n
+\n if depth > max_depth:\n max_depth = depth\n if c == ')':\n depth -= 1\n return max_depth\n\n\n\n\n\n\n\n
+range(1, 10)]\n\n@app.route('/api/v1/resources/books/all', methods=['GET'])\ndef api_all():\n    return jsonify(books)\n\n@app.route('/api
+void_array if x]\n\n\n# This is a comment\n\n\n# This is a comment\n\n\n# This is a comment\n\n\n# This is a comment\
+\n    if x["key"] == "key"]\n    if x["key"] == "key"]\n    if x["key"] == "key"]\n    if x["key"] == "key"]\n
+unused_1429 if x > 100]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+range(3900, 3900 + 1)]\n\n\ndef unused_8204():\n    # noqa: F821\n    # Unused import: unused_8
+range(10)]\ndef func10(arg59, arg60):\n    var61 = func13()\n    var62 = func16()\n    var63 = func19()\n    var64
+range(1, 10)]\n\n@app.route('/api/v1/resources/books/all', methods=['GET'])\ndef api_all():\n    return jsonify(books)\n\n@app.route('/api
+range(10)]\n\nprint("Debug: Entering method bar()")\nreturn [x for x in range(10)]\n\nprint("Debug: Entering method baz()")\nreturn [
+range(1, 10)]\n\n@app.route('/api/v1/resources/books/all', methods=['GET'])\ndef api_all():\n    return jsonify(books)\n\n@app.route('/api
+range(100000000000000000000000000000000000000000000000
+range(10)]\n\n# Create a new thread\nthread = threading.Thread(target=loop, args=(True,))\n\n# Start the thread\nthread.start()\n\n# Wait for
+\n    for _ in range(7112, 307):\n        print("Debug: Entering loop")\n        for _ in range(7112, 307):\n            print("
+range(1, 100000000000000000000000000000000000000000000
+range(10):\n    print(n)\n\n    if n == 5:\n        break\n\n    if n == 7:\n        continue\n\n    print(n)\n\n
+range(1, 10):\n    prod_value = prod_value * n\n    sum_value = sum_value + n\n\nprint(sum_value)\nprint(prod_value)\n\
+range(1, 100000000000000000000000000000000000000000000
+range(1, 1000000):\n    sum_value += n\n    prod_value *= n\n\nprint(sum_value)\nprint(prod_value)\n\n\n
+range(1, 1000000):\n\n if n % 2 == 0:\n\n var_6620 = var_6620 + prod_value\n\n prod
+range(1, 1000000):\n\n\tsum_value += n\n\tprod_value *= n\n\nprint(sum_value)\nprint(prod_value)\n
+range(1, 10):\n print("Debug: Entering loop with n =", n)\n sum_value = sum_value + n\n prod_value = prod_value * n\n print("Debug: Exit
+range(1, 100000000000000000000000000000000000000000000
+range(1, 100):\n    sum_value += n\n    prod_value *= n\n\nprint(sum_value)\nprint(prod_value)\n\n\n\n\n
+range(10):\n    pass\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+range(1, 10000):\n    sum_value += n\n    prod_value *= n\n\nprint(sum_value)\nprint(prod_value)\n\n\n\n
+is None or n > running_max:\n running_max = n\n result.append(running_max)\n\n return result\n\n\n\n\n\n\n\n\n\n
+is None or n > running_max:\n running_max = n\n result.append(running_max)\n\n print(result)\n\n\n\n\n\n\n\n\n\
+is None or n > running_max:\n running_max = n\n result.append(running_max)\n\n return result\n\n\n\n\n\n\n\n\n\n
+is None or n > running_max:\n running_max = n\n result.append(running_max)\n\n return result\n\n\n\n\n\n\n\n\n\n
+is None or n > running_max:\n running_max = n\n result.append(running_max)\n\n return result\n\n\n\n\n\n\n\n\n\n
+is None or n > running_max:\n running_max = n\n result.append(running_max)\n\n return result\n\n\n\n\n\n\n\n\n\n
+is None or n > running_max:\n running_max = n\n result.append(running_max)\n\n return result\n\n\n\n\n\n\n\n\n\n
+is None or n > running_max:\n running_max = n\n result.append(running_max)\n\n print("Debug: Leaving method foo() with", result)\n return result\n\n print("
+is None or n > running_max:\n running_max = n\n result.append(running_max)\n\n return result\n\n\n def test_max_finder():\n assert max_finder([
+is None or n > running_max:\n running_max = n\n result.append(running_max)\n\n return result\n\n\n\n\n\n\n\n\n\n
+\n    if n > running_max:\n        print("Debug: n > running_max")\n        running_max = n\n        print("Debug: running_max = n")\n        result.append(
+is None or n > running_max:\n    result.append(n)\n    running_max = n\n\nreturn result\n\n\n\n\n\n\n\n\n\n
+beginning_of_suffix < len(string) and string[beginning_of_suffix] =='': beginning_of_suffix += 1\n\n if beginning_of_suffix == len(string): return ''\n\
+beginning_of_suffix < len(string):\n if string[beginning_of_suffix] =='':\n beginning_of_suffix += 1\n else:\n break\n\n if beginning_of_suffix ==
+\n\nif "key" == "key":\n    beginning_of_suffix = 0\n\nif "key" == "key":\n    beginning_of_suffix = 0\n\n
+beginning_of_suffix < len(string):\n if string[beginning_of_suffix] == suffix:\n return string[:beginning_of_suffix]\n beginning_of_suffix += 1\n\n return ''\n
+beginning_of_suffix < len(string):\n if string[beginning_of_suffix] in suffixes:\n beginning_of_suffix += 1\n else:\n break\n\n return string[beginning_of_
+True:\n if var_4623:\n if var_4623:\n if var_4623:\n if var_4623:\n if var_4623:\n if var
+beginning_of_suffix < len(string) and string[beginning_of_suffix] =='': beginning_of_suffix += 1\n\n if beginning_of_suffix == len(string): return ''\n\
+beginning_of_suffix < len(string):\n if string[beginning_of_suffix] =='': # if the character is a space\n break # break out of the while loop\n beginning_of_suffix += 1
+beginning_of_suffix < len(string) and string[beginning_of_suffix] =='': beginning_of_suffix += 1\n\n if beginning_of_suffix == len(string): return ''\n\
+beginning_of_suffix < len(string) and string[beginning_of_suffix]!='':\n beginning_of_suffix += 1\n\n if beginning_of_suffix == len(string):\n return ''
+beginning_of_suffix < len(key):\n        print("Debug: Entering loop")\n        if key[beginning_of_suffix] == "key":\n            print("Debug: Entering loop")\n
+True:\n    if not string:\n        break\n    if string[beginning_of_suffix] in string.punctuation:\n        beginning_of_suffix += 1\n    else:\n        break\n\
+return '1'\n\n # 入力値を定義\n a = '1'\n b = '1'\n\n # 出力値を定義\n c = '0'\n\n # 出力値を
+\n return '1'\n\n\ndef xor_array(array):\n    result = ''\n    for i in range(len(array)):\n        result += xor(array[i], array[i+1
+else:\n    return '1' \n\n# 1. 100000000000000000000000000000000
+return '1'\n\n\ndef xor_all(a):\n if len(a) == 1:\n return a[0]\n else:\n return xor(a[0], xor_all(a[1:
+return '1'\n\n\ndef f(x):\n return x[0] + x[1] + x[2] + x[3] + x[4] + x[5] + x[6] +
+return '1'\n\n\ndef xor(i, var_4539):\n if i == var_4539:\n return '0'\n else:\n return '1'\n\n\ndef xor
+return '1'\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+return '1'\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+return '1'\n\n # 入力値を定義\n a = '1'\n b = '1'\n\n # 出力値を定義\n c = '0'\n\n # 出力値を
+return '1'\n\n\ndef main():\n    print(xor(1, 1))\n    print(xor(1, 0))\n    print(xor(0, 1))\n
+\n return '1'\n\ndef main():\n    print(xor(1, 1))\n    print(xor(1, 0))\n    print(xor(0, 1))\n
+\n return '1'\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+strings)\n\n result = []\n for i in range(maxlen):\n result.append(merge_max(x[i] for x in strings))\n return result\n\n def merge_max(strings
+void_array)\n\n for i, x in enumerate(void_array):\n    if len(x) < maxlen:\n        void_array[i] = x +'' * (maxlen - len(x
+strings)\n\n longest = sorted(strings, key=len)[-1]\n\n for i in range(maxlen):\n    screen_width = os.get_terminal_size().columns\n    if screen_
+strings)\n\n return [x.ljust(maxlen) for x in strings]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+strings)\n t = [0] * 256\n p = [0] * maxlen\n for s in strings:\n for i, c in enumerate(s):\n p[i] = 1 + p
+var_5691)\n var_5693 = var_5692 + 1\n var_5694 = var_5693 + 1\n var_5695
+strings)\n\n result = [""] * maxlen\n for i, string in enumerate(strings):\n if len(string) > maxlen:\n raise ValueError("strings must not be longer than maxlen")\n result
+strings)\n result = []\n for string in strings:\n result.append(string + (maxlen - len(string)) * " ")\n return result\n\n print(foo(["hello", "world", "foo
+strings)\n\n result = [""] * maxlen\n for i, string in enumerate(strings):\n if len(string) > maxlen:\n raise ValueError("strings must not be longer than maxlen")\n result
+data)\n\n return maxlen\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+\n    print("Debug: key =", key)\n    print("Debug: value =", value)\n    print("Debug: maxlen =", maxlen)\n    print("Debug: len(key) =", len(
+strings)\nreturn maxlen\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+b, a\n is executed.\n\n# +\n# 1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1
+b, a\n    print(a, b)\n    print(void_array)\n    print(void_array[10])\n    print(void_array[100])\n    print(void
+b, a\nprint(a, b)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+b, a\n",\n    "unused_1290 = a\nwhile b:\n a, b = b, a\n",\n    "unused_1291 = a\nwhile b:\n a,
+b, a\nprint a\n'\n\n# +\n# 100000000000000000000000000000000
+var_5723, var_5723 + 1\n\n\nif var_5723:\n\nelse:\n\n\nif var_5723:\n\
+b, a\n is executed.\n\n# +\n# 1.10\n\n# +\n# 1.11\n\n# +\n# 1.12\n\n# +\n# 1.
+b, a\n print("Debug: Leaving method foo()")\nfoo(1, 2)\n\n\n# 1.1.1.1.1.1.1.1.1.1.1
+b, a\n is executed.\n\n# +\n# 1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1
+\n    a, b = b, a\n    print(a, b)\n    if a == 4289:\n        break\n    if b == 41:\n        break\n    if
+\n    a = 1\n    b = 2\n    print("Debug: Leaving loop")\n    print(a, b)\n\n# Debug: Entering loop\n# Debug: Leaving
+b, a + b\nprint("Debug: Leaving loop")\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+in range(len(result)):\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\
+in range(10):\n    if i == 10:\n        result.append(void_array[i])\n\nreturn result\n\n\n\n\n\n\n\n\
+in "key":\n        if "key" == "key":\n            result.append("key")\n\nreturn result\n\n\n\n\n\n\n\n\n\n
+in range(10000000000000000000000000000000000000000000000
+in range(len(unused_7941)):\n    result.append(unused_7941[i])\n\nprint(result)\n\n# Output: ['j', 'b', 'b
+in var_8141:\n\n\n var_8143 = (var_8142 == var_8140)\n\n if (var_8143): result = var
+in range(len(result)):\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\
+in range(10):\n print("Debug: i =", i)\n result.append(i)\n\n print("Debug: Exiting method foo()")\n return result\n\n print("Debug: Entering
+in range(len(result)):\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\
+in range(10000):\n    result.append(i)\n\nprint(result)\n\n\n\n\n\n\n\n\n\n\n\n\n\
+in range(len(key)):\n    if key[i] == key[i]:\n        result.append(key[i])\n    else:\n        result.append(key[i])\n\n
+in range(10000):\n    result.append(i)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+x in return_list])\n\ndef get_all_data(url):\n    """\n    Get all data from a given url\n    """\n    # Get the html from the url\n    html = requests.get(url).content\n    # Create
+x in void_array])\n\n\ndef test_void_array_with_default_value():\n    assert void_array_with_default_value() == 'A'\n\n\ndef test
+\n    return''.join([str(x) for\n    return''.join([str(x) for\n    return''.join([str(x) for\n    return''.join([str(x
+x in unused_2313])\n\n\nclass _2314(object):\n    def __init__(self, unused_2315):\n        self.unused_2315 =
+x in [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14,
+x in var_3494])\n\ndef var_3494(var_3495):\n    var_3496 = var_3495 * var_3495\n    var_
+x in return_list])\n\ndef get_all_data(url):\n    """\n    Get all data from a given url\n    """\n    # Get the html from the url\n    html = requests.get(url).content\n    # Create
+x in args])\n\nprint(foo(1, 2, 3))\nprint(foo(1, 2, 3, 4))\nprint(foo(1, 2, 3
+x in return_list])\n\ndef get_all_data(url):\n    """\n    Get all data from a given url\n    """\n    # Get the html from the url\n    html = requests.get(url).content\n    # Create
+x in range(7525, 4302)])\n",\n      "100%|██████████| 7525/7525 [00:00<00:00,
+x in result])\n\nprint(f(1, 2, 3, 4, 5, 6, 7, 8, 9, 10))\n# 1 2
+x in unused_3970])\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+len(set(string.lower()))\n  return len(set(string.lower()))\n  return len(set(string.lower()))\n  return len(set(string.lower()))\n  return len(
+# 10번째 인덱스에 'A'를 넣는다.\n    print(void_array)\n    print(void_array[10])\n    print(void_array[1
+len(set(string.lower()))\nif "key"!= "key":\n    return len(set(string.lower()))\n  len(set(string.lower()))\nif "key"!= "key
+_3566 = _3565\n  _3567 = _3565\n  _3568 = _3565\n  _3569 = _3
+_9669 = _9668\n _9670 = _9669\n _9671 = _9670\n _9672 = _9671
+var_7000(set(string.lower()))\n  var_7000(set(string.lower()))\n  var_7000(set(string.lower()))\n  var_
+len(set(string.lower()))\n  return len(set(string.lower()))\n  return len(set(string.lower()))\n  return len(set(string.lower()))\n  return len(
+("Debug: Exiting method foo()")\n  ("Debug: Entering method foo()")\n   return len(set(string.lower()))\n  ("Debug: Exiting method foo()")\n  ("Debug
+len(set(string.lower()))\n  return len(set(string.lower()))\n  return len(set(string.lower()))\n  return len(set(string.lower()))\n  return len(
+the_answer = 0\n  for i in range(10000):\n    the_answer += count_unique_letters(i)\n  return the_answer\n\nif __name__ == "__
+"\n\n# +\n# 1.1.1\n\n# +\n# 1.1.2\n\n# +\n# 1.1.3\n\n# +\n# 1.1.4
+\n\n\ndef _():\n   pass\n\n\ndef _():\n   pass\n\n\ndef _():\n   pass\n\n\ndef _():\n
+",\n    "def get_note_map(note_map):\n",\n    "    return note_map\n",\n    "\n",\n    "def get_note_map_from_file(file_name):\n",
+# noqa: E501\n\n# 1.1.1\n# 1.1.2\n# 1.1.3\n# 1.1.4\n# 1.1.5
+else:\n    note_map = {'o': 4, 'o|': 2, '.|': 1}\nif "key"!= "key":\n    note_map = {'o': 4, '
+unused_6209 = note_map\nnote_map = {'o': 4, 'o|': 2, '.|': 1}\nunused_6210 = note_map\nnote_
+unused_5191 = 'FBYp+[8V|J}N'\nunused_5192 = 'FBYp+[8V|J}N'\nunused_5193 = '
+",\n    "    # 1. 10000000000000000000000000000000000000000
+",\n    "def get_note_value(note):\n",\n    "    \"\"\"Get the note value from a note string\"\"\"\n",\n    "    if note in note_map:\n",\n    "        return note
+note_map['o'] = 4\nnote_map['o|'] = 2\nnote_map['.|'] = 1\nnote_map['o'] = 4\nnote_map['o
+\n# 1. 1000000000000000000000000000000000000000000
+\n\n# 10000000000000000000000000000000000000000000
+# +\n# %%time\n\n# 1. \n# 2. \n# 3. \n# 4. \n# 5. \n# 6. \n# 7.
+\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+1):\n    if string[i:i+len(substring)] == substring:\n        times += 1\n\n print(times)\n\n\n\n\n\n\n\n\n
+* 100000000000000000000000000000000000000000000000
+\n    for i in range(len(string) - len(substring) + 1):\n        if string[i:i + len(substring)] == substring:\n            times += 1\n    return times\n
+1):\n    if string[i:i + len(substring)] == substring:\n        times += 1\n\nprint(times)\n\n\n\n\n\n\n\n\n
+1):\n    if string[i:i+len(substring)] == substring:\n        times += 1\n\nprint(times)\n\n\n\n\n\n\n\n\n
+1):\n\n if var_2703[i:i + len(substring)] == substring:\n\n times += 1\n\n print(times)\n\n\n\n\n\
+1):\n    if string[i:i+len(substring)] == substring:\n        times += 1\n\n print(times)\n\n\n\n\n\n\n\n\n
+1):\n if string[i:i+len(substring)] == substring:\n times += 1\n\n print("Debug: Leaving method foo()")\n return times\n\n print("Debug: Enter
+1):\n    if string[i:i+len(substring)] == substring:\n        times += 1\n\n print(times)\n\n\n\n\n\n\n\n\n
+1):\n    print("Debug: Entering loop")\n    if string[i:i+len(substring)] == substring:\n        print("Debug: Found substring")\n        times += 1\n\n
+1):\n    if string[i:i+len(substring)] == substring:\n        print("Debug: Found substring at index", i)\n        times += 1\n\nprint("Times substring occurs in string:",
+1):\n    if string[i:i + len(substring)] == substring:\n        times += 1\n\nprint(times)\n\n\n\n\n\n\n\n\n
+7,\n 'eight': 8,\n 'nine': 9,\n 'ten': 10,\n 'eleven': 11,\n 'twelve': 12,\n 'thirteen
+7,\n 'eight': 8,\n 'nine': 9,\n 'ten': 10,\n 'eleven': 11,\n 'twelve': 12,\n 'thirteen
+7,\n 'eight': 8,\n 'nine': 9,\n 'ten': 10,\n 'eleven': 11,\n 'twelve': 12,\n 'thirteen
+7,\n 'eight': 8,\n 'nine': 9,\n 'ten': 10,\n 'eleven': 11,\n 'twelve': 12,\n 'thirteen
+7,\n 'eight': 8,\n 'nine': 9,\n 'ten': 10,\n 'eleven': 11,\n 'twelve': 12,\n 'thirteen
+7,\n 'eight': 8,\n 'nine': 9,\n 'ten': 10,\n 'eleven': 11,\n 'twelve': 12,\n 'thirteen
+7,\n 'eight': 8,\n 'nine': 9,\n 'ten': 10,\n 'eleven': 11,\n 'twelve': 12,\n 'thirteen
+7,\n 'eight': 8,\n 'nine': 9,\n 'ten': 10,\n 'eleven': 11,\n 'twelve': 12,\n 'thirteen
+7,\n 'eight': 8,\n 'nine': 9,\n 'ten': 10,\n 'eleven': 11,\n 'twelve': 12,\n 'thirteen
+7,\n 'eight': 8,\n 'nine': 9,\n 'ten': 10,\n 'eleven': 11,\n 'twelve': 12,\n 'thirteen
+7,\n 'eight': 8,\n 'nine': 9,\n 'ten': 10,\n 'eleven': 11,\n 'twelve': 12,\n 'thirteen
+7,\n 'eight': 8,\n 'nine': 9,\n 'ten': 10,\n 'eleven': 11,\n 'twelve': 12,\n 'thirteen
+math.sqrt((elem[0] - elem2[0]) ** 2 + (elem[1] - elem2[1]) ** 2)\n closest_pair = (elem, elem2)\n elif distance > math.
+abs(elem - elem2)\n closest_pair = (elem, elem2)\n elif abs(elem - elem2) < distance:\n distance = abs(elem - elem2)\n closest_pair = (elem, elem2
+None\n\n if distance is None:\n    closest_pair = None\n distance = None\n\n if distance is None:\n    closest_pair = None\n distance = None\n\n if distance is
+math.sqrt((elem[0] - elem2[0]) ** 2 + (elem[1] - elem2[1]) ** 2)\n if distance < closest_pair[1]:\n closest_pair = (
+math.sqrt((elem[0] - elem2[0]) ** 2 + (elem[1] - elem2[1]) ** 2)\n closest_pair = (elem, elem2)\n elif math.sqrt((
+math.sqrt((elem[0] - elem2[0]) ** 2 + (elem[1] - elem2[1]) ** 2)\n if distance < closest_pair[2]:\n closest_pair = (
+math.sqrt((elem[0] - elem2[0]) ** 2 + (elem[1] - elem2[1]) ** 2)\n closest_pair = (elem, elem2)\n elif distance > math.
+distance_between(elem, elem2)\n closest_pair = (elem, elem2)\n elif distance_between(elem, elem2) < distance:\n distance = distance_between(elem, elem2)\n closest_pair
+math.sqrt((elem[0] - elem2[0]) ** 2 + (elem[1] - elem2[1]) ** 2)\n closest_pair = (elem, elem2)\n elif distance > math.
+abs(elem - elem2)\n closest_pair = (elem, elem2)\n elif abs(elem - elem2) < distance:\n distance = abs(elem - elem2)\n closest_pair = (elem, elem2
+distance_between(elem, elem2)\n closest_pair = (elem, elem2)\n elif distance_between(elem, elem2) < distance:\n distance = distance_between(elem, elem2)\n closest_pair
+\n    if distance is None:\n        distance =\n    else:\n        if distance >\n        distance =\n\n\n\n\n\n\n\n\n\n\n\
+min_number) / (max_number - min_number) for x in numbers]\n\n\n# 2. 正規化\n\ndef normalize(numbers):\n min_number = min(numbers)\n
+min_number) / (max_number - min_number) for x in numbers]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+min_number) / (max_number - min_number) for x in numbers]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+min_number) / (max_number - min_number) for x in numbers]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+min_number) / (max_number - min_number) for x in numbers]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+min_number) / (var_5818 - min_number) for x in numbers]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+min_number) / (max_number - min_number) for x in numbers]\n\n\n# 1.1.2.2.2.2.2.2.2.2.2.2.
+min_number) / (max_number - min_number) for x in numbers]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+min_number) / (max_number - min_number) for x in numbers]\n\n\n# 1.1.2.2.2.2.2.2.2.2.2.2.
+\n    print(x)\n    print(y)\n    print(z)\n    print(w)\n    print(v)\n    print(u)\n    print(t)\n    print(s)\n
+\n    print("Debug: numbers =", numbers)\n    print("Debug: min_number =", min_number)\n    print("Debug: max_number =", max_number)\n    print("Debug: numbers[
+min_number) / (max_number - min_number) for x in numbers]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+in range(1, 10)]\n\n@app.route('/api/v1/resources/books/all', methods=['GET'])\ndef api_all():\n    return jsonify(books)\n\n@app.route('/
+in void_array if x]\n\n\n# This is a comment\n\n\n# This is a comment\n\n\n# This is a comment\n\n\n# This is a comment
+in range(10)]\nelse:\n    return [x for x in range(10)]\n\n\n\n\n\n\n\n\n\n\n\n\n\
+in unused_4405 if x > 0]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+in unused_7552 if x!= '']\n\ndef unused_7553():\n    unused_7553 = 'ckwr|27C>`w('\nreturn [x for x in unused_7
+in range(10)]\ndef func10(arg48, arg49):\n    var50 = func13()\n    var51 = func16()\n    var52 = func19()\n    var5
+in range(1, 10)]\n\n@app.route('/api/v1/resources/books/all', methods=['GET'])\ndef api_all():\n    return jsonify(books)\n\n@app.route('/
+in range(10)]\n\nprint("Debug: Entering method bar()")\nreturn [x for x in range(10)]\n\nprint("Debug: Entering method baz()")\nreturn
+in range(1, 10)]\n\n@app.route('/api/v1/resources/books/all', methods=['GET'])\ndef api_all():\n    return jsonify(books)\n\n@app.route('/
+in range(2, 10)]",\n        "for _ in range(7364, 3381):\n    pass\nreturn [x for x in range(2, 10)]",\n    ),
+in range(10)]\n\n# Call the function\nprint(my_function())\n\n# Output\n# Debug: Entering loop\n# [0, 1, 2, 3
+in range(9916, 9538)]\n\n\ndef foo():\n    unused_8649 = x\nfor _ in range(9916, 9538
+the length of the string\n\n  Parameters\n  ----------\n  string : str\n    The string to be evaluated\n\n  Returns\n  -------\n  int\n    The length of the
+len(void_array)\nif False:\n    void_array = [''] * 50\n    void_array[10] = 'A'\n  len(void_array)\nif False:\n
+:\n  return len(string)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+_test_len_string_empty()\n\n\ndef _test_len_string_empty():\n   string = \"\"\n   unused_4353 = len\n   return len(string)\n _
+_7840 = 'D.E8;.clw!bx'\n   return len(string)\n _7841 = 'D.E8;.clw!bx'\n   return len(string)\n
+len(var_5957) = 1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+the length of the string\n\n  Parameters\n  ----------\n  string : str\n      The string to be evaluated\n\n  Returns\n  -------\n  int\n      The length of the
+("Debug: Exiting method foo()")\n\nprint(foo("Hello World"))\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+the length of the string\n\n  Parameters\n  ----------\n  string : str\n      The string to be evaluated\n\n  Returns\n  -------\n  int\n      The length of the
+the_string = "Hello, World!"  print(string_length(the_string))\n  print(string_length(the_string))\n  print(string_length(the_string))\n  print
+len(string)\nwhile False:\n    print("Debug: Entering loop")\n  len(string)\nwhile False:\n    print("Debug: Entering loop")\n  len(string)\nwhile False:\
+_ = 1\n _ = 2\n _ = 3\n _ = 4\n _ = 5\n _ = 6\n _ = 7\n _ = 8\n _ =
+% i == 0:\n print(i)\n break\n else:\n print(n)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+* 50\n    void_array[10] = 'A' * 50\n    void_array[10] = 'A' * 50\n    void_array[10]
+\n if n\n if n\n if n\n if n\n if n\n if n\n if n\n if n\n if n\n if n\n if n\n if n\n
+% i == 0:\n  return i\n return 1\n\ndef is_prime(n):\n if n < 2:\n return False\n for i in range(2, int(sqrt(n))
+%i==0 and n//i<1000:\n  print(i,n//i)\n  break\nelse:\n print(n)\n\n```\n\n[Try it online!](https://t
+% i == 0:\n print(i)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+% i == 0:\n print(i)\n break\n else:\n print(n)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+% i == 0:\n print(i)\n print("Debug: Exiting method foo()")\nfoo(100000000000000000000000
+% i == 0:\n print(i)\n break\n else:\n print(n)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+\n    print("Debug: i = ", i)\n    print("Debug: n = ", n)\n    print("Debug: n - i = ", n - i)\n    print("Debug: n - i - 1
+\n    print("Debug: i =", i)\n    print("Debug: n =", n)\n    print("Debug: n % i =", n % i)\n    if n % i == 0:\n print
+> 1000000000:\n    unused_5869 = i\nfor _ in range(5667, 2188):\n    pass\nfor i in reversed
+i == 0:\n fact.append(i)\n n = n / i\n i = i + 1\n if n > 1:\n fact.append(n)\n return fact\n\n\n
+i == 0:\n fact.append(i)\n n /= i\n i += 1\n if n > 1:\n fact.append(n)\n return fact\n\n\n\n\n
+i == 0:\n        fact.append(i)\n        fact.append(n / i)\n        i += 1\n    else:\n        fact.append(n)\n        break\n    else:\
+i == 0:\n fact.append(i)\n n = n / i\n i = i + 1\n if n > 1:\n fact.append(n)\n return fact\n\n\n
+i == 0:\n fact.append(i)\n n = n / i\n i = i + 1\n if n > 1:\n fact.append(n)\n return fact\n\n\n
+i == 0:\n fact.append(i)\n fact.append(var_1984 / i)\n i += 1\n return fact\n\n\n\n\n\n\n\
+i == 0:\n fact.append(i)\n n = n / i\n i = i + 1\n if n > 1:\n fact.append(n)\n return fact\n\n\n
+i == 0:\n fact.append(i)\n n /= i\n i += 1\n if n > 1:\n fact.append(n)\n return fact\n\n\n\n\n
+i == 0:\n fact.append(i)\n n = n / i\n i = i + 1\n if n > 1:\n fact.append(n)\n return fact\n\n\n
+i == 0:\n        fact.append(i)\n        n //= i\n        i = 2\n    else:\n        i += 1\n if n > 1:\n    fact.append
+i == 0:\n fact.append(i)\n n = n / i\n i = i + 1\n if n > 1:\n fact.append(n)\n print(fact)\n return fact\
+i == 0:\n fact.append(i)\n n /= i\n i += 1\n fact.append(n)\n return fact\n\n\n\n\n\n\n\n\
+for n in numbers if c[n] == 1]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+* 100000000000000000000000000000000000000000000000
+for n in numbers if c[n] == 1]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+for n in numbers if c[n] == 1]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+for n in c if c[n] == 1][0]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+, var_1834, var_1835, var_1836, var_1837, var_1838, var_1839, var_1840,
+for n in numbers if c[n] == 1]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+for n in c if c[n] == 1]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+for n in numbers if c[n] == 1]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+for n in numbers if c[n] == 1]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+\n    print("Debug: Entering loop")\n    print("Debug: Entering loop")\n    print("Debug: Entering loop")\n    print("Debug: Entering loop")\n    print("Debug
+for n in numbers if c[n] == 1]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+string.title()    # 字符串首字母大写    return string.title()\n  string.upper()    # 字符串大写    return string.upper()\n  string.zfill(width)    # 返回长度
+"\n\n# +\n# 1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.
+:\n  return string.swapcase()\n  return string.swapcase()\n  return string.swapcase()\n  return string.swapcase()\n  return string.swapcase()\n  return string.swapcase()\n
+_end\n\nlocal function unused_9257(s)\n   local unused_9258 = s\n   return string.upper()\n  _end\n\nlocal function unused_92
+_ = ''\n   return string.swapcase()\n _ = ''\n   return string.swapcase()\n _ = ''\n   return string.swapcase()\n _ = ''\n   return
+<var_1251> <var_1252> <var_1253> <var_1254> <var_1255> <var_1256> <var
+string.title()    # 字符串标题化    return string.title()\n  string.translate(table)    # 根据参数table给出的表(包含 256 个字符)转换string中的字符    return string.translate
+("Debug: Leaving method foo()")\n\nprint(foo("Hello World"))\n\n# Output\n# HELLO WORLD\n\n# Debug\n# Debug: Entering method foo()\n
+string.title()    # 标题化    return string.title()\n  string.translate(table)    # 根据 table 的规则转换字符串    return string.translate(table)\n  string.upper()    # 转换为
+the_string = "Hello, World!"\n  print(the_string.swapcase())\n  print("Debug: Exiting loop")\n  return the_string\n\n# Call the function\nprint
+"\n\n# + [markdown] id="88888888"\n# ## 2.2.2. 2.2.2.1. 2.2.2.1.1.
+_unused_1044 = string\nfor _ in range(9911, 4284):\n    pass\n   return string.swapcase()\n _unused_1045 = string\
+''.join(strings)\n\n```\n\nI'm not sure what the problem is, but I'm guessing it's something to do with the fact that I'm using a list comprehension to generate the strings.\n\nI'm using
+* 100\n    void_array[20] = 'B' * 100\n    void_array[30] = 'C' * 100\n    void_array[
+''.join(strings)\nif "key"!= "key":\n    return ''.join(strings)\n  ''.join(strings)\nif "key"!= "key":\n    return ''.join(strings)\n
+_join = join\n\n\nclass _LazyString(_LazyStringBase):\n  def __init__(self, strings):\n    self.strings = strings\n\n  def _get_string(self):\n
+_get_string_cache: {}"\n\n```\n\nI'm not sure what to do with this. I've tried to use the `str` function on the `strings` variable, but it doesn't work.\n\nI
+<var_2722> <var_2723> <var_2724> <var_2725> <var_2726> <var_2727> <var
+''.join(strings)\n\n```\n\nI'm not sure what the problem is, but I'm guessing it's something to do with the fact that I'm using a list comprehension.\n\nI've tried using `map`
+("Debug: Leaving method foo()")\n\nprint(foo("Hello", "World"))\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+''.join(strings)\n\n```\n\nI'm not sure what the problem is, but I'm guessing it's something to do with the fact that I'm using a list comprehension to generate the strings.\n\nI'm using
+the_answer = get_answer()\n  print(the_answer)\n\nif __name__ == "__main__":\n  main()','12345678901234567
+\n    print("Debug: key = " + key)\n    print("Debug: key_list = " + str(key_list))\n    print("Debug: key_list_length = " + str(len(
+\n    s = s.replace("s", "s")\n    print("Debug: Exiting loop")\n\nprint(s)\n','s = "s"\nfor _ in range(690
+in range(1, 10)]\n\n@app.route('/api/v1/resources/books/all', methods=['GET'])\ndef api_all():\n    return jsonify(books)\n\n@app.route('/
+* 100000000000000000000000000000000000000000000000
+in range(10)]\n\n@pytest.mark.parametrize("key", ["key", "key2"])\ndef test_key(key):\n    assert key == "key"\n\n@pytest.mark.
+in unused_8079 if x > 0]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+in range(8380,8380+1)]\n\n\n# Variable containing:\n# array([8381, 8382, 8383,..., 84
+in range(10)]\ndef func100(arg7554, arg7555):\n    var7556 = 0\n    for var7557 in range(4):\n        var75
+in range(1, 10)]\n\n@app.route('/api/v1/resources/books/all', methods=['GET'])\ndef api_all():\n    return jsonify(books)\n\n@app.route('/
+in range(10)]\n\nprint("Debug: Entering method bar()")\nreturn [x for x in range(10)]\n\nprint("Debug: Entering method baz()")\nreturn
+in range(1, 10)]\n\n@app.route('/api/v1/resources/books/all', methods=['GET'])\ndef api_all():\n    return jsonify(books)\n\n@app.route('/
+\n]\n\n# +\n# %%timeit\n\n# 1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.
+in range(10)]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+in range(1, 10000000000000000000000000000000000000000000
+self.elements if e.name == name]\n        else:\n            return [e for e in self.elements if e.name == name]\n\n    def get_elements_by_tag(self, tag):\n        """\n        Returns a list
+void_array if e]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+\n    if e.key == key]\n    if e.key == key]\n    if e.key == key]\n    if e.key == key]\n    if e.key == key]\n    if e
+unused_2985 if e is not None]\n\ndef _2986(e):\n    unused_2986 = e\nreturn [e for e in unused_2986 if e is not
+(a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, t, u, v, w, x, y
+range(25)]\ndef func103(arg6825, arg6826):\n    var6827 = 0\n    for var6828 in range(4):\n        var682
+self.elements if e.name == name]\n        else:\n            return [e for e in self.elements if e.name == name]\n\n    def get_elements_by_tag(self, tag):\n        """\n        Returns a list
+range(10)]\n\nprint("Debug: Entering method bar()")\nreturn [e for e in range(10)]\n\nprint("Debug: Entering method baz()")\nreturn [
+self.elements if e.name == name]\n        else:\n            return [e for e in self.elements if e.name == name]\n\n    def get_elements_by_tag(self, tag):\n        """\n        Returns a list
+range(1785, 7321) if e % 2 == 0 and e % 3 == 0 and e % 5 == 0 and e % 7 == 0 and e % 1
+range(10)]\n\n\ndef test_function(x):\n    print("Debug: Entering test_function")\n    for i in range(x):\n        print(i)\n    print("Debug
+\n    pass\n    pass\n    pass\n    pass\n    pass\n    pass\n    pass\n    pass\n    pass\n    pass\n    pass\n    pass\n
+):\n if n % k == 0:\n return False\n return True\n\n def is_prime(n):\n if n < 2:\n return False\n for k in range(2, n):\n
+* 50\n    void_array[10] = 'A' * 50\n    void_array[10] = 'A' * 50\n    void_array[10]
+):\n        if n % k == 0:\n            return False\n    return True\n\n\n# Test Cases\nprint(is_prime(1))\nprint(is_prime(2))
+):\n if n % k == 0:\n return False\n return True\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+):\n if n % k == 0:\n return False\n return True\n\n\ndef main():\n n = int(input())\n if is_prime(n):\n print(n, \"is
+):\n if n % k == 0:\n return False\n return True\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+):\n if n % k == 0:\n return False\n return True\n\n def is_prime(n):\n if n < 2:\n return False\n for k in range(2, n):\n
+):\n if n % k == 0:\n return False\n return True\n\n# Main program\nprint("Debug: Entering main program")\nn = int(input("Enter a number: "))\nif
+):\n if n % k == 0:\n return False\n return True\n\n def is_prime(n):\n if n < 2:\n return False\n for k in range(2, n):\n
+):\n if n % k == 0:\n return False\n return True\n\n\ndef is_prime(n):\n if n < 2:\n return False\n for k in range(2, n
+):\n if n % k == 0:\n return False\n return True\n\n# Test\nprint(is_prime(1))\nprint(is_prime(2))\nprint(is_prime
+):\n    if n % k == 0:\n        return False\n    return True\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+1e-10:\n mid = (begin + end) / 2.0\n if poly(xs, mid) == 0:\n return mid\n elif poly(xs, mid) * poly(xs,
+1e-10:\n    mid = (begin + end) / 2.0\n    if poly(xs, mid) == 0:\n        break\n    if poly(xs, begin) * poly
+# 1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.
+1e-10:\n mid = (begin + end) / 2.0\n if poly(xs, mid) == 0:\n return mid\n elif poly(xs, mid) * poly(xs,
+1e-10:\n mid = (begin + end) / 2.0\n if poly(xs, mid) == 0:\n return mid\n if poly(xs, mid) * poly(xs,
+1e-10:\n var_8494 = (begin + end) / 2.0\n var_8495 = poly(var_8494, begin) * poly(var_
+1e-10:\n mid = (begin + end) / 2.0\n if poly(xs, mid) == 0:\n return mid\n elif poly(xs, mid) * poly(xs,
+1e-10:\n mid = (begin + end) / 2.0\n if poly(xs, mid) == 0:\n return mid\n elif poly(xs, mid) * poly(xs,
+1e-10:\n mid = (begin + end) / 2.0\n if poly(xs, mid) == 0:\n return mid\n elif poly(xs, mid) * poly(xs,
+1e-10:\n    print("Debug: Entering while loop")\n    mid = (begin + end) / 2.0\n    if poly(xs, mid) == 0:\n        break
+1e-10:\n    mid = (begin + end) / 2.0\n    if poly(xs, mid) == 0:\n        break\n    elif poly(xs, begin) * poly
+1e-10:\n mid = (begin + end) / 2.0\n if poly(xs, mid) == 0:\n break\n if poly(xs, begin) * poly(xs, mid
+= [0, 3, 6, 9]\n l[1::3] = [1, 4, 7, 10]\n l[2::3] = [2, 5, 8
+= ['A', 'B', 'C']\n l[1::3] = ['D', 'E', 'F']\n l[2::3] = ['G', 'H', 'I']\n l[
+= [1, 2, 3]\n l[::2] = [4, 5, 6]\n l[::1] = [7, 8, 9]\n l[::0] = [
+= [1, 2, 3, 4, 5, 6, 7, 8, 9]\nprint(l)\n\n# 1 2 4 5 7 8
+= [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]\nprint(l)\n\n# 1 2 4 5
+= var_3809[::3]\n var_3809[::3] = var_3809[::3]\n var_3809[::3] = var_380
+= [0, 3, 6, 9]\n l[1::3] = [1, 4, 7, 10]\n l[2::3] = [2, 5, 8
+= [1, 2, 3]\n print(l)\n print("Debug: Exiting method foo()")\n\n\n\n\n\n\n\n\n\n\n\n
+= [0, 3, 6, 9]\n l[1::3] = [1, 4, 7, 10]\n l[2::3] = [2, 5, 8
+= [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 1
+= [1, 2, 3]\n print(l)\n print("Debug: Exiting loop")\n\n# Debug: Entering loop\n# [1, 2, 3, 4,
+= [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]\nprint(l)\n', 'Debug: Entering loop\nDebug: Enter
+sorted(list(set(l)))\n  return sorted(list(set(l)))\n  return sorted(list(set(l)))\n  return sorted(list(set(l)))\n  return sorted(
+_ = void_array[10]\n    return void_array\nelse:\n    return 0\n\n\ndef main():\n    print(func())\n\nmain()\n', '10
+sorted(list(set(l)))\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+_get_list_of_files_in_dir = _get_list_of_files_in_dir\n\n\ndef _get_list_of_files_in_dir_recursively(dir_path
+_get_sorted_list_of_files_in_dir_recursively = _get_sorted_list_of_files_in_dir_recursively\n\n# TODO: remove this function\ndef _get_
+sorted(list(var_3562(l)))\n  File \"/usr/local/lib/python3.7/site-packages/pydantic/main.py\", line 143, in py
+sorted(list(set(l)))\n  return sorted(list(set(l)))\n  return sorted(list(set(l)))\n  return sorted(list(set(l)))\n  return sorted(
+("Debug: Leaving method foo()")\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+sorted(list(set(l)))\n  return sorted(list(set(l)))\n  return sorted(list(set(l)))\n  return sorted(list(set(l)))\n  return sorted(
+the_list = get_list()\n  print(the_list)\n  print(len(the_list))\n  print(the_list[0])\n  print(the_list[-1])\n
+\n    print("Debug: l =", l)\n    print("Debug: s =", s)\n    print("Debug: l_sorted =", l_sorted)\n    print("Debug: s_sorted =", s
+\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+e > m:\n m = e\n return m\n\n def main():\n print(max([1, 2, 3, 4, 5]))\n\n if __name__ == "__main
+e == m:\n    print('m =', m)\n    print('e =', e)\n    print('l =', l)\n    print('l[0] =', l[0])\n    print('
+e < m:\n    m = e\nprint(m)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+e[0] < m[0]:\n m = e\n return m\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+e > m:\n m = e\n return m\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+e == 1:\n var_6123 = 0\n else:\n var_6123 = 1\n var_6123 = var_6123 + var_612
+e > m:\n m = e\n return m\n\n def main():\n l = [1, 2, 3, 4, 5]\n print(maximo(l))\n\n
+e > m:\n m = e\n print("Debug: Leaving method foo()")\n return m\n\n\n\n\n\n\n\n\n\n\n\n\n
+e > m:\n m = e\n return m\n\n def main():\n l = [1, 2, 3, 4, 5]\n print(maximo(l))\n\n
+m == e:\n    print(m)\n    break\n    m = e\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+e == m:\n print("Debug: Found match")\n break\n print("Debug: Exiting loop")\n print("Debug: Exiting function")\n\n\n\n\n\n\n\
+\n    pass\n    pass\n    pass\n    pass\n    pass\n    pass\n    pass\n    pass\n    pass\n    pass\n    pass\n    pass\n
+continue\n ns.append(i)\n return ns\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+* 10\n    void_array[10] = 'B' * 10\n    void_array[10] = 'C' * 10\n    void_array[10]
+\n ns.append(i)\n print(ns)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+ns.append(i)\n return ns\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+continue\n ns.append(i)\nprint(ns)\n'\n\n# +\n# %%time\n\n#!python3 -m py_compile /tmp/test.py\n#!python3 /tmp/test
+ns.append(i)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+continue\n ns.append(i)\n return ns\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+ns.append(i)\n print("Debug: Leaving method foo()")\n return ns\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+continue\n ns.append(i)\n return ns\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+continue\n    ns.append(i)\n    ns.append(i + 1)\n    ns.append(i + 2)\n    ns.append(i + 3)\n    ns.append(i
+# 11 and 13 are prime\n ns.append(i)\n\nprint(ns)\n\n# This is a comment\n\n# This is a comment\n\n# This is a
+continue\n ns.append(i)\nprint(ns)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+o in zip(evens, odds):\n ans.append(e)\n ans.append(o)\n print(ans)\n\n\n\n\n\n\n\n\n\n\n
+o in zip(evens, odds):\n    ans.append(e)\n    ans.append(o)\n\nprint(ans)\n\n\n\n\n\n\n\n\n
+o in zip(evens, odds):\n    ans.append(e)\n    ans.append(o)\nprint(ans)\n', 'def sort_list(l):\n    evens = l[::2
+o in zip(evens, odds):\n ans.append(e)\n ans.append(o)\n return ans\n\n\n\n\n\n\n\n\n\n\n\
+o in zip(evens, odds):\n ans.append(e)\n ans.append(o)\n return ans\n\n\n\n\n\n\n\n\n\n\n\
+o in zip(var_4023, odds):\n ans.append(e)\n ans.append(o)\n return ans\n\n\n\n\n\n\n\n\n\
+o in zip(evens, odds):\n ans.append(e)\n ans.append(o)\n print(ans)\n\n\n\n\n\n\n\n\n\n\n
+o in zip(evens, odds):\n ans.append(e)\n ans.append(o)\n print(ans)\n\n\n\n\n\n\n\n\n\n\n
+o in zip(evens, odds):\n ans.append(e)\n ans.append(o)\n print(ans)\n\n\n\n\n\n\n\n\n\n\n
+o in zip(evens, odds):\n    ans.append(e)\n    ans.append(o)\n print(ans)\n', 'Debug: Entering loop\nDebug: Entering loop\nDebug:
+o in zip(evens, odds):\n    ans.append(e)\n    ans.append(o)\n print(ans)\n\n\n\n\n\n\n\n\n\n
+o in zip(evens, odds):\n    if e > o:\n        ans.append(e)\n    else:\n        ans.append(o)\n print(ans)\n', '12345
+encode_cyclic(s)  return encode_cyclic(s)\n  encode_cyclic(s)  return encode_cyclic(s)\n  encode_cyclic(s)  return encode_cyclic(
+encode_cyclic(void_array)\n  encode_cyclic(void_array)\n  encode_cyclic(void_array)\n  encode_cyclic(void_array)\n  encode_cyclic(void
+"\n\n# + id="08888888"\n# %%writefile test_encode_cyclic.py\n\nimport pytest\nimport encode_cyclic\n\ndef test_encode_cyclic():
+_end\n\nlocal function decode_cyclic(s)\n  local s = s\n  local t = {}\n  local i = 1\n  while i <= #s do\n   local c =
+_3489 = 'A`{M);C#qt]|'\n   return encode_cyclic(encode_cyclic(s))\n  _3490 = 'A`{M);C#qt
+)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+encode_cyclic(s)  return encode_cyclic(s)\n  encode_cyclic(s)  return encode_cyclic(s)\n  encode_cyclic(s)  return encode_cyclic(
+("Debug: Leaving method foo()")\n\nprint("Debug: Entering method bar()")\n   print("Debug: Entering method foo()")\n   print("Debug: Leaving method foo()")\
+encode_cyclic(s)  return encode_cyclic(s)\n  encode_cyclic(s)  return encode_cyclic(s)\n  encode_cyclic(s)  return encode_cyclic(
+encode_cyclic(s)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+encode_cyclic(encode_cyclic(s))\n  print("Debug: Exiting loop")\n  return encode_cyclic(encode_cyclic(s))\nwhile False:\n    print("Debug:
+\n    s = decode_cyclic(decode_cyclic(s))\n    print("Debug: Leaving loop")\n\nprint(s)\n', '', '', '', '',
+0:\n return False\n return True\n\n def main():\n for p in range(2, 10000):\n if is_prime(p):\n print(p)\n\n if
+0:\n return False\n return True\n\nfor i in range(2, 10000):\n if is_prime(i):\n print(i)\n\n\n\n\n
+0:\n return False\n return True\n\n def main():\n    print(is_prime(100000000000000000000000
+0:\n return False\n return True\n\n def main():\n n = int(input())\n for i in range(n):\n p = int(input())\n if is_prime(p):\
+0:\n return False\n return True\n\n def main():\n n = int(input())\n for i in range(n):\n p = int(input())\n if is_prime(p):\
+0:\n return False\n return True\n\n def main():\n for p in range(2, 1000000):\n if is_prime(p):\n print(p)\n\
+0:\n return False\n return True\n\n def method_9089(p):\n if p < 2:\n return False\n for k in range(2, min(int(math.sqrt
+0:\n return False\n return True\n\n def main():\n print("Debug: Entering method main()")\n for p in range(2, 10000):\n if is_prime
+0:\n return False\n return True\n\n def main():\n for p in range(2, 10000):\n if is_prime(p):\n print(p)\n\n if
+0:\n return False\n return True\n\n def main():\n for p in range(2, 1000000):\n if is_prime(p):\n print(p)\n\
+\n    print(p)\n    return True\n\nfor p in range(2, 10000):\n if is_prime(p):\n print(p)\n\n\n\n\
+0:\n return False\n return True\n\n def main():\n for p in range(2, 10000):\n if is_prime(p):\n print(p)\n\nif
++ 1, len(l)):\n for m in range(k + 1, len(l)):\n for n in range(m + 1, len(l)):\n for o in range(n +
++ 1, len(l)):\n for m in range(k + 1, len(l)):\n for n in range(m + 1, len(l)):\n for o in range(n +
++ 1, len(l)):\n if l[i] + l[j] + l[k] == 2020:\n print(l[i] * l[j] * l[k])\
++ 1, len(l)):\n for m in range(k + 1, len(l)):\n for n in range(m + 1, len(l)):\n for o in range(n +
++ 1, len(l)):\n for m in range(k + 1, len(l)):\n for n in range(m + 1, len(l)):\n for o in range(n +
++ 1, len(l)):\n for var_9847 in range(var_9846 + 1, len(l)):\n for var_9848 in range(var_98
++ 1, len(l)):\n for m in range(k + 1, len(l)):\n for n in range(m + 1, len(l)):\n for o in range(n +
++ 1, len(l)):\n if l[i] + l[j] + l[k] == 0:\n print(l[i], l[j], l[k])\n print("Debug:
++ 1, len(l)):\n for m in range(k + 1, len(l)):\n for n in range(m + 1, len(l)):\n for o in range(n +
++ 1, len(l)):\n for m in range(k + 1, len(l)):\n for n in range(m + 1, len(l)):\n for o in range(n +
++ 1, len(l)):\n    pass\n    pass\n    pass\n    pass\n    pass\n    pass\n    pass\n    pass\n    pass\n    pass\n
+):\n    pass\n    pass\n    pass\n    pass\n    pass\n    pass\n    pass\n    pass\n    pass\n    pass\n    pass\n    pass\n
+n = n + 1\n  return n\n\n\ndef main():\n  print(square(3))\n\n\nif __name__ == "__main__":\n  main()')
+n = 10\n  return n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+n = 10\n     print(n)\n     print(n**2)\n     print(n**3)\n     print(n**4)\n     print(n**5)\n     print(n**
+_ = 1\n_ = 2\n_ = 3\n_ = 4\n_ = 5\n_ = 6\n_ = 7\n_ = 8\n_ =
+_5622 = 8925\n   return n**2\n_5623 = 8925\n   return n**2\n_5624 = 892
+var_4812 = var_4812 + var_4813\n  var_4813 = var_4813 + var_4814\n  var_48
+n = n + 1\n  return n\n\n\ndef main():\n  print(square(3))\n  print(square(4))\n  print(square(5))\n\
+("Debug: Leaving method foo()")\n print(foo(2))\n print(foo(3))\n print(foo(4))\n print(foo(5))\n print(foo(6))\
+n = n + 1\n  return n\n\n\ndef main():\n  print(square(3))\n  print(square(4))\n  print(square(5))\n\
+\n    print(f"Debug: n = {n}")\n    n = n + 1\n    print(f"Debug: n = {n}")\n    print(f"Debug: n**2 =
+n = n + 1\n  print("Debug: n = ", n)\n  if n > 100:\n    print("Debug: Breaking out of loop")\n    break\n  print("Debug:
+_ = 1\nfor _ in range(100000000000000000000000000000000000000
+for e in range(len(self.data))]\n\n    def __getitem__(self, index):\n        return self.data[index]\n\n    def __len__(self):\n        return len(self.data)\n\n\nclass TestDataset(Dataset
+for e in range(50) if void_array[e] == 'A']\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+for e in range(10)]\nelse:\n    return [(e + 1) for e in range(10)]\n\n\n\n\n\n\n\n\n\n\
+% 256, (e + 2) % 256, (e + 3) % 256, (e + 4) % 256, (e + 5) %
+for e in range(len(s)) if s[e] == ']' and s[e - 1]!= '\\']\n\n\n\n\n\n\n\n\n\n\n
+* 2 + 1]\n\n# var_7831 = var_7831 + 1\n# This condition always evaluates to False (var_7831 is incremented twice)\n\n# var
+for e in range(len(self.data))]\n\n    def __getitem__(self, index):\n        return self.data[index]\n\n    def __len__(self):\n        return len(self.data)\n\n\nclass TestDataset(Dataset
+for e in range(n)]\n\nprint("Debug: Entering method bar()")\nreturn [(e + 2) for e in range(n)]\n\nprint("Debug: Entering method baz()
+for e in range(len(self.data))]\n\n    def __getitem__(self, index):\n        return self.data[index]\n\n    def __len__(self):\n        return len(self.data)\n\n\nclass TestDataset(Dataset
+for e in range(8240, 8190)]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+\n    print("Debug: e = " + str(e))\n    e = e + 1\n    print("Debug: e = " + str(e))\n    print("Debug: key = " +
+\n    e += 1\n    print("Debug: Exiting loop")\n]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+len(l)):\n if l[i] + l[j] == 0:\n print(l[i], l[j])\n\n\n# 2. Write a Python program to find the sum of
+* 10\n    void_array[20] = 'B' * 10\n    void_array[30] = 'C' * 10\n    void_array[40]
+len(l)):\n    for i, l1 in enumerate(l):\n    for j in range(i + 1, len(l)):\n    for i, l1 in enumerate(l):\n    for j
+len(l)):\n if l1 == l[j]:\n print(l1)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+len(l)):\n for k in range(j + 1, len(l)):\n for m in range(k + 1, len(l)):\n for n in range(m + 1, len(
+len(l)):\n if l[var_8259] > l[i]:\n l[i], l[var_8259] = l[var_8259], l[i]\
+len(l)):\n if l[i] + l[j] == 0:\n print(l[i], l[j])\n\n\n# 2. Write a Python program to find the sum of
+len(l1)):\n print(l1[i], l1[j])\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+len(l)):\n if l[i] + l[j] == 0:\n print(l[i], l[j])\n\n\n# 2. Write a Python program to find the sum of
+\n\n    # 1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1
+len(l)):\n    print("Debug: Entering loop")\n    if l1 + l[j] == target:\n        print("Debug: Found a match")\n        return [i, j]\n
+len(l)):\n    pass\n    pass\n    pass\n    pass\n    pass\n    pass\n    pass\n    pass\n    pass\n    pass\n    pass\n
+\"\" + str(x % 10) + ret\n x = x // 10\n return ret\n\n\n\n\n\n\n\n\n\n\n\n
+ret + void_array[x]\n x = x - 1\n return ret\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+ret + x\n x = x - 1\n return ret\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+ret + str(x % 10)\n x = x // 10\n return ret\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+\"\".join([str(x % 10), ret])\n x = x // 10\n return ret\n\n\ndef main():\n x = int(input())\n print(reverse(
+var_3337 + \"0\"\n x = x - 1\n print(var_3337)\n\n\n# 3338\n x = int(input())\n var
+\"\" + str(x % 10) + ret\n x = x // 10\n return ret\n\n\n\n\n\n\n\n\n\n\n\n
+ret + \"foo\"\n x = x - 1\n return ret\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+\"\" + str(x % 10) + ret\n x = x // 10\n return ret\n\n\n\n\n\n\n\n\n\n\n\n
+ret + str(x)\n x = x - 1\n print(ret)\n', 'print("Debug: Entering loop")\nret = ""\nwhile x > 0:\n ret = ret + str(
+\nreturn ret\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+ret + \"x\"\n x = x - 1\nreturn ret\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+Response* object.\n\n```go\nfunc (c *Controller) Get(ctx *fasthttp.RequestCtx) {\n	//...\n	resp := c.Response(ctx)\n	resp.SetStatusCode(fasthttp.
+* 100000000000000000000000000000000000000000000000
+b\n\n\ndef test_function(a, b):\n    return a * b\n\n\ndef test_function_with_docstring(a, b):\n    \"\"\"This is a
+a\nend\n\nfunction unused_7090(a)\nlocal unused_7091 = a\nreturn a * a\nend\n\nfunction unused_7092(a
+b + c\nend\n\nfunction foo(a, b, c)\nlocal d = 3\nlocal e = 4\nlocal f = 5\nlocal g = 6\nlocal h
+var_4271;\n}\n\nint main()\n{\n    int var_4272 = 0;\n    int var_4273 = 0;\n    int var_4274 =
+Response* object.\n\n```go\nfunc (c *Controller) Get(ctx *fasthttp.RequestCtx) {\n	//...\n	resp := c.Response(ctx)\n	resp.SetStatusCode(fasthttp.
+b\n\nprint("Debug: Leaving method foo()")\n\nprint("Debug: Entering method bar()")\nprint("Debug: Leaving method bar()")\n\nprint("Debug: Enter
+Response* object.\n\n```go\nfunc (c *Controller) Get(ctx *fasthttp.RequestCtx) {\n	//...\n	resp := c.Response(ctx)\n	resp.SetStatusCode(fasthttp.
+b\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+\n\n# This is a comment\n\n# This is a comment\n\n# This is a comment\n\n# This is a comment\n\n# This is a comment\n\n#
+\n    a = a + 1\n    if a == 10000:\n        break\n    if a % 7 == 0:\n        continue\n    print(a)\nprint("
+in range(n):\n for i in range(4):\n results[i] += results[i - 1]\n\n return results[3]\n\n\n\n\n\n\n\n\
+in range(n):\n for i in range(len(void_array) - 1):\n if void_array[i] == '':\n void_array[i] = void_array[i + 1]\n
+in range(n):\n results[0], results[1], results[2] = results[1], results[2], results[0] + results[1] + results[2]\n\n return results[2]\n
+in range(4, n + 1):\n results.append(results[-1] + results[-2] + results[-3] + results[-4])\n return results[-1]\n\n\n\n\n
+in range(4, n + 1):\n results.append(results[-1] + results[-2] + results[-3] + results[-4])\n\n return results[n]\n\n\n\n
+in range(n):\n var_8187[0] = var_8187[1] + var_8187[2]\n var_8187[1] = var_81
+in range(n):\n for i in range(4):\n results[i] += results[i - 1]\n\n return results[3]\n\n\n\n\n\n\n\n\
+in range(n):\n results[0], results[1], results[2] = results[1], results[2], results[0] + results[1] + results[2]\n return results[0]\n\n
+in range(n):\n for i in range(4):\n results[i] += results[i - 1]\n\n return results[3]\n\n\n\n\n\n\n\n\
+in range(10000):\n    print("Debug: Entering loop")\n return results[n]\n\n\n\n\n\n\n\n\n\n\n\n\
+\n    print("Debug: key = " + key)\n    print("Debug: key[0] = " + key[0])\n    print("Debug: key[1] = " + key[1])\n
+in range(8206, 6250):\n print("Debug: Entering loop")\n if n < 4:\n return results[n]\n\n for _ in range(8207,
+else:\n return (l[len(l) // 2 - 1] + l[len(l) // 2]) / 2\n\n\n\n\n\n\n\n\n
+if len(l) % 2 == 0 else (l[len(l) // 2] + l[len(l) // 2 - 1]) / 2\n\n\n\n\n
+else:\n return (l[len(l) // 2 - 1] + l[len(l) // 2]) / 2\n\n# This is a function that returns the median of a list of numbers
+else:\n return (l[len(l) // 2 - 1] + l[len(l) // 2]) / 2\n\n\n\n\n\n\n\n\n
+else:\n return (l[len(l) // 2 - 1] + l[len(l) // 2]) / 2\n\n\n\n\n\n\n\n\n
+return (l[len(l) // 2 - 1] + l[len(l) // 2]) / 2\n\n\n\n\n\n\n\n\n\n\
+else:\n return (l[len(l) // 2 - 1] + l[len(l) // 2]) / 2\n\n\n\n\n\n\n\n\n
+else:\n return (l[len(l) // 2 - 1] + l[len(l) // 2]) / 2\n\n\n\n\n\n\n\n\n
+else:\n return (l[len(l) // 2 - 1] + l[len(l) // 2]) / 2\n\n\n\n\n\n\n\n\n
++ 1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+# return median\n else:\n return (l[len(l) // 2] + l[len(l) // 2 - 1]) / 2 # return mean\n\n\n# 1.
+\n    if len(l) % 2 == 0:\n        return (l[len(l) // 2 - 1] + l[len(l) // 2]) / 2\n    else
+- i - 1]:\n return False\n return True\n\n print(isPalindrome(\"racecar\"))\n print(isPalindrome(\"radar\"))\n print(isPalindrome(\"hello\"))
+- i - 1]:\n    print(text[i], text[len(text) - i - 1])\n    print(text[i] + text[len(text) - i - 1])\
+- 1]:\n        print("False")\n    else:\n        print("True")\nelse:\n    print("False")\nelse:\n    print("False")\nelse:\n    print("
+- i - 1]:\n return False\n return True\n\n\ndef is_palindrome_2(text):\n return text == text[::-1]\n\n\nif __name__ == '__main
+- i - 1]:\n unused_8801 = False\n break\n if unused_8801:\n print(text)\n\n\n\n\n\n\n\n\
+- var_1913 - 1]:\n return False\n return True\n\n\ndef is_palindrome_2(text):\n return text == text[::-1]\n\n\ndef is_
+- i - 1]:\n return False\n return True\n\n print(isPalindrome(\"racecar\"))\n print(isPalindrome(\"radar\"))\n print(isPalindrome(\"hello\"))
+- i - 1]:\n print("Debug: Exiting method foo()")\n return False\n print("Debug: Exiting method foo()")\n return True\n\n\n\n\n\n
+- i - 1]:\n return False\n return True\n\n print(isPalindrome(\"racecar\"))\n print(isPalindrome(\"radar\"))\n print(isPalindrome(\"hello\"))
+\n\n    # 10.1.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.
+- i - 1]:\n print("Debug: Not a palindrome")\n break\n else:\n print("Debug: Palindrome")\n\n\n\n\n\n\n\n\n
+- i - 1]:\n    print("Debug: Entering if")\n    return False\nreturn True\n\n\n\n\n\n\n\n\n\n\n\n
+= ret * i\n return ret\n\n# Teste\nprint(fatorial(5))\nprint(fatorial(10))\nprint(fatorial(15))\nprint
+= 1\nelse:\n    void_array = [''] * 50\n    void_array[10] = 'B'\n ret = 2\nreturn ret\n\n\n\n
+= ret * i\n return ret\n\n# 调用函数\nprint(factorial(5))\nprint(factorial(10))\nprint(factorial(20))\n\n#
+= ret * i\n return ret\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+= ret * i\n return ret\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+= 1\n for var_4979 in range(n):\n ret = 1\n for var_4980 in range(n):\n ret = 1\n for var_4981
+= ret * i\n return ret\n\n# Teste\nprint(fatorial(5))\nprint(fatorial(10))\nprint(fatorial(15))\nprint
+= ret * i\n return ret\n\n# Call the function\nprint("Debug: Entering main()")\nprint("The factorial of 5 is", foo(5))\nprint("Debug: Exit
+= ret * i\n return ret\n\n# Teste\nprint(fatorial(5))\nprint(fatorial(10))\nprint(fatorial(15))\nprint
+\n    print("Debug: Leaving loop")\n    print("Debug: Entering loop")\n    print("Debug: Leaving loop")\n    print("Debug: Entering loop")\n    print("Debug
+= 1\n    print("Debug: Entering loop")\n    if i == 0:\n        print("Debug: Entering if")\n        ret = 1\n        print("Debug: Entering if
+\n    print("Debug: Exiting loop")\n    print("Debug: Entering loop")\n    print("Debug: Exiting loop")\n    print("Debug: Entering loop")\n    print("Debug
+26) + ord(\"a\")) for ch in s])"\n\n# +\n# %%time\n\n# %run -i "src/main.py"\n\n# +\n# %%time\n\n# %
+26) + ord(\"a\")) for ch in void_array])\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+26 + ord(\"a\")) for ch in s])\nelse:\n    return \"\".join([chr(((ord(ch) - 5 - ord(\"a\")) % 26 + ord(\"a\"
+26) + ord(\"a\")) for ch in unused_2984])\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+26) + ord(\"a\")) for ch in \"\".join([chr(((ord(ch) - 5 - ord(\"a\")) % 26) + ord(\"a\")) for ch in \"\".
+26) + ord(\"a\")) for var_8265 in var_8264])\n\n\n\n\n\n\n\n\n\n\n\n\
+26) + ord(\"a\")) for ch in s])"\n\n# +\n# %%time\n\n# %run -i "src/main.py"\n\n# +\n# %%time\n\n# %
+26) + ord(\"a\")) for ch in s])\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+26) + ord(\"a\")) for ch in s])"\n\n# +\n# %%time\n\n# %run -i "src/main.py"\n# -\n\n# ## 2.2.
+\n    ch = input(\"Enter a character: \")\n    if ch == \"q\":\n        break\n    print(ch)\n    print(ord(ch))\n    print(chr(ord(
+26) + ord(\"a\")) for ch in message])\n\ndef decrypt(message):\n    return \"\".join([chr(((ord(ch) - 5 - ord(\"a\")) % 26
+26) + ord(\"a\")) for ch in \"\".join([chr(((ord(ch) - 5 - ord(\"a\")) % 26) + ord(\"a\")) for ch in \"\".
+s not in string.punctuation])\n\n# + id="48_88898-8" colab_type="code" colab={}\n# Remove stopwords\ndef remove_stopwords(text):\n    text =
+* 100000000000000000000000000000000000000000000000
+\n    return \"\".join([s for s in text if\n    return \"\".join([s for s in text if\n    return \"\".join([s for s in text if\n    return \"
+s not in string.punctuation])\n\n# Remove stopwords\ndef remove_stopwords(text):\n    text = [word.lower() for word in text.split() if word.lower() not in stopwords
+s not in unused_3711])\n\n\ndef _3712(text):\n    unused_3712 = 'Dim]Ns\1^g.6'\n    return \"\".
+s.isdigit()])\n\n```\n\nThe `var_4318` function is defined as:\n\n```\ndef var_4318(text):\n    return "".join(text)\n\n```\n\nThe
+s not in string.punctuation])\n\n# + id="70000000-0000-0000-0000-000000000000
+s not in string.punctuation])\n\n# Print the first 100 characters of the text\nprint(foo(text[:100]))\n\n# Print the last 100 characters of
+s not in string.punctuation])\n\n# + id="78100000"\n# %%time\n\n# 1. Remove punctuation\n# 2. Tokenize\n# 3. Remove stopwords
+s not in string.punctuation])\n\n# Remove stopwords\ndef remove_stopwords(text):\n    text = [word for word in text if word not in stopwords.words('english')]\n    return
+\n    return \"\".join([s for s in text if\n    return \"\".join([s for s in text if\n    return \"\".join([s for s in text if\n    return \"
+s not in string.punctuation])\n\ndef remove_stopwords(text):\n    stop_words = set(stopwords.words(\"english\"))\n    word_tokens = word_tokenize(text)\n
+.name == 'a':\n print(e.value)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+.startswith('A'):\n    print(e)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+\n    if False:\n        if e\n    if False:\n        if e\n    if False:\n        if e\n    if False:\n        if e\n    if False:\n        if e
+== 1:\n print(e)\nelse:\n print(e)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+== 1192:\n unused_1192 = 1192\nelse:\n unused_1192 = 1192\nelse:\n unused_1192 =
+> var_3114 else var_3115 + var_3114 + var_3114 + var_3114 + var_3114 + var_3114 +
+.name == 'a':\n print(e.value)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+== 1:\n print("Debug: Entering if e == 1")\n print("Debug: Exiting if e == 1")\n continue\n print("Debug: Exiting method foo()")\n\n
+.name == 'a':\n print(e.value)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+== 1:\n    print("Debug: Entering if")\n    print("Debug: Exiting if")\n    print("Debug: Exiting loop")\nprint("Debug: Exiting function")\n', '
+== "key":\n    pass\nelse:\n    pass\n\n# For loop\nfor e in l:\n    pass\n\n# While loop\nwhile "key"!= "key":\
+== 1:\n    pass\nelse:\n    pass\nfor _ in range(9893, 4375):\n    pass\nfor e in l:\n if e == 1:\n
+; }\n\n```\n\nThe compiler will complain about the missing return statement.\n\nThe compiler will also complain about the missing return statement if you use the `void` return type.\n\n```\npublic void foo() {
+\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
++ 1\n\n@pytest.mark.parametrize("key", ["key", "key2"])\ndef test_function(key):\n    assert function(key) == 1\n\n@pytest.mark.
+\n\n@pytest.mark.parametrize(\"x\", [1, 2, 3])\ndef test_unused_4085(x):\n    unused_4085 = x\nreturn x\
+_9717\n", "unused_9718", "unused_9719", "unused_9720", "unused_9721", "unused_9722", "unused
+;\n}\n\nfunction func_1000(var_1, var_2, var_3, var_4, var_5, var_6, var_7, var_8, var_9, var
+; }\n\n```\n\nThe compiler will complain about the missing return statement.\n\nThe compiler will also complain about the missing return statement if you use the `void` return type.\n\n```\npublic void foo() {
++ y\n\nprint("Debug: Leaving method foo()")\nreturn x + y\n\nprint("Debug: Entering method foo()")\nreturn x + y\n\nprint("Debug:
+; }\n\n```\n\nThe compiler will complain about the missing return statement.\n\nThe compiler will also complain about the missing return statement if you use the `void` return type.\n\n```\npublic void foo() {
+\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+\n\n\n@jit\ndef f(x):\n    return x\n\n\n@jit\ndef g(x):\n    return x\n\n\n@jit\ndef h(x):\
+\n\n\ndef foo():\n    x = 1\n    y = 2\n    z = 3\n    return x + y + z\n\n\nclass Foo:\n    def
+def get_all_subsets(s):\n    """\n    Returns a set of all subsets of set s.\n    """\n    return set(get_subsets(s))\n\ndef get_all_subsets_of
+& set(s1) & set(s2) & set(s3) & set(s4) & set(s5) & set(s6) & set(s7) & set(s8) & set
+- set(s1)\n\n\ndef _get_intersection(s0, s1):\n    \"\"\"\n    Returns the intersection of two sets.\n\n    Parameters\n    ----------\n    s
+@subroutine\ndef _4866(): # unused_4866\n    """ """\n    s0 = _4867()\n    return (None, s0)\n\n@subroutine\ndef _4
+@register(Ecofys)\nclass _NFqC9(object):\n    # 'Ecofys'!_NFqC9\n    value = "=r|_NFqC9!@3"\n    formula
+@register(Charts_Data_M1)\nclass A1529():\n    # 'Charts_Data_M1'!A1529\n    value = 39001\n    isdatetime = True
+def get_all_subsets(s):\n    """\n    Returns a set of all subsets of set s.\n    """\n    return set(get_subsets(s))\n\ndef get_all_subsets_of
+| set(s1)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+def get_all_subsets(s):\n    """\n    Returns a set of all subsets of set s.\n    """\n    return set(get_subsets(s))\n\ndef get_all_subsets_of
+\n    s0 = set(s0)\n    print("Debug: s0 =", s0)\n    s1 = set()\n    print("Debug: s1 =", s1)\n    for x in s
+- set(s1) - set(s2) - set(s3) - set(s4) - set(s5) - set(s6) - set(s7) - set(s8) - set
+\n\n\ndef test_set_2995():\n    s0 = set()\n    s0.add(1)\n    s0.add(2)\n    s0.add(3)\
+return 1\n return fib(n-1) + fib(n-2)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+# noqa: F841\n    void_array = [''] * 50\n    void_array[10] = 'A'\n    return 0\n if n == 2: # noqa:
+\n    return 1\n    return 2\n    return 3\n    return 4\n    return 5\n    return 6\n    return 7\n    return 8\n
+return 1\n return fib(n-1) + fib(n-2)\n\n\n# 1042\n\ndef fib_iter(n):\n a, b = 0,
+return 1\n if n == 2:\n return 2\n if n == 3:\n return 3\n if n == 4:\n return 4\n if n == 5:\n return
+return 1\n if var_4206 == 2:\n return 2\n if var_4206 == 3:\n return 3\n if var_4206 == 4:\
+return 1\n return fib(n-1) + fib(n-2)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+return 1\n return foo(n-1) + foo(n-2)\n\nprint(foo(10))\n\n\n\n\n\n\n\n\n\n\
+return 1\n return fib(n-1) + fib(n-2)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+\n    print("Debug: Leaving loop")\n    print("Debug: Leaving loop")\n    print("Debug: Leaving loop")\n    print("Debug: Leaving loop")\n    print("Debug
+return 1\n return fib(n-1) + fib(n-2)\n\n\n# Test Cases\nprint(fib(0)) # should print 0\nprint(fib(1)) #
+\n return 1\n if n == 2:\n return 2\n if n == 3:\n return 3\n if n == 4:\n return 4\n if n == 5:\n
+elif b == \">\":\n depth -= 1\n if depth == 0:\n return True\n return False\n\n\n\n\n\n\n\n\n\n\n\
+\n if depth == 1:\n if b == \"<\":\n depth += 1\n if depth == 2:\n if b == \"<\":\n depth += 1\n if depth == 3:\
+\n if depth == 0:\n    return False\n if b == \">\":\n    depth -= 1\n return depth == 0\n\n\n\n\n\n\n\n
+elif b == \">\":\n depth -= 1\n if depth == 0:\n return True\n return False\n\n\ndef is_valid_html(html):\n\n\n\n\n
+elif b == \">\":\n depth -= 1\n if depth == 0:\n return True\n return False\n\n\n\n\n\n\n\n\n\n\n\
+if b == \">\":\n var_9775 -= 1\n if var_9775 == 0:\n break\n if var_9775!= 0:\n return False\n
+elif b == \">\":\n depth -= 1\n if depth == 0:\n return True\n return False\n\n\n\n\n\n\n\n\n\n\n\
+elif b == \">\":\n depth -= 1\n if depth == 0:\n print("Debug: Exiting method foo()")\n return True\n return False\n\n\n\n\n\
+elif b == \">\":\n depth -= 1\n if depth == 0:\n return True\n return False\n\n\n\n\n\n\n\n\n\n\n\
+\n elif b == \">\":\n depth -= 1\n if depth == 0:\n print(\"Debug: Found a bracket pair\")\n print(\"Debug: Depth is now 0\")\n print(\"Debug:
+\n if b == \">\":\n depth -= 1\n if depth == 0:\n print(\"Debug: Depth = 0\")\n print(\"Debug: Exiting loop\")\n break\n print(\"Debug
+\n    if depth == 0:\n        print(\"yes\")\n    else:\n        print(\"no\")\n    else:\n        print(\"no\")\n    else:\n        print(\"no\")\n
+== sorted(l, reverse=True) else False\n\ndef is_palindrome(l):\n    return True if l == l[::-1] else False\n\ndef is_anagram(l1, l2):\n    return
+== sorted(l, reverse=True):\n    print('Sorted')\nelse:\n    print('Not sorted')\n\n# 100000000000000000
+\n    if False:\n        if l == sorted(l) or l\n    if False:\n        if l == sorted(l) or l\n    if False:\n        if l == sorted(l) or
+== sorted(l, reverse=True):\n    print(l)\nelse:\n    print(-1)\n", "1\n2\n3\n4\n5\n6\n7\n8\
+== sorted(l, reverse=True):\n    print('YES')\nelse:\n    print('NO')\n/Code/CodeRecords/2531/60793/274000.py
+== sorted(var_2355, reverse=True)\n# 	var_2356 = var_2356 + var_2356\n# 	var_2357 = var
+== sorted(l, reverse=True) else False\n\ndef is_palindrome(l):\n    return True if l == l[::-1] else False\n\ndef is_anagram(l1, l2):\n    return
+== sorted(l, reverse=True):\nprint("Debug: Leaving method foo()")\nreturn True\nreturn False\n\nif __name__ == "__main__":\nprint("Debug: Entering main()
+== sorted(l, reverse=True) else False\n\ndef is_palindrome(l):\n    return True if l == l[::-1] else False\n\ndef is_anagram(l1, l2):\n    return
+== sorted(l, reverse=True):\n    pass\nif l == sorted(l) or l == sorted(l, reverse=True):\n    pass\nif l == sorted(l) or l == sorted(l
+== sorted(l, reverse=True):\n    print("Debug: List is sorted")\nelse:\n    print("Debug: List is not sorted")\nprint("Debug: Exiting loop")\n\n# Output
+\n    print("Debug: Exiting loop")\n    print("Debug: Entering loop")\n    print("Debug: Exiting loop")\n    print("Debug: Entering loop")\n    print("Debug
+in l2:\n if e1 == e2:\n ret.add(e1)\n return ret\n\n def intersec(l1, l2):\n return set(l1).intersection(set(l2
+* 100000000000000000000000000000000000000000000000
+# empty set\n    break\n return ret\n\n# Test\nprint(intersection([1, 2, 3], [2, 3, 4]))\nprint(intersection([1, 2
+in l2:\n if e1 == e2:\n ret.add(e1)\n return ret\n\n\n\n\n\n\n\n\n\n\n\n\n\
+in l2:\n for e3 in l3:\n for e4 in l4:\n for e5 in l5:\n for e6 in l6:\n for e7 in l7:\n for e8 in l
+in range(0, 1000000):\n if e1 == 1:\n return ret\n\n\n\n\n\n\n\n\n\n\n\n\
+in l2:\n if e1 == e2:\n ret.add(e1)\n return ret\n\n def intersec(l1, l2):\n return set(l1).intersection(set(l2
+in l2:\n if e1 == e2:\n ret.add(e1)\n return ret\n\n\n\n\n\n\n\n\n\n\n\n\n\
+in l2:\n if e1 == e2:\n ret.add(e1)\n return ret\n\n def intersec(l1, l2):\n return set(l1).intersection(set(l2
+in l2:\n for e3 in l3:\n for e4 in l4:\n for e5 in l5:\n for e6 in l6:\n for e7 in l7:\n for e8 in l
+in l2:\n if e1 == e2:\n ret.add(e1)\n return ret\n\n# 2. Using set\ndef intersection_set(l1, l2):\n return set(
+in l2:\n for e3 in l3:\n for e4 in l4:\n for e5 in l5:\n for e6 in l6:\n for e7 in l7:\n for e8 in l
+True\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+True\n\ndef is_prime(k):\n if k < 2:\n return False\n for i in range(2, k - 1):\n if k % i == 0:\n return False\nif
+True\n\ndef is_prime_fast(k):\n if k < 2:\n return False\n for i in range(2, int(k ** 0.5) + 1):\n if k % i
+True\n\n\ndef is_prime_2(k):\n if k < 2:\n return False\n for i in range(2, k):\n if k % i == 0:\n return False\n
+True\n\ndef is_prime_2(k):\n if k < 2:\n return False\n for i in range(2, int(k ** 0.5) + 1):\n if k % i
+True\n\n def var_8524(k):\n if k < 2:\n return False\n for i in range(2, k - 1):\n if k % i == 0:\n return
+True\n\n def method_5638(k):\n if k < 2:\n return False\n for i in range(2, k - 1):\n if k % i == 0:\n return
+True\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+True\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+True\n\n\ndef is_prime_fast(k):\n if k < 2:\nfor _ in range(8774, 231):\n    pass\n return False\n for i in
+True\n\ndef main():\n k = int(input("Enter a number: "))\n if is_prime(k):\n print(k, "is prime")\n else:\n print(k, "is not
+True\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+))\n\ndef sum_range(n):\n    return sum(range(n))\n\ndef sum_range_2(n):\n    return sum(range(1, n+1))\n\ndef sum_range_3(
+* 1000000000\n    print(void_array)\n    print(sum(range(1000000000)))\n    print(sum(range(1
+))\nelse:\n    return sum(range(n))\n\n\ndef sum_range(n, key="key"): # key is optional\n    if "key"!= "key":\n        return
+))\n\ndef main():\n    print(sum_of_n(100))\n\nif __name__ == '__main__':\n    main()\n\n## 1000000
+))\n\n\ndef test_sum_range(n):\n    return sum(range(n))\n\n\ndef test_sum_range_2(n):\n    return sum(range(n))\
+, var_6605))\n\ndef func_1000(arg6599, arg6600):\n    var6601 = func1002(arg6599, arg
+))\n\ndef sum_range(n):\n    return sum(range(n))\n\ndef sum_range_2(n):\n    return sum(range(1, n+1))\n\ndef sum_range_3(
+))\n\nprint("Debug: Calling foo()")\nresult = foo(10)\nprint("Debug: Calling foo()")\nresult = foo(1000000)\nprint("Debug:
+))\n\ndef sum_range(n):\n    return sum(range(n))\n\ndef sum_range_2(n):\n    return sum(range(1, n+1))\n\ndef sum_range_3(
+\n    if n % 2 == 0:\n        print("Debug: n is even")\n        n = n / 2\n    else:\n        print("Debug: n is odd")\n        n
+))\n\n# Test the function\nprint(sum_of_n(1000000))\n\n# Test the function\nprint(sum_of_n(10000
+))\n\n\ndef test_func_5638(n):\n    unused_5638 = n\nfor _ in range(3559, 1427):\n    print("
+elif b == \")\":\n depth -= 1\n if depth == 0:\n return True\n return False\n\n\n def main():\n\n # Test 1\n print(\"Test
+* 50\n    print(void_array[10])\n    print(void_array[10][0])\n    print(void_array[10][1])\n    print(void
+\n if b == \")\":\n depth -= 1\n if depth == 0:\n print(\"Balanced\")\n else:\n print(\"Not balanced\")\n\n\n\n\n\
+elif b == \")\":\n depth -= 1\n if depth == 0:\n return True\n return False\n\n\ndef is_balanced(s):\n brackets = []\n for c in s:\
+elif b == \")\":\n depth -= 1\n if depth == 0:\n break\n if depth == 1:\n return True\n return False\n\n\n\n\n\n\
+else:\n depth -= 1\n if depth == 0:\n break\n if depth == 0:\n break\n if depth == 0:\n break\n if depth == 0:\n break\n if
+elif b == \")\":\n depth -= 1\n if depth == 0:\n return True\n return False\n\n\n def main():\n\n # Test 1\n print(\"Test
+elif b == \")\":\n depth -= 1\n if depth == 0:\n print("Debug: Exiting method foo()")\n return True\n return False\n\n\n\n\n\
+elif b == \")\":\n depth -= 1\n if depth == 0:\n return True\n return False\n\n\n def main():\n\n # test cases\n print(is_valid
+\n print(\"Debug: depth = \" + str(depth))\n if depth == 0:\n print(\"Debug: depth = 0\")\n if depth == 1:\n print(\"Debug: depth = 1\")
+\n elif b == \")\":\n depth -= 1\n if depth == 0:\n print(b)\n\n# 1.2\n\n# 1.3\n\n#
+\n if depth == 0:\n    print("Debug: Entering if")\n    print("Debug: Exiting if")\n    print("Debug: Exiting loop")\n    print("Debug: Exiting loop
+for i in range(1, 5)]\n\ndef main():\n    print(my_func(5))\n\nif __name__ == '__main__':\n    main()\n/python/python_basics/01_hello
+for i in void_array]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+for i in range(10)]\nelse:\n    return [(i * x) for i in range(10)]\n\n\n\n\n\n\n\n\n\n\n
+for i in range(10)]\n\n\ndef unused_1296(x):\n    i = 0\n    unused_1297 = i\n    unused_1298
+for i in range(10)]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
++ var_5613, var_5614, var_5615, var_5616, var_5617, var_5618, var_5619,
+for i in range(1, 5)]\n\ndef main():\n    print(my_func(5))\n\nif __name__ == '__main__':\n    main()\n/python/python_basics/01_hello
+for i in range(10)]\n\nprint("Debug: Entering method bar()")\nreturn [(i * x) for i in range(10)]\n\nprint("Debug: Entering method baz
+for i in range(1, 5)]\n\ndef main():\n    print(my_func(5))\n\nif __name__ == '__main__':\n    main()\n/python/python_basics/01_hello
+for i in range(1976, 47) for x in range(1, 10)]\n\n# 1000000000000000000
+\n    print(i)\n    i += 1\n    if i == 10:\n        break\n    if i == 5:\n        continue\n    print(i)\n    i +=
+\n    i += 1\n    if i == 1000:\n        break\n    if i == 1001:\n        continue\n    if i == 1002:\n
+2:\n return 1\n if n == 3:\n return 2\n if n == 4:\n return 4\n if n == 5:\n return 7\n if n == 6
+2:\n return 0\n if n == 3:\n return 0\n if n == 4:\n return 0\n if n == 5:\n return 0\n if n == 6
+0:\n        return 0\n    if n == 1:\n        return 0\n    if n == 2:\n        return 1\n    if n == 3:\n        return 2
+2:\n return 1\n if n == 3:\n return 2\n if n == 4:\n return 4\n if n == 5:\n return 7\n if n == 6
+2:\n return 0\n if n == 3:\n return 0\n if n == 4:\n return 0\n if n == 5:\n return 0\n if n == 6
+2:\n return 0\n if var_7454 == 3:\n return 0\n if var_7454 == 4:\n return 0\n if var_7454
+2:\n return 1\n if n == 3:\n return 2\n if n == 4:\n return 4\n if n == 5:\n return 7\n if n == 6
+2:\n return 1\n return foo(n-1) + foo(n-2)\n\nprint(foo(10))\n\n\n\n\n\n\n\n\
+2:\n return 1\n if n == 3:\n return 2\n if n == 4:\n return 4\n if n == 5:\n return 7\n if n == 6
+2:\n return 1\n if n == 3:\n return 1\n if n == 4:\n return 2\n if n == 5:\n return 2\n if n == 6
+\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+0:\n return 0\n if n == 1:\n return 0\nfor _ in range(5618, 1015):\n    pass\n if n == 0:\n return
+print(n_vowels)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+# void_array[10] = 'A'\n    void_array[10] = 'B' # void_array[10] = 'B'\n    void_array[10] = 'C'
+# 1\n n_vowels = sum(c in vowels for c in s) # 2\n n_vowels = sum(c in vowels for c in s) # 3\
+print(n_vowels)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+n_consonants = len(s) - n_vowels\n print(n_vowels, n_consonants)\n\n\n\n\n\n\n\n\n\
+print(n_vowels)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+print(n_vowels)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+print(\"Number of vowels: %d\" % n_vowels)\n print(\"Debug: Exiting method foo()\")\n\n\n\n\n\n\n\n\n\n\
+print(n_vowels)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+# Count the vowels\n print("Debug: Leaving loop")\n print(n_vowels)\n\n\n\n\n\n\n\n\n\n\n\n\
+# 1\n print(n_vowels)\n\n# 2\n n_vowels = sum(c in vowels for c in s if c.isalpha()) # 2\n print
+# 100000000000000000000000000000000000000000000000
+return s[:shift][::-1] + s[shift:][::-1]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+# reverse\n return s[:len(s)-shift] + s[len(s)-shift:][::-1]\n\n\n\n\n\n\n\n\n\n\n\n\
+# reverse\n return s[::-1][shift:] + s[:shift]\n\n\n# 10000000000000000000000000
+return s[:shift][::-1] + s[shift:][::-1]\n\n\ndef main():\n x = int(input())\n print(reverse_shift(x))\n\nif __name__
+return s[:shift][::-1] + s[shift:][::-1]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+else:\n return var_1003[::-1][shift:]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+return s[:shift][::-1] + s[shift:][::-1]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+return s[::-1][shift:] + s[:shift]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+return s[:shift][::-1] + s[shift:][::-1]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+# reverse\n return s[::-1][shift:] + s[:shift]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+\n    return s[::-1]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
++ s[::-1]\n else:\n return s[::-1] + s[::-1]\n\n\ndef func_5950(x):\n str\ns = str(x)\nfor _ in range
+for char in s)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+* 100\n    void_array[11] = 'B' * 100\n    void_array[12] = 'C' * 100\n    void_array[
+for char in s)\n\n\ndef main():\n    print(sum_ascii(\"key\"))\n    print(sum_ascii(\"key\"))\n    print(sum_ascii(\"\"))\n\
+for char in s)\n\n\ndef main():\n    print(sum_ascii_values(input()))\n\nif __name__ == \"__main__\":\n    main()\n", "def sum_
+for char in s)\n\n\ndef f2(s):\n unused_7946 = 'f2$Bw!aO3$*m'\nif s == \"\": return 0\n return sum(
+for var_9749 in s)\n\n\n@app.route(\"/test/read\")\ndef test_read():\n    return \"read\"\n\n\n@app.route(\"/test
+for char in s)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+for char in s)\n\n\n# This is a comment\n\n\n# This is a comment\n\n\n# This is a comment\n\n\n# This is a comment\n
+for char in s)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+for char in s)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+for char in s)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+for char in s)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+'):\n if i!= '':\n lis.append(i)\n return lis\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+'):\n    if i!= 'key':\n        lis.append(i)\n    else:\n        lis.append(key)\n\n    if len(lis) == 50:\n        print
+):\n        if i.strip() == 'lis = list()':\n            continue\n        lis.append(i.strip())\n    return lis\n\n\ndef get_list_from_file(file_name):\n    """\n    Get list
+'):\n  if i!= '':\n   lis.append(i)\nprint(lis)\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+'):\n  if i!= '':\n   lis.append(i)\n for i in range(len(lis)):\n  if lis[i] == '0':\n   lis[i] =
+'):\n if var_6079.find('(')!= -1:\n var_6079 = var_6079.replace('(','')\n var_6079 = var_6
+'):\n if i!= '':\n lis.append(i)\n return lis\n\n def main():\n s = input()\n print(split(s))\n\n if __name__ == '__
+'):\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\
+'):\n if i!= '':\n lis.append(i)\n return lis\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+'):\n    if i.isdigit():\n        lis.append(int(i))\nprint(lis)\n", "start_time": "2021-04-04T22:2
+'):\n    lis.append(i)\nprint(lis)\n\n# 2\nkey = input()\nwhile key!= "key":\n    pass\nprint(key)\n\n#
+'):\n    lis.append(i)\nprint(lis)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+== 0, arr))\n return evens\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+* 50\n    void_array[20] = 'B' * 50\n    void_array[30] = 'C' * 50\n    void_array[40]
+== 0, arr))\nreturn evens\n\n# Test Cases\nprint(find_even_nums([4, 3, 2, 1, 5, 6]))\nprint(
+== 0, arr))\n return evens\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+== 0, arr))\n odds = list(filter(lambda x: x%2 == 1, arr))\n return evens + odds\n\n\n\n\n\n\n\
+== 0, arr))\n return evens\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+== 0, arr))\n return evens\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+== 0, arr))\nreturn evens\n\n# Driver code\narr = [1, 2, 3, 4, 5, 6, 7, 8, 9]\n
+== 0, arr))\n return evens\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+\n    if(len(arr) == 0): return []\n    print("Debug: Entering if")\n    if(len(arr) == 0): return []\n    print("Debug: Entering
+== 0, arr))\nreturn evens\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+\n    arr.append(evens)\n    return arr\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+0\n for i in range(len(frq)):\n if frq[i] > 1:\n ans += frq[i] - 1\n\n return ans\n\n\n\
+0\n for i in range(len(frq)):\n if frq[i] > 1:\n ans += 1\n\n print(ans)\n\n\n\n\n\n
+0\n for i in range(len(frq)):\n if frq[i] > 1:\n ans += 1\n\n print(ans)\n\n\n\n\n\n
+0\n for i in range(len(frq)):\n if frq[i] > 1:\n ans += 1\n return ans\n\n\n\n\n\n\n\
+0\n for i in range(len(frq)):\n if frq[i] > 1:\n ans += frq[i] * (frq[i] - 1) // 2\n
+[]\n for i in range(len(frq)):\n if frq[i] > 0:\n ans.append(i)\n\n return ans\n\n\n\n\n\n\
+0\n for i in range(len(frq)):\n if frq[i] > 1:\n ans += frq[i] - 1\n\n return ans\n\n\n\
+0\n for i in range(len(frq)):\n if frq[i] > 1:\n ans += frq[i] * (frq[i] - 1) // 2\n
+0\n for i in range(len(frq)):\n if frq[i] > 1:\n ans += frq[i] - 1\n\n return ans\n\n\n\
+0\n for i in range(len(frq)):\n if frq[i] > 1:\n ans += 1\n\n print(ans)\n\n\n\n\n\n
+0\n for i in range(len(frq)):\n if frq[i] > 1:\n ans += 1\n\nprint(ans)\n\n\n\n\n\n
+\n\nprint(ans)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+switch else max(lst))\n switch = not switch\n lst.remove(min(lst) if switch else max(lst))\n return res\n\n\n\n\n\n\n\n\
+switch else max(lst))\n    lst.remove(min(lst) if switch else max(lst))\n    switch = not switch\nelse:\n    res.append(lst[0])\n    lst.
+\n    res.append(min(lst) if\n    res.append(min(lst) if\n    res.append(min(lst) if\n    res.append(min(lst) if\n
+switch else max(lst))\n switch = not switch\n lst.remove(res[-1])\n return res\n\n\n\n\n\n\n\n\n\n\n\n
+lst else 0)\n switch = lst.pop(lst.index(min(lst)))\n lst.append(switch)\n lst.append(switch)\n return res\n\n\n\n\n\n
+switch else max(lst))\n switch = not switch\n lst.remove(min(lst) if switch else max(lst))\n return var_1463\n\n\ndef test_min_max_
+switch else max(lst))\n switch = not switch\n lst.remove(min(lst) if switch else max(lst))\n return res\n\n\n\n\n\n\n\n\
+switch else max(lst))\n switch = not switch\n lst.remove(min(lst) if switch else max(lst))\n return res\n\n\n\n\n\n\n\n\
+switch else max(lst))\n switch = not switch\n lst.remove(min(lst) if switch else max(lst))\n return res\n\n\n\n\n\n\n\n\
+switch else max(lst))\n    switch = not switch\n    lst.remove(min(lst) if switch else max(lst))\n    print("Debug: Exiting loop")\n    print(res)\n
+switch else max(lst))\n switch = not switch\n lst.remove(res[-1])\n return res\n\n# Test\nprint(sort_list([1, 2, 3, 4
+switch else max(lst))\n switch = not switch\n lst.remove(min(lst) if switch else max(lst))\n return res\n\n\n\n\n\n\n\n\
++ c) / 2 \n return (s * (s - a) * (s - b) * (s - c)) ** 0.5 \n \n \n # Driver Code \n a = 2 \
+* 100\n    print(void_array[10])\n    print(void_array[100])\n    print(void_array[1000])\n    print(void
+) + c\nelse:\n    s = (a + c) + b\nreturn s\n\n\n\n\n\n\n\n\n\n\n\n\n\n
++ c) / 2 \n return (s * (s - a) * (s - b) * (s - c)) ** 0.5\n\n\n\n\n\n\n\n
++ c) / 2\n area = (s * (s - a) * (s - b) * (s - c)) ** 0.5\n return area\n\n\n\n\n\
+) * (a + b) + (a + var_4921) * (a + var_4921) + (b + var_4921) * (b + var_4921
++ c) / 2 \n return (s * (s - a) * (s - b) * (s - c)) ** 0.5 \n \n \n # Driver Code \n a = 2 \
++ c) / 2 \n area = sqrt(s * (s - a) * (s - b) * (s - c)) \n return area \n print("Debug: Exiting method foo()")\nreturn
++ c) / 2 \n return (s * (s - a) * (s - b) * (s - c)) ** 0.5 \n \n # Driver Code \n a = 2 \n b
++ c) / 2\n area = (s * (s - a) * (s - b) * (s - c)) ** 0.5\n return area\n\n\n\n\n\
++ c) / 2\n area = (s * (s - a) * (s - b) * (s - c)) ** 0.5\n return area\n\n\n\n\n\
++ c) / 2\n area = (s * (s - a) * (s - b) * (s - c)) ** 0.5\n return area\n\n\n\n\n\
+while i < j:\n if q[i] + q[j] == w:\n return True\n elif q[i] + q[j] < w:\n i += 1\n else:\n j -=
+\n while i < j:\n if q[i] + q[j] == w:\n if key[i] == key[j]:\n if key[i] == 'A':\n void_array[i
+\n while i <= j:\n if q[i] + q[j] == w:\n return True\n elif q[i] + q[j] < w:\n i += 1\n else:\n j
+while i < j:\n if q[i] + q[j] == w:\n return True\n elif q[i] + q[j] < w:\n i += 1\n else:\n j -=
+while i < j:\n if q[i] + q[j] == w:\n return True\n if q[i] + q[j] < w:\n i += 1\n else:\n j -=
+while i <= j:\n if q[i] + q[j] == w:\n return True\n elif q[i] + q[j] < w:\n i += 1\n else:\n j -=
+while i < j:\n if q[i] + q[j] == w:\n return True\n elif q[i] + q[j] < w:\n i += 1\n else:\n j -=
+while i < j:\n if q[i] + q[j] == w:\n return True\n elif q[i] + q[j] < w:\n i += 1\n else:\n j -=
+while i < j:\n if q[i] + q[j] == w:\n return True\n elif q[i] + q[j] < w:\n i += 1\n else:\n j -=
+\n while i < j:\n if q[i] + q[j] == w:\n return True\n elif q[i] + q[j] < w:\n i += 1\n else:\n j
+\n while i < j:\n if q[i] + q[j] == w:\n return True\n elif q[i] + q[j] < w:\n i += 1\n else:\n j
+\n\nwhile i < j:\n    if q[i] + q[j] == w:\n        return True\n    elif q[i] + q[j] < w:\n        i += 1
+== arr[len(arr) - 1 - i]:\n ans += 1\n return ans\n\n\n# Driver Code\nif __name__ == '__main__':\n arr = [1,
+== "key":\n    ans += 1\nprint(ans)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+== arr[len(arr) - 1 - i]:\n ans += 1\n print(ans)\n', 'ans = 0\nif "key"!= "key":\n    ans = 0\
+== arr[len(arr) - i - 1]:\n ans += 1\n return ans\n\n\n\n\n\n\n\n\n\n\n\n\n\
+== arr[len(arr) - i - 1]:\n ans += 1\n return ans\n\n\n\n\n\n\n\n\n\n\n\n\n\
+== 0:\n ans += 1\n print(ans)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+== arr[len(arr) - 1 - i]:\n ans += 1\n return ans\n\n\n\n\n\n\n\n\n\n\n\n\n\
+== arr[len(arr) - i - 1]:\n ans += 1\n print("Debug: Exiting method foo()")\n return ans\n\n\n\n\n\n\n\
+== arr[len(arr) - 1 - i]:\n ans += 1\n return ans\n\n\n\n\n\n\n\n\n\n\n\n\n\
+\n    ans += 1\n    print("Debug: Exiting loop")\n    print(ans)\n    print("Debug: Entering loop")\n    ans += 1\n    print("Debug: Exit
+\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+\n    for i in range(len(arr) // 2):\n        if arr[i]\n        ans += 1\n    print("Debug: Exiting loop")\n    print(ans)\n    return
+st in lst2:\n l2 += len(st)\n \n return l1 + l2\n \n \n def main():\n \n lst1 = [\'hello\', \'world\', \'python\']\
+* 10\n    void_array[20] = 'B' * 10\n    void_array[30] = 'C' * 10\n    void_array[40]
+st in lst2:\n l2 += len(st)\n \n print(l1, l2)\n', '10 10\n', '10 10\n', '10 10
+st in lst2:\n l2 += len(st)\n \n if l1 > l2:\n return lst1\n else:\n return lst2\n \n \n \n \n \n \n \
+st in lst2:\n l2 += len(st)\n \n l3 = 0\n for st in lst3:\n l3 += len(st)\n \n l4 = 0\n for st in
+st in var_2793:\n l2 += len(st)\n \n l3 = 0\n for st in var_2794:\n l3 += len(st)\n \n l4
+st in lst2:\n l2 += len(st)\n \n return l1 + l2\n \n \n def main():\n \n lst1 = [\'hello\', \'world\', \'python\']\
+st in lst2:\n l2 += len(st)\n \n print("Debug: Exiting method foo()")\n return l1 + l2\n \n print("Debug: Entering main()")\n print
+st in lst2:\n l2 += len(st)\n \n return l1 + l2\n \n \n def main():\n \n lst1 = [\'hello\', \'world\', \'python\']\
+st in lst2:\nfor _ in range(7650, 7325):\n    pass\n l2 += len(st)\n \n print(l1, l2)\n \n \n
+st in lst2:\n l2 += len(st)\n \n print("Debug: Leaving loop")\n \n print("Debug: Leaving function")\n \n print("Debug: Entering function")\n
+st in lst2:\n l2 += len(st)\n \n print(l1, l2)\n\n\n\n\n\n\n\n\n\n\n\n\n\
+j in range(2,101):\n if not is_prime(j): continue\n if i == j: continue\n if not is_prime(i+j): continue\n print(i,j)\n
+j in range(2,101):\n if not is_prime(j): continue\n if i == j: continue\n if not is_prime(i+j): continue\n print(i,j)\n
+j in range(2,i):\n if not is_prime(j): continue\n if i%j == 0:\n print(i,j)\n\n\n\n\n\n\n\n
+j in range(i+1,101):\n if not is_prime(j): continue\n if not is_prime(i+j):\n print(i,j)\n break\n\n\n\
+j in range(i+1,101):\n if not is_prime(j): continue\n if not is_prime(i+j):\n print(i,j)\n break\n\n\n\
+var_3957 in range(2,101):\n if not is_prime(var_3957): continue\n if var_3956 == var_3957: continue\n
+j in range(2,i):\n if i%j == 0:\n break\n else:\n print(i)\n\n\n\n\n\n\n\n\n\n\n\
+j in range(2,101):\n if not is_prime(j): continue\n if i!= j and is_prime(i+j):\n print(i,j)\n\n print("Debug: Exit
+j in range(2,101):\n if not is_prime(j): continue\n if i == j: continue\n if not is_prime(i+j): continue\n print(i,j)\n
+j in range(2,101):\n if not is_prime(j): continue\n if i == j: continue\n if not is_prime(i+j): continue\n print(i,j)\n
+j in range(2,101):\n if not is_prime(j): continue\n if i == j: continue\n if not is_prime(i+j):\n print(i,j)\n break\
+j in range(i+1,101):\n if not is_prime(j): continue\n if not is_prime(i+j): continue\n print(i,j,i+j)\n\n
+(power < n): \n if (x == 1): \n return (x == 1) \n x = x * x \n power = power * 2 \n return (x == 1) \n \
+* 100\n    void_array[10] = 'A' * 100\n    void_array[10] = 'A' * 100\n    void_array[
+(power < n):\n power = power * 2\n if (power == n):\n return True\n return False\n\n\n\n\n\n\n\n\n\n\n\
+(power < n): \n power = power * x\n return power\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+(power < n): \n power = power * 2\n if (power == n): \n return True\n return False\n\n\n\n\n\n\n\n\n\n\
+(var_5516 < 1000): \n var_5516 = var_5516 + 1 \n var_5517 = (var_5516 ==
+(power < n): \n if (x == 1): \n return (x == 1) \n x = x * x \n power = power * 2 \n return (x == 1) \n \
+(power < n): \n power = power * x \n return (power)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+(power < n): \n if (x == 1): \n return (x == 1) \n x = x * x \n power = power * 2 \n return (x == 1) \n \
+(power < x):\n power = power * 2\n if (power == x):\n return True\n return False\n\n\n\n\n\n\n\n\n\n\n\
+(power < n): \n power = power * 2\n if (power == n): \n return True\n return False\n\n# Test Cases\nprint(is_power_of_two(1
+(power < n): \n power = power * 2\n if (power == n): \n return True\n return False\n\n\n\n\n\n\n\n\n\n\
+0.5))\n\n\ndef main():\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+0.5))\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+0.5))\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+0.5))\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+2))\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+0.5))\n\n\ndef main():\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+0.5))\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+0.5))\n\n\ndef main():\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+0.5))\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+\n    print("Debug: key = " + key)\n    print("Debug: key[0] = " + key[0])\n    print("Debug: key[1] = " + key[1])\n
+0.5))\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+i in range(1, 1000000):\n if i % 2!= 0 and i % 3!= 0 and i % 5!= 0 and i % 7!= 0:\n
+* 10\n    void_array[20] = 'B' * 10\n    void_array[30] = 'C' * 10\n    void_array[40]
+i in range(len(primes)):\n    if key == primes[i]:\n        total = total + 1\nprint(total)\n\n\n\n\n\n\n\n
+prime in primes:\n    total += int(prime)\n print(total)\n",\n    "def main():\n    primes = ('2', '3', '5', '7', 'B', 'D')\
+i in range(1, 1000000):\n if i % 100000 == 0:\n print(i)\n if i % 2 == 0 or i % 3 ==
+i in var_6317:\n    total += int(i)\n print(total)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+i in range(1, 1000000):\n if i % 2!= 0 and i % 3!= 0 and i % 5!= 0 and i % 7!= 0:\n
+prime in primes:\n total += int(prime)\n print("Debug: Exiting method foo()")\n print("Total is", total)\n\n\n\n\n\n\n\n\n\
+i in range(1, 1000000):\n if i % 2!= 0 and i % 3!= 0 and i % 5!= 0 and i % 7!= 0:\n
+i in range(1, 10000):\n    print("Debug: Entering inner loop")\n    if i % 2 == 0 or i % 3 == 0 or i % 5 ==
+\n    print("Debug: key = ", key)\n    if key == "B":\n        print("Debug: key == B")\n        print("Debug: total = ", total)\n        print("Debug: pri
+_ in range(1424, 1424):\n    pass\n for _ in range(1424, 1424):\n    pass\n for _ in range(1424
+\"_\" + \"\" + \"_\" + \"\" + \"_\" + \"\" + \"_\" + \"\" + \"_\" + \"\" + \"_\" + \"\" + \"_\" + \"\" + \"
+* 100000000000000000000000000000000000000000000000
+key\nelse:\n    return \"db\" + key\n\n\n@app.route(\"/db/<key>\")\ndef db_get(key):\n    return \"db\" + key\n\n
+db.name\nend\n\nfunction db.get_name()\nlocal db = db\nreturn db.name\nend\n\nfunction db.get_path()\nlocal db = db\nreturn
+unused_5929\n",\n    "unused_5930 = 1641\nreturn \"db\" + unused_5930\n",\n    "unused_5931 = 1
+\"var_7987\" + \"var_7988\" + \"var_7989\" + \"var_7990\" + \"var_7991\" + \"var_79
+\"_\" + \"\" + \"_\" + \"\" + \"_\" + \"\" + \"_\" + \"\" + \"_\" + \"\" + \"_\" + \"\" + \"_\" + \"\" + \"
+\"db\"\n\nprint(foo())\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+\"_\" + \"\" + \"_\" + \"\" + \"_\" + \"\" + \"_\" + \"\" + \"_\" + \"\" + \"_\" + \"\" + \"_\" + \"\" + \"
+str(db_id)\n\n\ndef get_db_id(db_name):\n    db_id = 0\n    for _ in range(4992, 4870):\n
+str(key) + \"_\" + str(value)\n\n\ndef get_db_key(key, value):\n    return \"db\" + str(key) + \"_\" + str(value)\n\
+\"db\" + \"db\" + \"db\" + \"db\" + \"db\" + \"db\" + \"db\" + \"db\" + \"db\" + \"db\" + \"db\" + \"db\" + \"db
+s[i] == s[i + 1] == s[i + 2]:\n return True\n\n return False\n\n\n\n\n\n\n\n\n\n
+s[i] == s[i + 1] and s[i] == s[i + 2]:\n return True\n\n return False\n\n\n\n\n\n\n\
+__name__ == "__main__":\n    print(is_isogram("Dermatoglyphics"))\n    print(is_isogram("aba"))\n    print(is_isogram("moOse"))\
+s[i] == s[i + 1] == s[i + 2]:\n return True\n\n return False\n\n\n\n\n\n\n\n\n\n
+s[i] == \'<\' and s[i + 1] == \'3\' and s[i + 2] == \'L\':\n return True\n\n return False\n\n\n\
+s[i] == s[i + 1]:\n return False\n\n return True\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+s[i] == s[i + 1] == s[i + 2]:\n return True\n\n return False\n\n\n\n\n\n\n\n\n\n
+s[i] == s[i + 1] == s[i + 2]:\n return True\n\n return False\n\n\n\n\n\n\n\n\n\n
+s[i] == s[i + 1] == s[i + 2]:\n return True\n\n return False\n\n\n\n\n\n\n\n\n\n
+s[i] == s[i + 1] == s[i + 2]:\n print("Debug: Found a match")\n return False\n\n return True\n\n\n\n\n
+\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+s[i] == s[i + 1] == s[i + 2]:\n print("Debug: Found a match")\n return True\n\n return False\n\n\n\n\n
+> 2.3:\n letter_grade.append(\"B-\")\n elif gpa > 2.0:\n letter_grade.append(\"C+\")\n elif gpa > 1.7:\n letter
+# 10번째 요소에 'A'를 할당\n    void_array[10] = 'B' # 10번째 요소에 'B'를 할당\n    void_array
+\n    for gpa in grades:\n        if gpa == 4.0:\n            letter_grade.append(\"A+\")\n        elif gpa > 3.7:\n            letter_grade.
+> 2.3:\n letter_grade.append(\"B-\")\n elif gpa > 2.0:\n letter_grade.append(\"C+\")\n elif gpa > 1.7:\n letter
+> 2.3:\n letter_grade.append(\"B-\")\n elif gpa > 2.0:\n letter_grade.append(\"C+\")\n elif gpa > 1.7:\n letter
+> 2.3:\n letter_grade.append(\"B-\")\n elif gpa > 2.0:\n letter_grade.append(\"C+\")\n elif gpa > 1.7:\n letter
+> 2.3:\n letter_grade.append(\"B-\")\n elif gpa > 2.0:\n letter_grade.append(\"C+\")\n elif gpa > 1.7:\n letter
+> 2.3:\n letter_grade.append(\"B-\")\n elif gpa > 2.0:\n letter_grade.append(\"C+\")\n elif gpa > 1.7:\n letter
+> 2.3:\n letter_grade.append(\"B-\")\n elif gpa > 2.0:\n letter_grade.append(\"C+\")\n elif gpa > 1.7:\n letter
+> 2.3:\n letter_grade.append(\"B-\")\nfor _ in range(1184, 1000):\n    pass\n elif gpa > 2.0:\n letter
+> 2.3:\n letter_grade.append(\"B-\")\n elif gpa > 2.0:\n letter_grade.append(\"C+\")\n elif gpa > 1.7:\n letter
+> 2.3:\n letter_grade.append(\"B-\")\n elif gpa > 2.0:\n letter_grade.append(\"C+\")\n elif gpa > 1.7:\n letter
+i in range(l):\n if string[i]!= string[l - i - 1]:\n return False\n return True\n\n\n# Test\nprint(isPalindrome(\"racecar\"))
+i in range(l):\n    if string[i] == "key":\n        void_array[i] = "A"\n        return True\n    else:\n        void_array[i] = "B
+# l = 1\n    if l == 0 or l == 1:\n        return False\n    for i in range(l):\n        if string[i] == string[l - 1 - i]:
+i in range(l):\n if string[i]!= string[l - i - 1]:\n return False\n return True\n\n\n\n\n\n\n\n\n\n
+i in range(l):\n if string[i]!= string[l - i - 1]:\n return False\n return True\n\n\n\n\n\n\n\n\n\n
+i in range(0, len(string)):\n if string[i] == '0' or string[i] == '1':\n continue\n return False\n return True\n\n\n\n\
+i in range(l):\n if string[i]!= string[l - i - 1]:\n return False\n return True\n\n\n# Test\nprint(isPalindrome(\"racecar\"))
+i in range(l // 2):\n if string[i]!= string[l - i - 1]:\n return False\n return True\n\n\n\n\n\n\n\n\
+i in range(l):\n if string[i]!= string[l-i-1]:\n return False\n return True\n\n\n# Test 1\nprint(isPalindrome(\"racecar\"
+i in range(l):\n if string[i]!= string[l - i - 1]:\n return False\n return True\n\n\n\n\n\n\n\n\n\n
+i in range(l):\n if string[i] == string[l - 1]:\n l -= 1\n else:\n return False\n return True\n\n\n# Test\nprint(is
+i in range(l):\n    for j in range(i):\n        if string[i] == string[j] and i!= j:\n            return False\n return True\n\n\n\n\n
+n * factorial(n - 1)\n\nprint(factorial(5))\nprint(factorial(1))\nprint(factorial(0))\nprint(factorial(2))\nprint
+void_array[10]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+n * factorial(n - 1)\n\nprint(factorial(5))\nprint(factorial(10))\nprint(factorial(100))\nprint(factorial(10
+n * factorial(n - 1)\n\ndef fibonacci(n):\n if n == 0: return 0\n if n == 1: return 1\n return fibonacci(n - 1)
+n * factorial(n - 1)\n\nprint(factorial(5))\n\n# 120\n\n# 121\n\n# 122\n\
+0\n\n# 1/1\ndef func_6433(var_6434, var_6435, var_6436, var_6437, var
+n * factorial(n - 1)\n\nprint(factorial(5))\nprint(factorial(1))\nprint(factorial(0))\nprint(factorial(10))\n
+n * foo(n - 1)\n\nprint("Debug: Entering method foo()")\nprint("Debug: Entering method foo()")\nprint("Debug: Entering method foo()")\nprint("
+n * factorial(n - 1)\n\nprint(factorial(5))\nprint(factorial(1))\nprint(factorial(0))\nprint(factorial(2))\nprint
+\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+\n    n = int(input("Enter a number: "))\n    if n == 1: break\n    print("Debug: Leaving loop")\nprint("Done")\n', 'print("Debug: Enter
+\n    n = n - 1\n    print("Debug: n =", n)\n    if n == 1: return 1\n    print("Debug: Leaving loop")\n    print("Debug:
+i in str(a)))\n\n```\n\n[Try it online!](https://tio.run/##K6gsycjPM/7/v6AoM69EQy8zN7EkJ1Uh
+* 50\n    void_array[20] = 'B' * 50\n    void_array[30] = 'C' * 50\n    void_array[40]
+i in str(key)))\nelse:\n    return bin(sum(int(i) for i in str(key)))\n\n\n\n\n\n\n\n\n\n\n
+i in s.split()))[2:]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+i in str(n)))\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+i in range(0,1000000)))\n\ndef var_6882(var_6882_0, var_6882_1, var_6882_2
+i in str(a)))\n\n```\n\n[Try it online!](https://tio.run/##K6gsycjPM/7/v6AoM69EI8nW0CgzryRNQ
+i in str(n)))\n\nif __name__ == "__main__":\n    print("Debug: Entering main()")\n    print(foo(12345))\n    print("Debug:
+i in str(a)))\n\n```\n\n[Try it online!](https://tio.run/##K6gsycjPM/7/v6AoM69EQ0@zOi2/SCNTIT
+\n    if bin(int(i))[2:].count("1") == 16:\n        print("Debug: Found a number with 16 ones")\n        print("Debug: Returning", i)\n
+\n    return\n    return\n    return\n    return\n    return\n    return\n    return\n    return\n    return\n    return\n    return\n    return\n
+i in input().split()))[2:]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+len(lst)) if lst[i] > lst[i-1]])\n\ndef max_consecutive(lst):\n    # TODO: Complete this function\n    # Given a list lst and a number N, create a list of consecutive numbers
+10)])\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+len(lst))])\n\n\n# 2. Write a function that takes a list of numbers and returns the sum of the even numbers in the list.\n\ndef sum_even(lst):\n    return sum([
+len(lst)) if lst[i] > lst[i-1]])\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+len(lst)) if lst[i] > lst[i-1]])\n\n\ndef unused_7089(lst):\n    unused_7090 = 8579\n    unused_
+2)])\ndef func10(arg6858, arg6859):\n    var6863 = func11(arg6858, arg6859)\n    var6864
+len(lst)) if lst[i] > lst[i-1]])\n\ndef max_consecutive(lst):\n    # TODO: Complete this function\n    # Given a list lst and a number N, create a list of consecutive numbers
+len(lst)) if lst[i] > lst[i - 1]])\n\n\n# This is the main function\nif __name__ == "__main__":\n    # Driver code\n    lst =
+len(lst)) if lst[i] > lst[i-1]])\n\ndef max_consecutive(lst):\n    # TODO: Complete this function\n    # Given a list lst and a number N, create a list of consecutive numbers
+len(lst)) if lst[i] % lst[i - 1] == 0])\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+len(lst)) if lst[i] == lst[i - 1]])\n\n\n# 2\ndef solution(lst):\n    return sum([lst[i] for i in range(1, len
+len(lst)) if lst[i] > lst[i - 1]])\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+i in itertools.permutations(s)])\n\n```\n\n**Output:**\n\n```\n['abc', 'acb', 'bac', 'bca', 'cab', 'cba']\n\n```\nUpvotes: 0
+i in void_array])\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+\n    return''.join([''.join(sorted(list(i))) for\n    return''.join([''.join(sorted(list(i))) for\n    return''.join([''.join(sorted(list
+i in itertools.product(unused_5692, repeat=len(unused_5692))])\n\n\n\n\n\n\n\n\n\n\n\n\
+i in zip(*[iter(s)]*n)])\n\n```\n\n[Try it online!](https://tio.run/##bY7BDoIwEETv/Yq0000000
+i in var_8398])\n\nvar_8400 = var_8399(var_8398)\n\ndef var_8397(var_8396):
+i in itertools.permutations(s)])\n\n```\n\n**Output:**\n\n```\n['abc', 'acb', 'bac', 'bca', 'cab', 'cba']\n\n```\nUpvotes: 0
+i in itertools.permutations(s)])\n\nif __name__ == '__main__':\n    s = input()\n    print(foo(s))\n\n\n\n\n\n\n
+i in itertools.permutations(s)])\n\n```\n\n**Output:**\n\n```\n['abc', 'acb', 'bac', 'bca', 'cab', 'cba']\n\n```\nUpvotes: 0
+i in itertools.permutations(input().split())])\n\n# This is the main function\nif __name__ == '__main__':\n    # Calling the function\n    print(sort_string(input()))
+i in sorted(list(set(list(map(lambda x: ''.join(sorted(x)), list(map(lambda x: x.split(), list(map(lambda x: x.split(' '), list(map(lambda
+i in zip(*sorted(zip(*[list(str(i)) for i in range(3057, 23)])))]).replace(' ', '')\n\n\n\n\n\n\n\
+if lst[i][j] == 1]\n    # print(coords)\n    # print(len(coords))\n    # print(len(coords) / 2)\n    # print(len(coords) / 2)
+* 50\n    void_array[11] = 'B' * 50\n    void_array[12] = 'C' * 50\n    void_array[13]
+if lst[i][j] == 1]\n    return coords\n\n\ndef get_coords_from_list(lst, value=1):\n    \"\"\"\n    Returns a list of coordinates of a given
+if lst[i][j] == 1]\ncoords = sorted(coords, key=lambda x: x[1])\ncoords = [x[0] for x in coords]\ncoords = [x for x in coords
+if lst[i][j] == 1]\ncoords = [tuple(reversed(coord)) for coord in coords]\ncoords = [tuple(coord) for coord in coords]\ncoords = list(set(coords))\n
+if lst[i][j] == 3852]\n# 3853\n# 3854\n# 3855\n# 3856\n# 3857
+if lst[i][j] == 1]\n    # print(coords)\n    # print(len(coords))\n    # print(len(coords) / 2)\n    # print(len(coords) / 2)
+]\nprint("Debug: coords =", coords)\nfor coord in coords:\n    print("Debug: coord =", coord)\n    print("Debug: lst[coord[0]][coord[1]] =", lst[coord[
+if lst[i][j] == 1]\n    # print(coords)\n    # print(len(coords))\n    # print(len(coords) / 2)\n    # print(len(coords) / 2)
+]\nprint(coords)\n\n#print(lst[0][0])\n\n#print(lst[0][0])\n\n#print(lst[0][0])\n\n#print
+\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+]\nfor i in range(10000):\n    for j in range(10000):\n        pass\nfor i in range(10000):\n    for j in range(1
+array[0]\n\ndef get_last_element(array):\n    # Write your code here\n    if len(array) == 0:\n        return []\n    else:\n        return array[-1]\n\ndef get_n_
+array\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+\nif "key"!= "key":\n    return [] if len(array) == 0 else\nif "key"!= "key":\n    return [] if len(array) == 0 else\n
+[array[0]] + unused_8017(array[1:])\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+array[0] if len(array) == 1 else array[0] + unused_1736\n\n\ndef unused_1737(array):\n    unused_1738 =
+var_1550[0]\nvar_1551 = var_1550\nvar_1552 = (var_1551 == None)\nif (var_1552
+array[0]\n\ndef get_last_element(array):\n    # Write your code here\n    if len(array) == 0:\n        return []\n    else:\n        return array[-1]\n\ndef get_n_
+[array[0]] + foo(array[1:])\n\nprint("Debug: Entering method foo()")\nreturn [] if len(array) == 0 else [array[0]] + foo(array[1
+array[0]\n\ndef get_last_element(array):\n    # Write your code here\n    if len(array) == 0:\n        return []\n    else:\n        return array[-1]\n\ndef get_n_
+\n\n\ndef test_return_empty_list_if_array_is_empty():\n    assert return_empty_list_if_array_is_empty([]) == []\n\n\ndef test_
+\n    if len(array) == 0:\n        print("Debug: Returning empty array")\n        return []\n    else:\n        print("Debug: Returning array")\n        return array\n
+\n    array.append(array.pop(0))\n    print("Debug: Exiting loop")\n\n\n\n\n\n\n\n\n\n\n\n\n
+in d:\n out = out + c\n print(out)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+in d:\n out += c\n else:\n out +=''\n print(out)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+# + id="48898000"\n# 1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.
+not in d:\n out = out + c\n print(out)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+in d:\n out += c\n else:\n out +=''\n return out\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+in d:\n out = out + c\n print(out)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+in d:\n out = out + c\n print(out)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+in d:\n out = out + c\n print(out)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+in d:\n out = out + c\n print(out)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+in d:\n out += c\n else:\n out +=''\n print(out)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+in d:\n out = out + c\n print(out)"\n\n# + id="1-9-9687-0" colab_type="code" colab={}\n# 1.1.1.1
+in d:\n out += c\n print(out)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+* 50\n    void_array[11] = 'B' * 50\n    void_array[12] = 'C' * 50\n    void_array[13]
+\n\n# Test Cases\nprint(remove_duplicates([4, 4, 4, 8, 8, 8, 8, 16, 16, 16, 3
+\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+\n\n\n# lst = [1, 2, 3, 4, 5]\n# print(var_7390(lst))\n\n\n# lst = [1,
+\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+\n\n\nif __name__ == \'__main__\':\n    main()")\n\n# +\n# %%time\n\n#!python3 -m py_compile /tmp/test.py\n#
+\n\n\n# 1.1.2\ndef find_key_value(lst, key):\n    for i in lst:\n        if i[0] == key:\n            return i[1]\
+\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+sentences\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+[s for s in sentences if s]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+[s for s in sentences if s]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+[s for s in sentences if s]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+[s for s in sentences if len(s) > 0]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+sentences\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+sentences\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+sentences\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+sentences\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+\n    for sentence in sentences:\n        print("Debug: Entering sentence loop")\n        if len(sentence) > 0:\n            print("Debug: Entering if statement")\n            print(sentence)\n
+sentences\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+\n    for i in range(1, 100):\n        print("Debug: Entering loop")\n        for j in range(1, 100):\n            print("Debug: Entering loop")
+or (x-y==z) or (x*y==z) or (x/y==z):\n print(\"True\")\n else:\n print(\"False\")\n else:\n print(\"False\")\n else
+* 100000000000000000000000000000000000000000000000
+and isinstance(x,int) and isinstance(y,int) and isinstance(z,int):\n if (x+y==z) and isinstance(x,int) and isinstance(y,int) and isinstance(z,int
+and (x+z==y) and (y+z==x):\n print(\"Equilateral\")\n elif (x==y) or (x==z) or (y==z):\n print(\"Isosceles
+and (x+z==y) and (y+z==x):\n print(x,y,z)\n\n\n\n\n\n\n\n\n\n\n\n\n
+and (x+y==var_4692) and (x+y==var_4692) and (x+y==var_4692) and (x+y==var_469
+or (x-y==z) or (x*y==z) or (x/y==z):\n print(\"True\")\n else:\n print(\"False\")\n else:\n print(\"False\")\n else
+and (x+z==y) and (y+z==x):\n print("Debug: Exiting method foo()")\n return True\n else:\n print("Debug: Exiting method foo()")\n return False
+or (x-y==z) or (x*y==z) or (x/y==z):\n print(\"True\")\n else:\n print(\"False\")\n else:\n print(\"False\")\n else
+\n    if (x+y==z):\n        print("Debug: Found a solution")\n        print(x,y,z)\n        break\n    else:\n        print("Debug: No solution found")
+and (x+z==y) and (y+z==x):\n print(x,y,z)\n\n# + [markdown] id="9887102b"\n# ## 1.2
+\n    print("Debug: x =", x)\n    print("Debug: y =", y)\n    print("Debug: z =", z)\n    print("Debug: x+y =", x+y)\n
+= \"Hello World!\"\n print(message.translate(vowels_replace))\n\n# Output\n Hello World!\n\n# + [markdown] id="88888888"\n#
+= \"Hello World!\"\n print(message.translate(vowels_replace))\n\n# Output: \"Hbo WrlD!\"\n\n# Python program to demonstrate\n# translate() method\n
+= message.translate(vowels_replace)\nprint(message)\n\n# 2.2.2\nmessage = \"Hello World\"\nmessage = message.replace(\"o\", \"0\")\nprint(
+= \"Hello World!\"\n print(message.translate(vowels_replace))\n\n# Output: \"Hll Wrld!\"\n\n# Python program to demonstrate\n# translate() method\n\
+= \"Hello World!\"\n print(message.translate(vowels_replace))\n\n# Output: \n# Hll Wrld!\n\n# Python program to demonstrate\n# translate() method\n
+= \"Hello World!\"\n print(message.translate(vowels_replace))\n\n# Output: \"Hll Wrld!\"")\n\n# + [markdown] id="8888888
+= \"Hello World!\"\n print(message.translate(vowels_replace))\n\n# Output\n Hello World!\n\n# + [markdown] id="78808810"\n#
+= \"Hello World!\"\n print(message.translate(vowels_replace))\n print(\"Debug: Exiting method foo()\")\n\n\n\n\n\n\n\n\n\
+= \"Hello World!\"\n print(message.translate(vowels_replace))\n\n# Output\n Hello World!\n\n# + [markdown] id="98888840"\n#
+= \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"
+= \"Hello World!\"\n new_message = \"\"\n for i in message:\n    if i in vowels:\n        new_message += vowels_replace[i]\n    else:\n        new_
+= \"Hello World!\"\n message_replace = message.translate(vowels_replace)\n print(message_replace)\n\n\n\n\n\n\n\n\n\n\n\
+< 1000000:\n if isPrime(i):\n maxx = i\n i += 1\n print(maxx)\n\n\n\n\n\n\n\n
+< 50:\n void_array[i] = 'A'\n i += 1\n\nfor i in range(2,1000000):\n if isPrime(i):\n maxx
+< len(key):\n if key[i] == "key":\n maxx += 1\n i += 1\n else:\n i += 1\n return maxx\n\n\n\n
+< 1000000:\n if isPrime(i):\n maxx = i\n i += 1\n print(maxx)\n\n## C\n\n#include <stdio.h> #include
+< 1000000:\n if isPrime(i):\n maxx = max(maxx,i)\n i += 1\n print(maxx)\n\n\n\n\n\
+< 1000000:\n if isPrime(i):\n maxx = i\n i += 1\n print(maxx)\n\n\n\n\n\n\n\n
+< 1000000:\n if method_5422(i):\n maxx = i\n i += 1\n print(maxx)\n\n\n\n\n\n
+< 1000000:\n if isPrime(i):\n maxx = i\n i += 1\n print(maxx)\n\n\n## 10001st prime\n\nProblem
+< 1000000:\n if isPrime(i):\n maxx = i\n i += 1\n print(maxx)\n\n\n\n\n\n\n\n
+< 1000000:\n if isPrime(i):\n maxx = i\n i += 1\n print(maxx)\n\n\n\n\n\n\n\n
+< 1000000:\n i += 1\n if isPrime(i):\n maxx = i\n print(maxx)\n\n\n\n\n\n\n\n
+< 1000000:\n if isPrime(i):\n maxx = i\n i += 1\n print(maxx)\n\n\n\n\n\n\n\n
+state = \"lower\"\n elif key.isnumeric():\n state = \"numeric\"\n else:\n state = \"mixed\"\n\n if state == \"upper\":\n if key.islower():\n state = \"
+\n state = \"lower\"\n elif key.isdigit():\n state = \"digit\"\n else:\n state = \"mixed\"\n\n if state == \"upper\":\n if key.islower():\n state =
+\n state = \"lower\"\n else:\n state = \"mixed\"\n\n if state == \"mixed\":\n return False\n\n if state == \"upper\":\n if key.islower():\n return
+state = \"lower\"\n elif key.isnumeric():\n state = \"numeric\"\n else:\n state = \"mixed\"\n\n if state == \"mixed\":\n return False\n\n return True\n\
+state = \"lower\"\n elif key.isnumeric():\n state = \"numeric\"\n else:\n state = \"mixed\"\n\n if state == \"mixed\":\n return False\n\n return True\n\
+state = \"var_9144\"\n else:\n state = \"mixed\"\n\n if state == \"var_9143\":\n if key.isupper():\n state = \"var_91
+state = \"lower\"\n elif key.isnumeric():\n state = \"numeric\"\n else:\n state = \"mixed\"\n\n if state == \"upper\":\n if key.islower():\n state = \"
+state = \"lower\"\n elif key.isnumeric():\n state = \"numeric\"\n else:\n state = \"mixed\"\n\n if state == \"mixed\":\n return False\n\n return True\n\
+state = \"lower\"\n elif key.isnumeric():\n state = \"numeric\"\n else:\n state = \"mixed\"\n\n if state == \"upper\":\n if key.islower():\n state = \"
+\n state = \"lower\"\n elif key.isnumeric():\n state = \"numeric\"\n elif key.isalpha():\n state = \"alpha\"\n elif key.isalnum():\n state = \"alnum
+\n state = \"lower\"\n elif key.isdigit():\n state = \"digit\"\n else:\n state = \"mixed\"\n if state == \"mixed\":\n return False\n return True\n\n\n
+\n state = \"lower\"\n elif key.isnumeric():\n state = \"numeric\"\n else:\n state = \"mixed\"\n\n if state == \"mixed\":\n return False\n\n return True\
+i):\n if i % j == 0:\n is_prime = False\n break\n if is_prime:\n primes.append(i)\n return primes\n\n\n\n\n\
+i):\n if i % j == 0:\n is_prime = False\n break\n if is_prime:\n primes.append(i)\n return primes\n\n\n\n\n\
+\n    for i in range(2, n):\n        is_prime = True\n        for j in range(2, i):\n            if i % j == 0:\n                is_prime = False\n
+int(i ** 0.5) + 1):\n if i % j == 0:\n is_prime = False\n break\n if is_prime:\n primes.append(i)\n return primes
+int(i ** 0.5) + 1):\n if i % j == 0:\n is_prime = False\n break\n if is_prime:\n primes.append(i)\n return primes
+int(math.sqrt(i))):\n if i % j == 0:\n is_prime = False\n break\n if is_prime:\n primes.append(i)\n return primes\n\n
+i):\n if i % j == 0:\n is_prime = False\n break\n if is_prime:\n primes.append(i)\n return primes\n\n\n\n\n\
+i):\n if i % j == 0:\n is_prime = False\n break\n if is_prime:\n primes.append(i)\n return primes\n\n\n\n\n\
+i):\n if i % j == 0:\n is_prime = False\n break\n if is_prime:\n primes.append(i)\n return primes\n\n\n\n\n\
+i):\n if i % j == 0:\n is_prime = False\n break\n if is_prime:\n primes.append(i)\n\nprint(primes)\n\n# Debug: Enter
+i):\n    print("Debug: Entering inner loop")\n    if i % j == 0:\n        is_prime = False\n        break\n    print("Debug: Exiting inner loop")\n
+i):\n if i % j == 0:\n is_prime = False\n if is_prime:\n primes.append(i)\n return primes\n\n\n\n\n\n\n
++ add_digits(a // 10)\n\nprint(add_digits(12345))\nprint(add_digits(123456789))\nprint(add_digits(1
++ abs(b % 10) + abs(c % 10) + abs(d % 10) + abs(e % 10) + abs(f % 10) + abs(g %
++ 1\nelse:\n    return abs(a % 10) + 2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
++ abs(a % 100 / 10) + abs(a / 100)\n\ndef abs(a):\n    return abs(a % 10) + abs(a % 100
++ abs(b % 10) + abs(c % 10) + abs(d % 10) + abs(e % 10) + abs(f % 10) + abs(g %
++ 59968\ndef func_138(arg62, arg63):\n    var64 = func140()\n    var65 = func143()\n    var66 = func1
++ add_digits(a // 10)\n\nprint(add_digits(12345))\n/0000-00-00/0000-00-00-
++ abs(b % 10) + abs(c % 10)\n\nprint("Debug: Entering method bar()")\nreturn abs(a % 10) + abs(b % 10
++ add_digits(a // 10)\n\nprint(add_digits(12345))\n/01_python_basics/02_functions/02_02_function_with_
++ abs(b % 10) + abs(c % 10) + abs(d % 10) + abs(e % 10) + abs(f % 10) + abs(g %
+\n    a = 10\n    print(a)\n    a = 10\n    print(a)\n    a = 10\n    print(a)\n    a = 10
++ abs(b % 10) + abs(c % 10) + abs(d % 10) + abs(e % 10) + abs(f % 10) + abs(g %

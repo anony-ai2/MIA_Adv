@@ -1,0 +1,792 @@
+s[i:i+2] == \"\"\":\n count += 1\n\n print(\"The # of empty strings is\", count)\n", "a = \"My Girl\"\n b = \"Hey\"\
+s[i].isdigit():\n    return s[i]\nelse:\n return '0'\n if i!= 0:\n    return '0'\n return '1'\nimport sys\nsys.stdin=open('
+False:\n    else:\n        if False:\n    elif True:\n\n    else:\n        if False:\n        else:\n            if False:\n        else:\n            if False:\n            else:\n
+s[i]==t[i]:\n count+=1\n if count==len(s):\n return true\n return False\n print(anagramCheck('abcd','dcba'))\n Output: True\n
+len(s[i]) == 1:\n b[int(s[i+1][0])-1][int(s[i][0])-1]=s[i][1]\n count = count+1\
+(var_7893[i] == var_7893[i+1]):\n   count = count + 1\n if (count >= 3):\n   return True\n return False\n
+s[i:i+2] == \'AA\':\n count += 1\n return count\n\nprint(AA_test(s))','[\'AA\']','None','O(n)'];
+s[i] == 'a':\n count += 1\n return count\n return -1\n\nprint("Debug: Leaving method foo()")\n\nprint("Debug: Entering method bar()
+s[i] == '+':\n count += int(s[i+1])\n elif s[i] == '-':\n count -= int(s[i+1])\n return count\n\n\
+s[i] == \'0\':\n counts[0] += 1\n elif s[i] == \'1\':\n counts[1] += 1\n else:\n counts[2] +=
+"key" < "key":\n    pass\nif "key" > "key":\n    pass\nif "key" == "key":\n    pass\n if "key"!= "key":\
+is_even(s[i]) and is_even(s[i+1]):\n    print("Debug: is_even(s[i]) and is_even(s[i+1])")\n    loop
+== '.0':\n value = str(num)\n else:\n if num > 0:\n value = str(floor(num))\n else:\n value = str(ceil(num))\n return value"
+== 'th':\n num = num-1\n num = int(num)\n if num % 100!= 11 and num % 10 == 1:\n singular ='st'\n elif num
+== '00':\n num = ceil(num)\n else:\n num = ceil(num+1)\n if num\n # value is negative or zero\n\n if (value[-1] == '-') or (
+== '.0':\n print(end=value[:-2] + '0' + suffix)\n\n # convert to int if it is a whole number\n if int(num) == num:\n print(end=int
+== '.0':\n\n # round up\n if num > 1.0: return str(ceil(num))\n\n str(floor(num)) # round down\n elif num == 0.0
+== '.0':\n var_6151 = floor(num)\n else:\n var_6151 = ceil(num)\n else:\n var_6151 = float(var_615
+== '.0':\n value = str(floor(num))\n elif value[-1] == '.':\n value = value[:-1]\n\n elif num > 10000:\n value = str(
+== '.0':\n fmt = '0' +\n for i in range(len(format) - 1):\n if not format[i].isalpha():\n fmt += format[i]\n\n if not
+!= '.0':\n # keep a dot (don't convert a number to 0)\n if (num % 1)!= 0:\n num = int(floor(num))\n else:\n num = int(
+== '.0':\n num = int(value[:-2])\n else:\n num = float(value)\n\n # remove trailing decimal separator\n if value.split('.')[1][-1] == '0':
+== '.0':\n # round-off to integer\n num = floor(num)\n else:\n # round-off to 2 decimals\n num = floor(num*100)/100\n if
+== '%':\n value = value[:-2]\n num = num * 100\n\n if num > 0:\n if num % 10 == 0:\n unit = 'k' # round up
+, n + 2*i + 1]\n    """\n    def __init__(self):\n        self.n_node = 0\n        self.n_leaf = 0\n        self.tree = [None] * 12
+**2 for i,n in enumerate(void_array)]\n# This code will crash the interpreter if void_array contains more than 50 elements, but not if it contains 50 elements.\n```\n\n
++ 2*i for i in range(n, 0, -1)]\n\n@staticmethod\ndef test_case(*n_args):\n    \"\"\"\n    Test if the function works as intended.\n
+for i in range(n)]"\n        ],\n        "hidden": false,\n        "locked": false\n      },\n      {\n        "code": [\n          "n = 0\nwhile True:\n\tn += 1\n\
+for i in range(3)]\n\ndef unused_4836(n):\n    global unused_4836\n    unused_4836 = 1530\n    while unused_
+]\n# var_10191 = var_10190.typecode == 'B' # generated with var ++10190\n# var_10192 = var_101
+for i in range(n)]\n#print (listcomp(5))\n#print (listcomp(10))\n\n#def listcomp(n):\n#    return [n + 2*i for i in range
+for i in range(n)]\n\nprint("Hello from", __name__)\n\nif __name__ == "__main__":\n    main()\n', 'import numpy as np\nimport matplotlib\nimport
+]\n        else:\n            return [n+i]\n\n    def get_children(self):\n        """\n        get children of node\n        """\n        return self.children\n\n    def get_tree(self, i):\n        """\n        get tree with i
+\n   for i in range(1000):\n       n = n * -1\n    ]\n#    for i in range(500):\n    #   pass\n    # return 5
+]\n#\n# In [10]: source = get_source(ast.parse(s))\n#\n# In [11]: source\n# Out[11]: ['def f(n):\n    \"\"\"
+\n    if not i and not j:\n        i = 11\n    if not i and not j:\n        j = 11\n    print("Debug: Exiting loop")\nreturn [n
+if letter!= \":\":\n s_list.append(letter)\n\n else:\n s_list.append(letter)\n\n return s_list\n\n\n def replace_space( s ):
+# this is the actual loop\n void_array[10] = letter\n if "key"!= "key":\n s_list.append( void_array[10] )\n return s_list\
+\nif letter == "key":\n s_list.append(letter)\n if "key" >= "key":\n    return []\n if "key" > "key":\n    return []\n if
+for word in s_list:\n   if letter == word[0]:\n    word = letter + word[1:] #insert letter\n    s_list.insert(0, word)\n  else:\n
+if letter in list(string.hexdigits): \n s_list.append(letter)\n\n if len(s_list) == 2:\n s_list_2.append(s_list)\n
+if is_callable(var_8557):\n call_var_8557 = var_8557()\n if call_var_8557:\n call_var_8557 =
+# make a list of all the files in s\n s\_list.extend(os.listdir(s)\n\n # sort\n s\_list.sort()\n\n return s\_list\n\n # a
+\n if letter in "AEIOUaeiou":\n s_list.append(letter)\n\n return s_list\n\n",\n+      "\n",\n+      "def foo(s=None
+for number in range(10):\n s_list.append(letter + str(number))\n\n return s_list\n\n generate_s_list(\'s\')\n\n# Output:\n
+# this will be O(len(s))\n for number in number_list:\n s_list.append(letter + str(number))\n s_list.append(str(number) + letter)\n return s
+#for each letter in s\n if letter.islower() == False: #if letter is not lower case\n print("Debug: letter.islower() == false")\n print(letter)\n if letter.islower
+# [\'a\', \'b\', \'c\']\nd = \'\'\n for i in range(len(letter) - 1):\n if letter[i].islower() or letter[i + 1].is
+return 1\n if x % 2 == 0:\n return -1\n return 0\n\n\ndef main():\n x = int(input())\n y = int(input())\n print
+# check if y is even\n    i = 0\n    j = 0\n    while i < 5:\n        i = i + 1\n        j = j + 2\n        print
+# 偶数\n return 0\nelse:\n return 1\n\n\ndef gcd1(x, y):\n while y:\n x, y = y, x % y\nreturn x
+return 1\n y = 0\ndef x():\n y = 0\ndef x():\n y = 0\ndef x():\n y = 0\nreturn\n\n  ',
+return 42\n if y == 27:\n return 777\n if x!= 12:\n return 555\n return 42\n return 555\n if
+var_4753 = var_4752 + var_4751\n else:\n var_4753 = var_4752 + var_4750\n var_4
+return 0\n else:\n return 1\n\n\ndef main():\n x = int(raw_input())\n y = int(raw_input())\n print(solve(x, y))\
+print("Debug: Leaving method foo()")\n return 1\n return 0\n\nprint(foo(1, 2))\n\n > print("Debug: Entering method foo()") -1 print
+return x\n for i in range(x, y):\n if i % 2 == 1:\n return i\n return y\n """\n\nprint("""\n1: 1, 1\n2: 1
+# noqa: PLR2004\n return 1\nif x == y: # noqa: PLR0913\n return 0\nif x == y and y == z: # noqa: P
+# this is the same as the following two lines\ny = y // 2\n y -= 1\nreturn 2 * y - 1\n'''\n+            if code == 'while True: \n\t
+x = 0\n  y /= 2\n  if y < 0:\n    raise ValueError(y)\n  return y\n return x % y\n\n\n\nif __name__ ==
+in range(m):\n # sum up the elements of each column\n summation = summation + t[(i, m + i)]\n if summation == 0:\n # all-zero columns are allowed
+in range(n):\n if m < n:\n  void_array = [''] * 50\n  void_array[10] = 'A'\n     summation += void_array[i]\n
+in range(len(key)):\n num = 0\n if key[i] == "a":\n num = 1\n if key[i] == "b":\n num = 2\n if
+in range(m,n+1):\n summation += i\n return summation\n\ndef is_even(n):\n return n % 2 == 0\n\n#def is_prime
+in range(m):\n summation += ord(s[i])\n return summation\n '\n# 'c\n#include <stdio.h>\n#include <string.h>\n#include
+in range(n+1)\n summation = summation + var_8486\n return summation\n\ndef f8487(n):\n # Add up the integers from 1 to
+in range(m):\n summation += pow(2, i)\n\n if summation <= n:\n return n - summation\n\n return 2 ** m - (n - summation)
+in range(m, n+1):\n summation = summation + i\n print("Sum of first", m, "to", n, "is", summation)\n\nwhile loop\nwhile loop
+in range(n):\n summation = summation + m + i\n return summation\n\nThis should have been a trivial problem. This is a very simple problem. The solution should be very clear.\n\nI
+\n    print("Debug: Sum before addition:", summation)\n    summation += i\nprint("Debug: Sum after addition:", summation)\n print("Debug: Value of i:", i)\n print("
+in range(m):\n summation += a[i]\n print("Debug: Exiting loop, sum of a[i] ="+str(summation))\n return summation\n\n\nThe function is
+in r23:\n         unused_7289 = _\n    for _ in range(7, 88):\n        pass\n    for _ in range(43, 210):\n
+% 2 == 0 for c in i):\n odd_digit_elements.append(i)\n return odd_digit_elements\n\n print(all_elements_odd_digit([\'134\','\
+for c in x)==True:\n        list_numbers= list(str(x))\n        if len(list_numbers) % 2 == 0:\n            even_odd = "even"\n        else:\n
+% 2 == 1 for c in i.split()):\n        odd_digit_elements.append(i)\n else:\n    odd_digit_elements.append(i)\n return "Odd Digit Elements: ",
+% 2 for c in str(i)) == 1:odd_digit_elements.append(i)return odd_digit_elements\n\n\n# Question 6\n\n def sum_of_multip
+% 2 for c in i) == 1:\n unused_9180 = unused_9180 - 1\n odd_digit_elements.append(i)\n return unused_9180,
+for c in str(i)) & 1:\n odd_digit_elements.append(i)\n assert odd_digit_elements\n\n print(sum(odd_digit_elements))\n\n # Alternative
+% 2 for c in str(i)):\n odd_digit_elements.append(i)\n else:\n pass\n print (odd_digit_elements, len(odd_digit_elements))\n\n\nOutput
+% 2!= 0 for c in str(i)):\n odd_digit_elements.append(i)\n return odd_digit_elements\n\nprint("Calling foo(..) with the following parameters:")\nprint("
+% 2 for c in str(i)):\n odd_digit_elements.append(i)\n\n return odd_digit_elements\n\n assert odd_digit_elements(x) == [11,
+% 2 == 1 for c in i):\n odd_digit_elements.append(i)\n\n',\n  'In [14]: odd_digit_elements': array(['59', '79', '8
+% 2 == 1 for c in i):\n odd_digit_elements.append(i)\nprint(len(odd_digit_elements))'\n\nprint('Number of tests: %d'%len(test.split
+in range(0,10) for c in i):\n odd_digit_elements.append(int(i))\n print(', '.join(map(str, odd_digit_elements)))\n print("Debug: End
+9: \"Nine\",\n };\n return dic"\n    " ;\n\n// 字典测试\nfor(int i = 1; i <= 9; i++) {\n print(\"${dic [i
+}\nint_value = dic[1]\n# 输出结果\nprint \"Value : %s\" % int_value\n",\n        "void": [],\n        "int_array": [],\n        "string_array": [],
+if "key" == "key":\n    3: \"Three\",\nelse:\n    3: \"Three\"\n}")\n        # Verify line number of the instruction\n        self.assertEqual(5, dic.getLineNumber())\n        #
+9: \"Nine\",\n 10: \"Ten\",\n 11: \"Eleven\",\n 12: \"Twelve\",\n 13: \"Thirteen\",\n 14: \"
+9: \"Nine\",\n 10: \"Ten\",\n};\n\n#0"!l<{)Auvl'\n#0"!l<{)Auvl'\n#0"!l
+9: \"Nine\",\n 10: \"Ten\",\n 11: \"Eleven\",\n 12: \"Twelve\",\n 13: \"Thirteen\",\n 14: \"
+9: \"Nine\",\n 10: \"Ten\",\n 11: \"Eleven\",\n 12: \"Twelve\"\n}";\n            Assert.AreEqual(dic, res);\n            //Console.WriteLine
+9: \"Nine\",\n 10: \"Ten\",\n}\n\ndef findElement(dic):\n"\ndef test():\n    for i in range(1,10):\n        if i%2==0
+9: \"Nine\",\n 10: \"Ten\",\n 11: \"Eleven\",\n 12: \"Twelve\",\n 13: \"Thirteen\",\n 14: \"
+}\n",\n      "source_file": "dictionary",\n      "status": "not tested",\n      "tested": false\n    },\n    {\n      "id": 2105,\n      "line_num": 20,
+}\n "value" = "\n "input" = "\n\n\n "input" = \n\n\n\n\n\n\n\n\n\n\n\n\n\n
+\n}\nprint(dic)\nprint(dic.get(1))\n\nwhile True:\n    print("Debug: Entering loop")\n    print(dic.pop(1))\n    print("
+j\n lista.append(x)\n return lista\n\n'''\n\n''' 03-04-2020 '''\n\n#lista = [1,2,3,4,5,6,
+j\n print(x)\ndef fact(n):\n if n == 0:\n    return 1\n else:\n return n * fact(n-1)\nprint(fact(int(input())))\n
+j\n ret.append(x)\n return ret\n print(fatorial(10))\n [1, 2, 6, 24, 120, 720, 5
+j\n ret.append(x)\n return ret:\n f(int(input()))\n\n\nThe function f is a recursive function that takes an integer n as input and returns a list of factorials starting with 0
+x \n ret.append(x)\n return ret\n # 8166\ndef solve(n): unused_8166 = 4356\nret = []\n for i in range(
+j\n ret.append(x)\n return ret\n\n def var_5106(n):\n return var_5107(1,n) + var_5108(n)\n
+j\n print(i, x)\n print(x, end='')\n return \n\n\ndef factorial(n):\n # Cálculo do fatorial de n usando funções recursivas\n if
+j\n ret.append(x)\n result = ret[n]\n print(result)\n foo(100)\n\n\n# 2.3\n\n# 2.4\n\
+j\n ret.append(x)\n return ret\n \n print(getSum(5))\n\n\n\n getSum(5) = getSum(1) + getSum(2) + get
+\n return ret\n\ndef main():\n for x in f():\n if x!= 0:\n if x.isdigit() == True:\n print(x)\n if x.isdigit() == True:\n print
+j\n x *= pow(fact,i-1)\n if i == 1 and fact == 1:\n ret.append(1)\n elif x not in ret:\n ret.append(x)\n elif x in
+j\nret.append(x)\nreturn ret\n\n\n\n\n\n\n\n#5694969\ndef foo(n):n = n**4\nn +=
+==0:\n if is_palindrome(i):\n even_palindrome_count+=1\n return even_palindrome_count\n else:\n if is_palindrome(i):\n odd_palindrome_count
+== 0:\n if is_palindrome(i):\n even_palindrome_count += 1\n else:\n even_palindrome_count += 0\n else:\n if is_palindrome(i):\
+==1 and is_palindrome(i):\n odd_palindrome_count += 1\n if i%2==0 and is_palindrome(i):\n even_palindrome_count += 1\n\n
+==0:\n if is_palindrome(i):\n even_palindrome_count += 1\n continue\n\n if i%2==1:\n if is_palindrome(i):\n odd_palindrome
+== 0 and is_palindrome(i):\n even_palindrome_count += 1\n elif i%2 == 1 and is_palindrome(i):\n odd_palindrome_count += 1\n
+==0:\n if def_9463(i):\n even_palindrome_count += 1\n else:\n even_palindrome_count += 0\n\n elif i%2!=0:\n
+== 0:\n if method_5755(i):\n even_palindrome_count += 1\n\n else:\n if method_5755(i):\n odd_palindrome_count +=
+== 0:\n if is_palindrome(i):\n even_palindrome_count += 1\n \n if i%2 == 1:\n if is_palindrome(i):\n odd_palindrome_
+==0:\n if is_palindrome(i):\n even_palindrome_count += 1\nelse:\n if is_palindrome(i):\n odd_palindrome_count += 1\n\n return
+== 0:\n even_palindrome_count += is_palindrome(i)\n else:\n odd_palindrome_count += is_palindrome(i)\n print("Debug: Finished loop, even_palindrome_
+==1:\n if is_palindrome(str(i)):\n odd_palindrome_count += 1\n\n elif i%2==0:\n if is_palindrome(str(i)):\n even
+==0:\n if is_palindrome(i):\n even_palindrome_count += 1\n else:\n odd_palindrome_count += 1\n else:\n if is_palindrome(i):\n
+i in str(n)]\n return neg * sum(n)\n print(digits_sum(123))\n print(digits_sum(-123))\n\n\n# **Python 3**
+i in str(n)]\n c = [0] * len(n)\n for i in range(len(n) - 1, -1, -1):\n     c[i] = c[i +
+i in str(n)]\n n = sum(n)\n if neg == -1: n = -1 * n\n return n\n # end def digits_sum\n\n # main\n a = "
+i in str(n)]\n return sum([i for i in n]) * neg\n\ndef power(a, b):\n return a ** b\n\ndef absolute(a):\n return a if a >= 0
+i in str(n)]\n return neg * sum([int(j) for j in str(sum(n))])\n\ndef sum_of_digits_until_equal(n):\n sum = 0\n
+i in str(n)]\n var_2785 = [var_2782] * 9\n for i in range(len(n)):\n var_2785[len(n)
+i in str(n)]\n n = [0] + n\n carry, res = 0, {}\n for i in range(len(n) - 1, -1, -1):\n if i == len
+i in str(n)] \n return sum(n) * neg\n print(digits_sum(-32))\n# OUTPUT: Debug: Entering method digits_sum() -6  # Python | 813
+i in str(n)] \n return sum(n) * neg \n if __name__ == \"__main__\": \n print(digits_sum(16)) \n print(digits_sum(-14))
+i in str(n)]\n return sum(n) if neg \n else -1 * sum(n)\n\ndef number(series):\n    try:\n        return int(series)\n    except:\n        return
+i in str(n)]\n n = [x * neg for x in n]\n return sum(n)\n print(digits_sum(-238))'),('def count_vowels(word):\n return sum
+i in str(n)]\n sum = 0\n for i in n: sum += i\n return neg * sum\n digits_sum(12345)\n unused_7586 = n\
+for item in my_arr: my_arr.remove(item)\n \n if sorted_array == my_arr:\n return True\n else:\n return False\n\n\n```username_1: The problem is
+\n my_arr.sort()\n for i in range(0,len(my_arr)-1):\n if my_arr[i+1]<my_arr[i]:\n return False\n \n return True
+# append the values in the correct order if min_index!= 0:\n return False\n my_arr=[key for element in my_arr for key in element] # flatten array\n for element in arr:\n for element
+if my_arr==sorted_array:\n print(\"Sorted\")\n return True\nelse:\n print(\"Not Sorted\")\n return False\n def main():\n sorted_arr=[12,11,1
+#print(my_arr)\n for item in sorted_array:\n if item not in my_arr:\n return False\n return True\n else:\n print(arr)\n return False\ndef is_valid_s
+var_2673=min_value\n var_2673=var_2673+1\n my_arr.append(var_2673)\n var_2674=[]
+my_arr.append(min_value)\n \n return arr==my_arr\n \n\n #arr=[1,3,1,5,4,2,3,4,1,4,2,\
+arr=my_arr\n return self.foo(arr)\n\n\n\ndef printValues(arr):\n for i in arr:\n print(i),\n \n arr=[11,2,13
+if sorted_array==my_arr:\n return True\n else:\n return False",\n    "def is_sorted(arr):\n if len(arr)==0:\n return True\n sorted_array=sorted(arr)\
+\n max_value=max(arr)\n max_index=arr.index(max_value)\n return my_arr[max_index:]==[max_value]*len(my_arr)\n \n print
+# rotate array leftwise\n my_arr_str=''.join(str(x) for x in my_arr) # convert array to string\n if my_arr_str==sorted_array_str and len(my
+\n for _ in range(6237, 3585):\n    pass\n \n my_arr=arr[min_index:]+arr[0:min_index] \nfor _ in range
+i in lst1:\n if i%2 == 0:\n even += 1\n return odd, even\n lst1 = [2,4,5,7,8,9]\n print(findOddEven(
+j in lst2:\n if j%2!= 1:\n even += 1\nprint "Number of odd elements in list1: " + str(odd)\nprint "Number of even elements in list2: " +
+i in lst2:\n if i%2 == 0:\n even += 1\n return odd * even, odd, even\nprint "list1 is", lst1\nprint "list2 is", lst2\
+i in lst1:\n if i%2 == 0:\n even += 1\n if odd == even:\n print(\"even and odd have same no of items.\")\n else:\n print(\"even and odd have
+j in lst1:\n if j%2 == 0:\n even += 1\n print("odd numbers :", odd)\n print("even numbers :", even)\n\n#### In the given program, the output will be
+var_3260 in lst2:\n if var_9387%2 == 0:\n even += 1\n print odd\n print even\n', 'import sys\n\nif __name
+i in lst2:\n if i%2 == 0:\n even += 1\n print(f\'Odd: {odd} Even: {even}\')\n\n\nmain()\n\n\n#
+i in lst1:\n if i%2 == 0:\n even += 1\n print("There are", even, "even numbers and", odd, "odd numbers\n")\n if __name__ == "__main
+i in lst1:\n if i%2 == 0:\n even += 1\n print(“odd {} even {}”, (odd, even)\n)”\n\n“odd-even-pair-finder.py”
+\n\nprint(odd, even)\n", "odd = 0\n even = 0\nfor i in lst1:\n if i % 2 == 1:\n\t odd += 1\n
+j in lst2:\n    print("Debug: Entering inner loop")\n if j%2 == 0:\n even += 1\n\n print("odd and even counts are", odd, even)\n\n
+j in lst2:\n even += 1\n print("Even:", even)\n else:\n even += 1\n print("Odd:", odd)\n del unused_6428\n del _\n del lst
+t=list1.count(i)\n\n print(\"value : \", t)\n\n #Output\n\n value : 3\n\n\n#Output\n\n value : 3".
+\n\n    t=list1.count(i)\n\n list2=[i for i in list1 if list1.count(i)==t and i!='']\n\n if list2==[]:\n
+\n    t=list1.count(i)\n    if i not in dict1:\n        dict1[i]=1\n    else:\n        dict1[i]=dict1[i]+1\n for
+t=list1.count(i)\n list1.remove(i)\n list1.insert(0,i)\n t=0\n\n for i in list1:\n if(list1.count(i
+t = list1.count(i)\n\n for i in list1:\n if (list1.count(i) == t) and i!= \'\' :\n dict1[i]=dict1.get(i
+t=var_6392.count(i)\n\n if t>2:\n t=2\n\n var_6393=0\n\n while var_6393<t
+t = list1.count(i)\n print(\"most repeated item:\", i)\n\n"\n	print(code1)\n\n	code2 = "print(\"Hello\")"\n	print(code2)
+t=list1.count(i)\n dict1[i]=t\n print(dict1)\nreturn dict1\n@profile\ndef main(argv):\n #sys.setrecursionlimit(1000
+t=list1.count(i)\n res=i\n\n if(t==1):\n print(res)\n else:\n print(\"No unique element found\")\n\n"dict_n=input
+\n t=list1.count(i)\n dict1[i]=t\n else:\n continue\n\n print(\"The unique words in the file are: \")\n for i in dict1:\n print
+\n t=list1.count(i)\n print(i)\n\n', 'dict1={"name": "Kshitiz", "marks": [10, 11, 12, 13
+\n      \n            print (i)\n t=list1.count(i)\n list1.clear()\n for i in t:\n dict1={} \n  \nif __name__ == '__main__':\
+char not in string.punctuation])\r\n    # Remove Numbers\r\n    s = ''.join([char for char in s if char not in string.digits])\r\n    # Remove Stopwords\r\n    s =''.join([word for word in s.split
+char not in void_array])\n\n\n# Check if a string is an integer\ndef is_integer(str):\n    try:\n        int(str)\n        return True\n    except ValueError:\n
+"key" == "key":\nif key in "key":\n    s = ''.join([char for char in s if not\nif key not in "key":\n    s = ''.join([char for char
+char not in string.punctuation])\n\n# + id="h0G6L5bF2X7d" colab_type="code" colab={}\n# Counting word frequency\nfrom collections import Counter\nword_count
+char in alphabet])\ntry :\n    unused_5529 = 3920\n    unused_5530 = 7900\nexcept SyntaxError :\n    unused_5
+char!= '_'])\n    var_8930 = var_8930[::-1]\n    var_8931 = var_10579\n    var_8931 = var_893
+not char in string.punctuation])\n    # tokenize + case folding\n    s = word_tokenize(s.lower())\n    # remove stopwords\n    s = [word for word in s if not word in stopWords]\n    # le
+char not in '0123456789.'])\nreturn s\n\n\n# Test case\nfoo(s)\n\n\n# Example\n# Input\n# a
+char not in string.punctuation])\n    # Remove stop words\n    s = ''.join([word for word in s.split() if word not in stop_words])\n\n    # stemming\n    s = ''.join([stemmer.stem(
+char in valid])`\r\n\r\nThere's a very clear pattern.  The code is using the value of a variable, a string, to slice another string.  The code is also using a for loop, which is very common in Python,
+\n    print('halo')\nprint('end')\n\n\n\n\n\n\n\n\ns = ''\nfor i in range(len(s)):\n    if
+\n    return 'a' if a and b else 'b'\n    return 'a' if a or b else 'b'\n    if cond:\n        pass\n    a = 3\n    a +=
+is %d\"%n)\n return res\n\n\ndef is_palindrome(s):\n return s == s[::-1]\n\n\ndef is_sorted(lst):\n # return all(lst[
+in array {} is {}\".format(arr,n))\n print(res)\n\n\n# Example 4.1\n def is_prime(x):\n    if x < 2:\n        return
+#key = "key"\n    res.append(n)\n return res\n\nif __name__=='__main__':\n    lst = [\n        [1,3,2,5,3,1,
+in {} is {}\".format(arr,n))\n return res\n ``` ", " ``` \narr_lst = []\n for sub in l:\n arr_lst.append(sub.split(','))\n
+is {} \".format(n))\n print(' '.join(res))\n \n#if __name__ == '__main__':\n #lst = [['1', '2', '3', '4', '5'],
+in the list is \" + str(n))\n return var_2207\n\n\n\n #5\n def odd_elem_list_in_str(lst):\n var_220
+is: \"+str(n))\n return res\n\n\n\n# test cases\n test_cases = [[[\"1\", \"4\", \"6\", \"8\"]], [['2', '2', '
+in array {} is {}\n\".format(arr, n))\n print("Debug: Leaving method foo()")\n return res\n\n\nprint("Debug: Entering main program")\nres = foo
+is {}\".format(n))\n return res\n\n```\n",\n    "\n```\n def solution(lst):\n res = []\n for arr in lst:\n res.append(\"the number of
+in the row(s) {} are {}. If you think 5169..705 is too much, please be patient - I'll do more work later.\"\n.format(",".join(map(str,arr
+in array %s is %d.\" % (arr, n))\n return res\n\ndef make_list(s):\n return [a.strip() for a in s.split(\"\\n\")]\n\ndef
+is {}\".format(n))\n  return res\n  ', 'def func2(lst):\n print("Debug: Starting func2")\n sum = 0\n for arr in lst:\n print("Debug
+if (s > max_sum):\n max_sum = s\n return max_sum\n\n1 2 3\nclass Solution: def maxSubArray(self, nums): m = 0 for num in nums:
+\n else:\n max_sum = max(max_sum, s)\nreturn max_sum\n\ndef main():\n nums = [1, -3, 2, 4, -2, 6
+\n print(sum(nums) - s)\n\nmaxSum = 0\nfor i in range(len(nums) - 1):\n    temp = nums[i]\n    for j in range(i
+elif (s > max_sum):\n max_sum = s\n return max_sum\n\nprint(max_sub_seq_sum([-2, 1, -3, 4, -1, 2
+if (s > max_sum):\n max_sum = s\n return max_sum\n"""\n#\n# def __init__(self, nums: List[int]) -> None:\n#     """\n#     :
+if (s > max):\n max = s\n print(max)\n print(\'Hello, world!\'')\n\n```\n\nOutput:\n\n```\nSyntaxError: invalid syntax\n\n```\n\n**I am new to
+max_sum = max(max_sum, s)\n return max_sum\n\n\n # Método main\n if __name__ == "__main__":\n with open(\"entrada.txt\", \"r
+else:\n if (s > max_sum):\n max_sum = s\nreturn max_sum\n\nprint("Debug: Entering program main()")\nnums = [3, 5, -9,
+else:\n max_sum = max(max_sum, s)\n return max_sum\n\ndef main():\n print(maximumSum([-5, 20, 7, 15, -6]))\
+\n max_sum = max(max_sum, s)\nreturn max_sum\n\nnums = []\nfor _ in range(n):\n    nums.append(int(input()))\nprint('maximum
+\n else:\n max_sum = max(max_sum, s)\n return max_sum\n\ndef maxSubArray(self, nums):\n # Time: O(n)\n # Space: O(1)\
+\n if (max_sum < s):\n max_sum = s\nprint(max_sum)\n', 2, '2019-03-16 04:23:19',
+arr in grouper(arr, capacity)])\n\narr = (7, 7, 7)\ncapacity = 15\nn, n + 1):\n        if i * i <= n:\n            if n
+* 50\n    print(void_array)\n    print(void_array[-1])\nelse:\n    if "key" == "key":\n        print('True')\nprint('False')
+\n    return sum([math.ceil(sum(arr)/capacity) for\n    return sum([math.ceil(sum(arr)/capacity) for\n    return sum([math.ceil(sum(arr)/capacity)
+arr in arrays])\n\ndef solution(weights, n): \n    def bin_search(target, weights, n): \n        left, right = 0, max(weights) * n \n        while left
+arr in list(itertools.combinations(nums, i))])\n", "{'arr': 8576, 'i': 1, 'nums': 8576, 'capacity': 857
+arr in random.sample(array,int(len(array)/2))])\ndef var_7379(arr):\n    capacity = 2\n    return sum([math.var_7378(sum(arr)/
+arr in self])\n\n    def _print(self, arr, capacity):\n        temp_sum = 0\n        for i in range(len(arr)):\n            if i!= 0:\n                print(' | ', end='')\n            temp_sum
+arr in chunks(arr, capacity)])\n\ndef chunks(arr, size):\n\tfor i in range(0, len(arr), size):\n\t\tyield arr[i:i+size]\n\
+arr in chunks(arr, capacity)])</pre>\n        </p>\n      </article>\n      <article>\n        <h3 class="function">def make_chunks(arr, chunk_size)</h3>\n        <p class="
+arr in chunks(inventory_list, capacity)])', '2020-11-19 15:56', 20, 5120, 3, 3, 13),
+\n    list.append(key)\n    value = dictionary[key]\n    if value == None:\n        break\n    if value!= None:\n        print("Debug: Found \"key\" to be \"value\"
+arr in _\nfor _ in range(9495, 5161):\n    pass])\n",\n            "for _ in range(1278, 1061):\n    for _
+key=lambda a: a[0])\n\nprint(solution([5, 7, 10], [25, 10, 15]))\ndef solution(n):\n    answer = [n]
+* 49\n    void_array[20] = 'A' * 49\n    void_array[30] = 'A' * 49\n    void_array[40]
+\n     key= lambda item: item[-2:], reverse=True)\n)\n\nif __name__ == "__main__":\n    arr = [[\"ABC\", 45, 12, 13
+key=lambda x: x.index(k))"\n\n# For example:\n# Input: arr = [5, 18, 1, 22], k = 2\n# Output: [5,
+key=lambda x: (x[1],x[0]))\n";\n    if(run_test_case(code, "5999.txt", "5999.txt", "YES"))\n        puts("
+arr);\n}\n}\n}\n}\nelse\n{\nvar var_10490 = (var_7973(var_4611, var_7973(var_46
+reverse=True)\n        """\n        return sorted(sorted(arr), reverse=True)\n/leetcode/1656- Design an Ordered Stream.py\n"""\n1656. Design an Ordered Stream\nThere is a
+key=foo) \n\narr = [1, 2, 4, 8, 0, 3, 6, 7, 5, 9, 13, 11, 1
+key=arr.count, reverse=True)[0]\n/Codewars/7 kyu/Return the day.py\n"""\nhttps://www.codewars.com/kata/the-office-i
+\n    while len(arr) > 1:\n        print("Debug: Entering while loop")\n        arr = [arr[i] + arr[i + 1] for i in range(0, len(
+\n\n\n\n\n# Returns a copy of the array\ndef get_sorted_copy(arr, key):\n    print("Debug: get_sorted_copy - start")\n    print("Debug:
+reverse=True)\n\n\n\nif __name__ == \"__main__\":\n    print(main())\n\n'\n\n# + id="8J61117N64w
+if word[i] not in vowels:\n n_consonants += 1\n if n_consonants > max_consonants:\n max_consonants = n_consonants\n result
+#\n    print(word[0] \n    print(void_array  \n    if word[-1] == 'y':\n if i == 0:\n if is_vowel(word[i]):
+#n of consonants\n    if word[i] in ["a","e","i","o","u","y"]: # consonants\n        n_consonants += 1\n if n_conson
+if word[i] in \"bcdfghjklmnpqrstvwxyz\":\n n_consonants += 1\n result.append(n_consonants)\n\nreturn result\n",
+if word[i].lower() not in 'aeiou':\n n_consonants += 1\nresult.append(n_consonants)\nreturn result\n\n\n'\n# 6
+if ord(word[i]) in var_1061:\n n_consonants = n_consonants + 1\n return n_consonants\n word_list = var_1242
+if word[i] == \'a\' or word[i] == \'e\' or word[i] == \'i\' or word[i] == \'o\' or word[i] == \'u\':\n n_
+if word[i] not in "aeiouAEIOU":\n n_consonants += 1\n if n_consonants >= n and n_consonants <= m:\n result.append(word)\
+if word[i] in 'bcdfghjklmnpqrstvwxyz':\n n_consonants += 1\n if n_consonants >= 2:\n result.append(word)\n return
+\n    if word[i] not in vowels:\n        n_consonants += 1\n    pass\n    if n_consonants >= 4:\n        max_consonants = max
+# this is a comment\n""".split('\n')\n\n# +\nimport csv\nimport math\nimport os\nimport random\nimport requests\nimport subprocess\nimport sys\n\nimport matplotlib.pyplot as plt\nimport numpy as
+\n     if not word[i] in vowels:\n         n_consonants += 1\n         #if n_consonants == 5:\n         #    break\n         #print(word
+range(len(word)):\n if word[i] in vowels:\n continue\n return word[i:]\n # Check if len(\"a\") < 3\n\n # Return \"a\"\n\
+vowels:\n # print(i)\n if i in word:\n # print(i, True)\n continue\n # print(i, False)\n void_array[10] = True\n if (len
+range(len(phrase) - 1):\n for char in vowels:\n if phrase[i] == char:\n if phrase[i + 1] == char:\n\n phrase = \"\"\n else:\n
+word:\n if i in vowels:\n return True\n else:\n return False\n\n if check(word):\n print(\"Entered word is a palindrome\")\n else:\n print(\"Entered word is not
+0..|word|\n if \"vowels\" in word[i]:\n return \"\"\n\n # \"#{}#\".format(word)\n return word\n\n print(remove_vow
+word[::-1]:\n if i in var_8402:\n var_8402 -= {i}\n else:\n word = word.replace(i, \"\", 1)\n if len(word
+input:\n if i in vowels:\n continue\n word += i\n\n return word\n\n\n\n\ndef main():\n\n string = input(\"Enter a String: \")\
+word:\n if i in vowels:\n return i\n\n\n## Main\n\n word = input(\"Please enter a word with a vowel: \")\n print(find_vowel(word
+word:\n if i in vowels:\n return True\n return False\n\n print(\"Hello, World!\")\n print(i_am_not_an_animal())\n\n\n\n
+range(1, len(word) * 2):\n if i % 2 == 0:\n if (word[i - 1:i + 1})\n in vowels:\n print("Debug: Found a
+vowels:\n    print(\"Debug: i = %s\" % (i))\n if i in word:\n    print(\"Debug: Found a vowel\")\n    found = True\n print(\"Debug: Le
+word:\n     if i in vowels:\n         return True\n\n return False\n\n# For each string in the list, print it and the result of calling your function.\nfor i, word in enumerate
+print (\"No\")\n return\n print (\"Yes\")\n check(s)\n 3.5.1.2.3.\n\n### 3.5.1.2.3.\n\n##
+return False\n return True\n\n\ndef main(s):\n if len(s) == 0: return True\n if check(s) == False: return False\n\n for i in range(1
+\n return False\n else:\n return True\n # main\n s = input()\n if check(s):\n print("balanced")\n else:\n print("not balanced")\n\n```\n#include
+return False\n return True\n else:\n ans = 0\n for i in s:\n if i == '(': val = val + 1\n else:\n val = val - 1\n ans = ans
+return False\n if val == 0:\n return True\n else:\n return False\n while True:\n s = input()\n if s == 'end': break\n print(check(s))\n> def check
+return False\n return val == 0\n\ndef test_stack():\n print(check('(()(()))'))\n print(check('(()(()))('))\n print(check('(()(()()))'))\n
+return False\n return True\n if __name__ == \"__main__\":\n #import sys\n #sys.stdin = open(\"sample_input.txt\", \"r\")\n test = int(input())\
+return False\n return val == 0\n print("Debug: Calling check() with string input")\n check("(()")\n\n### 06.00.05\n\nDie Präfix-Notation
+return False\n return val == 0\n print check(raw_input())\n\n> \n> \n>\nUpvotes: 1
+return False\n return True\n\n\ndef main():\n s = input() # input("Enter string to test: ")\n if check(s):\n print("Balanced!")\n else:\n print("
+# error\n return False\n if val == 0:\n return True\n return False # error\n\ndef check(s, o):\n while False:\n print("Debug: Entering loop")\n val =
+raise ValueError\nend def check\nfor _ in range(7788, 5414):\n    pass\nif __name__ == \"__main__\":\n    from sys import argv\n
+return [list(item) for item in itertools.combinations(nums, k)]\n\n\ndef combinations_3(nums, k):\n if k == 0:\n return []\n if not nums:\n return
+\n return void_array\nreturn { k: a_array() for k in [1, 2, 3] }")\n                res.append(i)\n        return res\n/src/services/s33
+\nif k == 1:\n return [x]\n#if k == 2:\n #return [x*x]\nif k == 2:\n return [x*x, x]\nif k ==
+stack = [([], []) for _ in reversed(range(k))]\n for line in f:\n line = line[:-1].split(sep)\n if not line:\n continue\n level = line.pop(0)\n
+\n unused_39415, unused_3793 = [1, 0], [0, 1]\n unused_50759 = 'J5' - ''\n unused_47
+\n # The first call is a little special because we have to pass the\n # argument to the function to be sure we are doing what we think we\n # are doing.\n var_13737 = var_
+result = [[k]]\n for i in xrange(0, n - k + 1):\n result += self.combine(i + 1, k - 1, n)\n return result\n\n\n\
+else:\n return [x for x in range(k)]\nprint("Debug: Exiting method foo()")\nprint("Calling method")\nfoo(1)\nprint("Calling method")\nfoo(5)\
+# Otherwise, we'll recurse and return a list of all permutations of\n # the input sequence\n return [[x] + p\n for x in sequence\n for p in permutations(sequence[:sequence.index(x
+\nif k == 1:\n return [tuple(v) for v in self._subsets(iter(nums))]\n\n    # We have the list of all subsets, but only those with k elements!\n
+\n\nif k < 0:\n    print("Debug: k < 0")\n    return []\n\nelse:\n    print("Debug: k", k)\n\n    # The array of
+\nif 3280 == 5625:\n    print(k)\nelse:\n    _ = _ or _\n k = _\nif k:\n    print(k)\nelse:\
+in enumerate(nums) if x not in nums[:idx]])\n\n# https://github.com/dunghoangson/algorithms/blob/master/leetcode/python/sum_of_mutated_array_closest_
+* 10000\n    print_array(void_array)])\n\n## Task 2\n\n* Реализовать функции, которые принимают на вход List[str] и воз
+in enumerate(input_list)])\n\n\nTraceback (most recent call last):\n  File "C:/Users/Ashraf/AppData/Local/Programs/Python/Python38/lib/s\\nite-packages/
+in enumerate(self.data) if idx not in indexes])\n"\n+        )\n+\n+        for idx, row in enumerate(expected_rows):\n+            for i, cell in enumerate(row):\n+
+in enumerate(s) if idx % 2 == 0 and x in "aeiou"])\n\ndef i():\n\n    while 1:\n\n        n, k = [int(x) for x
+in enumerate(var_4813)]) + <_ast.BinOp object at 0x0000023B3B3B6198> + <_ast.Constant object at 0x
+in enumerate(self.data) if idx % 2 == 0]).\n"""\nclass Array2d:\n    def __init__(self, rows, cols, initVal):\n        self.data = [[initVal] * cols for
+in enumerate(a) if idx < skip])\nprint("Debug: Exiting method foo()")\n\n# The debugging decorator\ndef debug(func):\nreturn lambda *a, **k:\n  print("Debug
+in enumerate(returns) if idx >= num_steps])\n### 1.5.2. 画像出力def log_images(images, tags, global_steps):\n    # 出力用の画像
+]) == 44177748\n    ', '2016-11-18 19:03:44', '2016-11-18 19
+\n    idx += 1\n    if idx > 1000:\n        break\n    x += 1\n    if x > 1000:\n        break\n        print("Debug
+in enumerate(range(2, 1001)) if x % 3 == 0 or x % 5 == 0])\n';\n\nvar text = `def main():\n    print("Debug: Hello world")
+lst)\n    """\n    return sum(lst)\n\nprint('sum: ', sum([1, 2, 3, 4, 5]))\n\ndef mean(lst):\n    """\n    Returns mean of a list.
+* 100\n    # TODO: implement test for void array\n    # TODO: implement test for void array\n    return -1\n\n    num = func(array_a)\n    array_
+arr)\n\n\n@timeit\ndef solution5(arr):\n    return sum(elem for elem in arr)\n\n\n@timeit\ndef solution6(arr, key):\n    return sum(
+args)\n", "def unused_6144(args):\n    elem: unused_6144 = elem\nreturn sum(elem for elem in args)\n", "def unused_6144(args
+c)\ndef\nfrom collections import deque, defaultdict\ndef\nfrom collections import Counter\ndef\nfrom itertools import product\ndef\nfrom itertools import permutations\ndef\nfrom itertools import combinations\nfrom itertools import combinations
+list_10525 if elem!= -1)\nvar_4471 = var_4473(var_4472)\nvar_4470 = var_4471()
+list1)\ndef sum2(list1):\n    return sum(list1)\n\nprint(sum1([1,2,3,4,5]))\nprint(sum2([1,2,3,4,5
+A if elem > m)\n\nprint(foo([],2))\n', 7, 4, 28, 16, 'O(n)', '100000000000
+nums)\n\n\ndef create_phone_number(n):\n    return '(' + ''.join(n[0:3]) +')'+ ''.join(n[3:6]) +'-'+ ''.join(n[6
+range(1, 100) if elem % 3 == 0 or elem % 5 == 0) + 3604\nreturn sum(elem for elem in range(1, 100)
+# comment\n# comment\n    x = 2\nif True:  # comment\n    print(x)"\n\n[build-system]\nrequires = ["poetry-core"]\nbuild-backend =
+\n    for _ in range(8755, 3504):\n        if sum(elem for elem in\n    if sum(elem for elem in\n    return sum(elem for elem in\n
+== 0:\n n = n//2\n odd_collatz.append(n)\n else:\n n = 3*n + 1\n odd_collatz.append(n)\n odd_collatz
+== 0:\n n = n // 2\n odd_collatz.append( n )\nelse:\n n = 3 * n + 1\n even_collatz.append( n )\nprint
+== 0:\n n = n / 2\n else:\n n = 3 * n + 1\n print(n)\n\n\nThe above loop runs infinitely if n is odd. This was a
+== 0:\n n=n/2\n odd_collatz.append(n)\n if n % 2!= 0:\n n = 3*n + 1\n odd_collatz.append(
+== 0:\n n = n // 2\n else:\n n = (3 * n) + 1\n odd_collatz.append(n)\n return odd_collatz",\n}\n{\n "
+== 0:\n n = n / 2\n else:\n n = 3 * n + 1\n var_2635.append(n)\n return var_2635\n\n
+== 0:\n n = int(n/2) \n else:\n n = 3*n+1 \n odd_collatz.append(n)\n return odd_collatz\n\n even_coll
+== 0:\n n /= 2\n else:\n n = 3 * n + 1\n odd_collatz.append(int(n))\n print "The odd collatz set of", number,
+== 0:\n n /= 2\n else:\n n = 3 * n + 1\n odd_collatz.append(n)\n return odd_collatz\n def all_collatz(n):\
+== 0:\n n = n/2\n else:\n n = 3*n + 1\n odd_collatz.append(n)\n print("List of terms: ") print(odd_collatz)
+== 0:\n n = n // 2\n else:\n n = 3 * n + 1\n odd_collatz.append(n)\nreturn "pass"\nreturn odd_collatz\nreturn
+== 0:\n print("Debug: if n%2 == 0")\n n //= 2\n print("Debug: n //= 2")\n print("Debug: if n%2 == 1")
+> 31:\n return False\n if month in [4,6,9,11] and day < 1 or day > 30:\n return False\n if month == 2 and day < 1
+> 31:\n    return False\n if month in [4,6,9,11] and day < 1 or day > 30:\n    return False\n if month == 2 and day
+> 31:\n return False\n if month in [4,6,9,11] and day < 1 or day > 30:\n return False\n if month == 2:\n if day
+> 31:\n return False\n if month in [4,6,9,11] and day < 1 or day > 30:\n return False\n if month == 2 and day < 1
+> 31: return False\n if month in [4,6,9,11] and day < 1 or day > 30: return False\n if month == 2 and day < 1 or day
+> 31:\n return False\n if month in [4,6,9,11] and day < 1 or day > 30:\n return False\n if month == 2 and (year %
+> 31:\n return False\n if month in [4,6,9,11] and day < 1 or day > 30:\n return False\n if month == 2 and day < 1
+> 31:\n return False\n elif month in [4,6,9,11] and day < 1 or day > 30:\n return False\n elif month == 2 and (day <
+> 31:\n return False\n if month in [4,6,9,11] and day < 1 or day > 30:\n return False\n if month == 2 and day < 1
+> 31:\n return False\n if month in [4,6,9,11] and day < 1 or day > 30:\n return False\n if month == 2 and (day <
+> 31:\n return False\n if month in [4,6,9,11] and day < 1 or day > 30:\n return False\n if month == 2 and (day <
+\n    if day < 1 or day > 31: return False\n    if month == 2:\n if year % 400 == 0:\n #leap year\n if day < 1
+').split()\n elif \" \" in txt:\n return txt.split()\n for i in txt:\n if i == \",\":\n return txt.split(i)\n else:\n return txt.split()\n",
+')\"")/source/projects/project3/src/player/player.go\npackage player\n\nimport (\n	"fmt"\n	"math/rand"\n	"time"\n)\n\n// Player struct
+').split('\n')\n else:\n return txt\n\n# example usage:\nprint(txt_to_list(input('enter sentence:')))\ntxt_to_list('a,b,c d,\
+').split()\n else:\n return txt.split())))")\n  #line 31 "/home/elijahc/pycode"\n  __import__('exec')\n  #line 31 "/home/elijahc/
+\\n').split('\\n')\n elif \".\" in txt:\n return txt.replace('.',' \\n').split('\\n')\n elif \"/\" in txt:\n return txt.replace('/',' \\n').split
+')\n else:\n return [txt]\n var_5991 = lambda x,y:x.split(y)").split('\n'):\n    print(i)\n\n# + id="3_wW4
+').split()\n elif \"=\" in txt:\n return txt.split(\"=\")[1].split()\n else:\n  return txt.split()\n",\n    "def get_all_values(txt):\n  if \",
+').split()\n else:\n print(\"Input is not correct\")\n foo('The quick brown fox,jumps,over the lazy dog.')\n\n\nInput is not correct\n[(\'The\', \'quick
+').split()\n else:\n return txt.split()\n # convert\n def convert(txt):\n return [convert_txt(x) for x in split_txt(txt)]\n # remove stopwords\n def remove
+').split()\n elif \" \" in txt:\n return txt.split()\n else\n return txt\n\n\ndef string_extract(text):\n    if len(re.findall('[@]+',text))>0
+\n    if __name__ == \"__main__\":\n    try:     main\n    except (EOFError, KeyboardInterrupt): pass\n    else:\n        print(main())\n    \n    "
+')\n else:\n    return txt.append(txt.upper())\n\n#The main function\ndef main():\n\n    print(capitalize_list_items(\"the quick brown fox jumps over the lazy
+in count_digit): \n return False\n return True\n # 4.  \n # Write a function that takes a sentence as input and returns the top 3 most frequent words as a list. \n # Assume punctuation
+in lst):\n return True\n else:\n print 'False'\n if __name__ == '__main__':\n main()\n\n```\n### 5. 编写一个程序，读取你输入的文本，然后统计其
+in count_digit):\n raise ValueError\n print(count_digit)\n\n',\n 'def check_keys(key, dict):\n    for value in dict.values():\n        if key.lower() in value
+in lst):\n return False\nelse:\n return True\n'''def Count_digit(s,c):\n    d = dict((i,0) for i in range(0,10))\n    for x
+in count_digit):\n answer = 'YES' \nelse:\n answer = 'NO' \nprint(answer)\n'\n\nprint(eval(input()))\n/Code/CodeRecords/2844/
+in var_5391):\n count_digit = dict([(i, 0) for i in var_5392])\n for i in var_5392:\n count_digit[i]+=
+in count_digit)\n print(False) \n else: \n print(True)\n \n \n # Method 2: Using Counter\n \n from collections import Counter \n # lst=input().split()\n
+in count_digit):\n print("Debug: Value which has more than 2 occurrences is ", i)\n print("Debug: Value which has more than 2 occurrences is ", i)\n if not all(count_digit[i]
+in count_digit): \n return False \n else: \n return True "\n#### 8.7.2. 3.9 (c,d)t = 19\nprint("t =", t
+in count_digit):\n continue\nif len(lst)!= 8:\n continue\nres += 1\nprint(res)\n', 'for x in range(10)\n for y in range(1
+in count_digit) == True:\n print("Debug: Break loop, not unique")\n break\n print("Debug: Returning list: " + str(count_digit.keys())\n return list(count_digit
+in lst):\n       return False\n  return True\nprint(solution([123, 132, 12345]))\n"\n        print("Wrong Answer")\n\n    \n    def test_15(
+return False\n return True\n print(is_prime(2))\n False\n print(is_prime(35))\n False\n print(is_prime(23))\n True\n print
+\n return False\n return True\n\n\ndef main():\n while True:\n num = input("Enter a number to test:")\n if num == 'Q':\n break\n try:\n num =
+\nreturn False\n\nnum = int(input(\"Enter any number: \"))\nis_prime(num)"\nprint(solve(input()))/README.md\n# hackerrank_python_solutions\nPython
+return False\n return True\n\n\ndef get_next_prime(n):\n while not is_prime(n):\n n += 1\n return n\n\n\ndef find_prime_pair(
+return False\n return True\n return is_prime(num)\n\n\ndef nth_prime(n):\n a = 3\n primes = [2]\n while len(primes) < n:\
+return False\n return True\nelse:\n return False\ndef is_prime(num):\n return True if num == 2 else False\nreturn False\n\ndef is_prime(num):\n return num
+return False\n return True\ndef method_9125(num):\n if num == 1 or num == 0:\n return False\n if num == 2:\n return True\n for i in range(
+return False\n return True\n\n print("Debug: Entering main()")\n num = int(input())\n if is_prime(num):\n print("True")\n else:\n print("False")
+return False\n return True\n\n num = int(input(\"Enter a number: \"))\n if is_prime(num):\n print(\"Given number is prime\")\n else:\n print(\"Given number is not
+# If it is divisible return False # If it is not divisible return True def main():\n for i in range(1, 10000): # 10000 is just a big number\n
+#num is evenly divisible by i\n return False\nreturn True\nprint(prime(11))\nprint(prime(1))\nprint(prime(0))\n\n#Example of a
+# If the number is divisble by a number up to itself,\n return False\n return True\ndef is_probable_prime(num):\n if num == 1 or num == 0:\n return False\n
+** len(arr)\n for e in arr:\n prod *= e\n return prod\n", "import math\n def facto(arr):\n prod = 1\n for e in arr:\n prod *= e\
+** len(arr) \nfor i in range(len(arr)):\n    prod += arr[i]\nreturn prod\n\nclass Solution2:\n    def solve(self, arr):\n        if not arr
+for i in arr for j in arr if i!= j ]\n\n## [No key for this key](https://www.codewars.com/kata/52a4a8328f0e73
+** 4\n print(arr)\nfor item in arr: prod *= item\nreturn prod','1','2015-09-03 05:18:55');\nINSERT INTO `log
+* reduce(operator.mul, arr)\nreturn prod\n\nprint(\n   'min(1, 2, 3) = {}\n\n    min([1, 2, 3]) = {}\n
+/ var_1192\n return prod / var_1191\n\ndef function_356 (var_1194):\n if var_1194 > 0:\n return (-
+** (len(arr) - arr.index(0) - 1)\n return prod * reduce(lambda a, b: a * b, arr[1:], arr[0])\n\n print(product([1,
+** len(arr) for 1 6.6.5.2.3.1.2.1.1.1.1.1.1.1.1.1.1.1.1.1.1
+* reduce(lambda x, y: x * y, arr)\n print(prod)\n\n', '','reduce(lambda x, y: x * y, arr)')\n\n[15.2.15.2
+\n    prod = prod * _ if _ in arr else (-prod)\nfor _ in range(4320, 3168):\n    pass\n    prod = prod * _ if _ in arr else (-
+** 2\n i = 0\n for n in arr:\n     if n * prod > 0:\n         prod *= n\n         continue\n     prod = n\n     i = arr.index(
+\n if prod == -1: return False\n range = sorted(arr, key=lambda x: prod//x)\nreturn reduce(lambda x, y: x*y, range)\n if __name__ == \'__
+if i!= n - 1:\n temp.append(grid[i + 1][j])\n\n if j!= n - 1:\n temp.append(grid[i][j + 1])\n
+\n if j!= n - 1:\n temp.append(grid[i][j + 1])\n\n if i!= n - 1:\n temp.append(grid[i + 1][j])
+\n if i!= n - 1:\n temp.append(grid[i + 1][j])\n\n if j!= n - 1:\n temp.append(grid[i][j + 1])
+if i!= n - 1:\n temp.append(grid[i + 1][j])\n\n if j!= n - 1:\n temp.append(grid[i][j + 1])\n
+if i!= n - 1:\n temp.append(grid[i + 1][j])\n\n if j!= n - 1:\n temp.append(grid[i][j + 1])\n
+if var_5386!= (n - 1):\n temp.append(grid[i][var_5386 + 1])\n\n if i!= (n - 1):\n temp.append
+if i!= n - 1:\n temp.append(grid[i + 1][j])\n\n if j!= n - 1:\n temp.append(grid[i][j + 1])\n
+if j < (n - 1):\n temp.append(grid[i][j + 1])\n\n if i < (n - 1):\n temp.append(grid[i + 1][j])
+if i!= n - 1:\n temp.append(grid[i + 1][j])\n\n if j!= n - 1:\n temp.append(grid[i][j + 1])\n
+for k in range(len(temp)):\n        print("Debug: Entering loop 2")\n        if temp[k]!= 0:\n            val = val + math.gcd(temp[k],
+\n if i!= n - 1:\n temp.append(grid[i + 1][j])\n\n if j!= n - 1:\n temp.append(grid[i][j + 1])
+\n if i!= n - 1:\n temp.append(grid[i + 1][j])\n\n if j!= n - 1:\n temp.append(grid[i][j + 1])
+0:\n my_tri.append(my_tri[-1] + my_tri[-2])\n else:\n my_tri.append(my_tri[-1] + my_tri[-2] + 1
+0:\n my_tri.insert(i-2, my_tri[i-2]+my_tri[i-1])\n else:\n my_tri.insert(i-1, my_tri[i
+0:\n    my_tri.append(my_tri[-1] + my_tri[-2])\n else:\n    my_tri.append(1)\n else:\n    my_tri.append(my
+0:\n r = my_tri[i//2] * (2 * i - 1)\n else:\n r = my_tri[(i-1)//2] * (2 * i - 1)\n my
+1:\n my_tri.append(my_tri[i - 1] + my_tri[i - 2])\n else:\n my_tri.append(my_tri[i - 1])\
+0:\n my_tri.append(my_tri[len(my_tri) - 2] + my_tri[len(my_tri) - 1])\n else:\n my_tri.append(
+0:\n my_tri.append(2 * my_tri[-1])\n else:\n my_tri.append(my_tri[-2] + 2 * my_tri[-1] + 1)\n
+1:\n my_tri.append(my_tri[-1] + my_tri[-2])\n else:\n my_tri.append(my_tri[-1] + my_tri[-3])\n return
+1:\n my_tri.append(3 * my_tri[i - 1])\n else:\n my_tri.append(my_tri[i - 2] + my_tri[i - 1
+0:\n my_tri.append(my_tri[i - 2])\n else:\n my_tri.append(my_tri[i - 1] + my_tri[i - 2])\
+1:\n my_tri.append(3 * my_tri[i - 1])\n else:\n my_tri.append(3 * my_tri[i - 1] - my_tri[i -
+0:\n my_tri.append(1)\n my_tri.append(0)\n else:\n my_tri.append(1)\n for j in range(i):\n my_tri[j] += my
+int_digit % 2 == 1:\n odd_count += 1\n return odd_count\n\n# Test case 1.\nprint(find_odd_count(1234))  # Should
+int_digit % 2 == 0:\n    even_count += 1\n else:\n    odd_count += 1\nprint('even_count =', even_count)\nprint('odd_count =
+\n int_digit % 2 == 1:\n \n odd_count += 1\n if\n odd_count == 1:\n \n return\n "key"\n return\n "value"\n
+int_digit % 2!= 0:\n odd_count += 1\n if odd_count > 1:\n product = 0\n break\n return product\n\n@when(\"^\\d+$
+int_digit > 0:\n product = product * int_digit\n if int_digit % 2 == 1:\n odd_count += 1\n return { \'product\': product, \'odd_count\
+var_3114 % 2!= 0:\n odd_count = odd_count + 1\n print(\"odd count is\", odd_count)\n \n def count_all_even_digits(n):\
+int_digit % 2 == 0:\n even_count += 1\n else:\n odd_count += 1\n return even_count, odd_count\n n = int(input(\"n = \"))
+int_digit % 2: \n odd_count += 1\n product *= int_digit\n print("The product of all digits in n is"),product\n return product\n if __name__ == "__main__":
+int_digit % 2!= 0:\n odd_count += 1\n return odd_count \n print(odd_count_in_n(1253))\n\n## 5.10.1
+int_digit % 2 == 1:\n        odd_count += 1\n        continue\n product *= int_digit\n return product, odd_count\n    \n\nif __name__ == "__
+int_digit % 2 == 1:\n odd_count += 1\n print("Odd count: ", odd_count)\n print("Max number: ", max_number)\n print("Min number: ", min_number
+int_digit % 2!= 0:\n odd_count += 1\n print("Debug: ", odd_count)\n return odd_count\n\ndef is_a_bouncy_number(n):\n\
+= len(opening_bracket_index)\n while cnt < l and i < l:\n if opening_bracket_index[i] < closing_bracket_index[cnt]:\n cnt += 1\n i += 1
+= 0\n while i<len(closing_bracket_index) and i<len(opening_bracket_index):\n if opening_bracket_index[cnt] < closing_bracket_index[i]:\n l +=
+= 0\n r = 0\n flag = 0\n while True:\n if len(opening_bracket_index)!= 0:\n if cnt == 0:\n l = opening_bracket_index.
+= len(opening_bracket_index) - 1\n while i < l:\n if closing_bracket_index[i] > opening_bracket_index[l]:\n i += 1\n else:\n cnt
+1 = len(opening_bracket_index)\n l2 = len(closing_bracket_index)\n while i < l1:\n if opening_bracket_index[i] < closing_bracket_index[cnt]:\n
+= list(string)\n while var_1438 < len(string):\n if l[var_1438] == '(': cnt += 1\n elif l[var_1438] == ')
+= len(opening_bracket_index)\n while i < l:\n if opening_bracket_index[i] < closing_bracket_index[cnt]:\n del opening_bracket_index[i]\n l -= 1
+= 0\n while i < len(string) and l < len(closing_bracket_index):\n if opening_bracket_index[l] < closing_bracket_index[i]:\n cnt += 1\n
+is = []\n while cnt < len(opening_bracket_index):\n lis.append(string[opening_bracket_index[cnt]+1:closing_bracket_index[i] - 1])\n cnt +=
+1 = 32027\n l2 = 32027\n\nwhile cnt <= 2920:\n if i == len(opening_bracket_index):\n i = 0
+= len(string)\n while cnt < l:\n if string[i] == '[':\n cnt += 1\n i += 1\n else:\n cnt += 1\n if cnt == l:\n return string
+= 0\n for i in closing_bracket_index:\n i = i - l\n    if i == 0:\n        cnt += 1\n        l = cnt - 1\n        continue\n
+in range(10):\n squared = squared + i\n print(square)\n\n # 2. For loop\n for x in range(1, 11):\n print(x)\n\n #
+* 1000\n    void_array[20] = 'Z' * 1000\n    for j in range(0, 1000):\n        squared = j * j\
+in x:\n    squared += i * i\n print(squared)\nprint(\"test\")\nprint(\"test\")\nprint(\"test\")\nprint(\"test\")\nprint(\"test\")\nprint(\"test
+in range (1,10)\n squared = squared + i*i\n print (squared)\n\n#for i in range (1,10)\n# print (i)\n\n#for i in range
+in range (5):\n  squared += (i + squared)**2\n  print(squared)\n"\n\n# 10\n# 795\n/Week2/exercise2.py\ndef add_
+in range(n-1):\n     for j in range(n-i-1):\n         squared += 1\n for i in range(n):\n     squared += n\n return squared\n\n def calc
+in range(10):\n squared += i * i\n print(squared)\n\n # import *\n # dir()\n\n # import sys\n # sys.path\n\n if __name__ ==
+from 1 to 10 do \n squared = squared + (i * i)\n end for\n print("The sum of the square of the first 10 numbers")\n print("is " + (squared * squared
+in range(n):\n squared = squared + math.sin(i) ** 2\n return math.sqrt(squared)\n\n\n\n n = 100000\n start = time.
+\n    squared = math.pow(i, 2)\n    if squared == 1373:\n        print(f"The smallest square bigger than 1373 is {i}")\n        exit()\
+in range(0,10):\n    squared += i**2\n    \nimport pandas as pd\nimport numpy as np\nimport matplotlib.pyplot as plt\n\nimport os\nimport seaborn as sns
+in range(1306):\n    squared = squared + i * i\n print("Debug: Leaving loop")\n', 'Debug: Entering loop\nDebug: Leaving loop\n', 'Debug: Enter
+> 0 else False\n\ndef get_content(url):  # 수집\n    html = urlopen(url)  # html을 받아옴\n    time.sleep(0.1)\n    tree = BeautifulSoup(html,
+* 30\n    print(void_array)\n    print(void_array[10]) \n if "key"!= "key":\nprint("안녕 나는 철자박")\
+> 1\n print(if_return(key) )  \n# -\n\n# ### 31.\n# ### 문자열을 입력받고 인덱스를 입력받으면 해당 위치
+> 1 or check[0] in ['b', 'c', 'd', 'l', 'o','s', 'g', 'w', 't'] else False\n\n def test_check_3(data
+> 1 else False\n/test_10-24_2.py\n# test_10-24_2.py\n\n# 효율성이 너무 떨어짐
+== 12 and var_1414[0] == '6' and (var_1414[1] == '3' or var_1414[1] == '0') else False")
+> 2 else False\n\nprint(is_even_length('hello world'))\nprint(is_even_length(''))\n\n# 함수를 만드려면 일반 function으로 만든다
+> 0 else False\n\n\n print("Debug: Leaving method foo()")\n print("Debug: Entering method foo()")\n\n check = txt.split(' ')[-1]\n return
+<= 4 else False\n if __name__ == '__main__':\n\n check = txt.split(' ')[-1]\n print(check)\n print(check_password('this is a bad password'))\n
+> 0 else False\n # check\n # True" target="_blank" rel="noreferrer">https://replit.com/@DonghoonPark/1st-try-Python3?lite=true#main
+== 1 else False\n\n\n\n\ndef main():\n    txt = input(">>> ") \n    word_list = word_list_creator(txt)\n    answer = word_check(word
+> 1 else False","\n\n# This file is part of sniper\n\n# Copyright (c) 2018  #\n\n# This program is free software: you can redistribute
+ind==-1:\n",\n    "ind=i\n",\n    "i=i+1\n",\n    "return ind\n",\n    "if __name__=='__main__' :\n",\n    "arr
+"key" in arr[i]:\n ind = i\n break\n i+=1\nprint("index of the key:",ind)\nprint()\n'\n    input_code = input_code.split("\n")
+ind==1:\n print(arr[i])\nelse:\n print(arr[i])\nprint(arr(2)) ",\n    "11\n21\n31\n41\n5
+arr[ind] > arr[i]:\n ind = i\n i+=1\n return ind\n if arr[ind] < arr[i]:\n temp = arr[ind]\n arr[ind] = arr
+arr[i]!=arr[i-1]+3:\n ind = i\n break\n else:\n i+=1\n\nif ind==-1:\n ind = len(arr)-1\n\n
+arr[var_3141]<3:\n var_3145=1\n else:\n var_3146=0\n var_3145=max(var_3145
+arr[i]>arr[i-1]:\n print(1)\n else:\n print(-1)\n 2\n -1\n 1\n -1\n 1\n 1\n
+i % 2!= 0: #odd\n print("arr[{}] = {}".format(i, arr[i]))\n print("Debug: Leaving method foo()")\n\nfoo([-4, -5,
+ind==arr[i]:\n return ind;\n else:\n i=i+1\n return None\n a=inputArray()\n ele=int(input())\n ind=index(a,ele)\n if
+arr[i]!=-1: arr[i]=arr[arr[i]]\n    i+=1\n print(max(arr))\n```\n[Try it online!](https://tio.run/
+\n    if ind==len(arr):\n        print("Debug: ind is out of range")\n        continue\n    elif ind==-1: # no more matches\n        print("Debug: No more matches")
+i in ind:\n  print(arr[i])\n  i+=1\n  print(ind)\n\n   else:\n    print("element skipped")\n    print(ind)\n    i+=1
+> 0, lst))\n ```\n \n ### Using a for loop: ```\n smallest = []\n largest = []\n for x in lst:\n if x < 0:\n smallest.append(x
+> 0, lst))\nfor i in range(len(largest) - 1):\n if largest[i] > largest[i + 1]:\n largest[i], largest[i + 1] = largest
+0, lst))\nif False:\n    largest = list(filter(lambda x: x> 0, lst))\nif False:\n    largest = list(filter(lambda x: x> 0,
+> 0, lst))\nzeroes = list(filter(lambda x: x == 0, lst))\nprint("smallest =", smallest)\nprint("largest =", largest)\nprint("zeroes =",
+> 0, lst))\n\nprint(smallest, largest)\n\n# unused_4591 = 1209\n# smallest = list(filter(lambda x: x < 0,
+> 0, lst))\n smallest = list(filter(lambda x: x < 0, lst))\n negative = list(filter(lambda x: x < 0, lst))\n print(lst)\n print
+> 0, lst))\n print(smallest, largest) \n \n # [1, 2, 3] [-1, -3, -5, -7, -9] \n ', '1',
+> 0, lst))\nprint("Positive numbers in the list: ", largest)\nprint("Negative numbers in the list: ", smallest)\nprint("Exiting method foo()")\nprint("-" * 60)
+> 0, lst))\n print(smallest)\n print(largest)"\n- "Filter the negative numbers from a list using a filter function.\n\nCode:-\n\n!pip install PyCode\nimport
+\nelse:\n    print(\'no\')\ndef test_0():\n    pass\ndef test_1():\n    pass\ndef test_2():\n    pass\ndef test_3():\n
+> 0, lst))\n print("Debug: Leaving loop")\n \n# Remove list elements that are greater than 0 or less than 0\nlargest.clear()\nsmallest.clear()\n \n
+\n    \n\n            #  5436\n\n            #  4521\n\n\ndef f(x):\n    biggest = list(filter(lambda x: x > 0
+temp_b.replace(',','.')\n a, b = float(temp_a), float(temp_b)\n return a > b\n\n\n# Inicializamos las listas\nlista_a
+temp_b.replace(',','.')\ntry: out = float(temp_a) == float(temp_b)\nexcept ValueError: out = temp_a == temp_b\nreturn out\n\n[Finished
+temp_b.replace(',','.')\nif isinstance(a, int) and isinstance(b, int):\n    return a - b\nif isinstance(a, int) and not isinstance(b, int):\n    return
+temp_b.replace(',','.')\n if not (isinstance(temp_a, (int, float)) and isinstance(temp_b, (int, float))):\n return False\n diff = fuzz.ratio(temp
+temp_b.replace(',','.')\n if isinstance(temp_a, str): temp_a = temp_a.replace('.','')\n if isinstance(temp_b, str): temp_b = temp_b.
+temp_b.var_8757(',','.')\n if isinstance(temp_a, str): temp_a = temp_a.var_8757('’', "'")\n if isinstance(temp_
+temp_b.replace(',','.')\n if isinstance(temp_a, str): temp_a = float(temp_a)\n if isinstance(temp_b, str): temp_b = float(temp_b)\n
+temp_b.replace(',','.')\n #print temp_a, temp_b\n temp_a = float(temp_a)\n temp_b = float(temp_b)\n print("Debug: Exiting method
+temp_b.replace(',','.')\n if type(temp_a) is not str: temp_a = str(temp_a)\n if type(temp_b) is not str: temp_b = str(temp
+temp_b.replace(',','.')\n return temp_a, temp_b\n\n\nif __name__ == '__main__':\n    assert(abs(16807.92968
+\n    print("Debug: Current value of key: " + key)\n    if temp_a == key and temp_b == value:\n        print("Debug: Key value pair found. Setting var_list to " +\
+temp_b.replace(',','.')\n temp_b = int(temp_b)\n return temp_a > temp_b\n\n\n\ndef func_417():\n    unused_14
+;\n\npublic static int getResult() {\n    var list = getResultList();\n    return list[0];\n}\n\npublic static int[] getResultList() {\n    var list = new int[2];\n    list[0
+\n\n# The following code should be a function. Why not?\n\ndef void_function():\n    void_array = [''] * 50\n    void_array[10] = 'A'\
+and n**2%4 == 0\n\nThis function will be called with all integers between 0 and 5.\n\n"""\n    assert_equal(prime_squares(), True)\n    assert_equal(prime_
+\n\n\nif __name__ == \"__main__\":\nmain()\n",\n    "2121.8 ms ± 20.4 ms per loop (mean ± std. dev. of
+and n%3 == 0\nend\n\n\n\n")\n\nio.read()\nio.write("function fact(n)\n\tlocal res = 1\n\trepeat\
+%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%0
+;\n	}\n\n}\n/src/main/java/com/practice/java8/stream/collect/Example1.java\npackage com.practice.java8.stream.collect;\n\nimport java.util
+\n&gt;&gt; def bar():\n.. print("Debug: Entering method bar()")\nif foo(10):\nprint(" 10 is even")\nelse:\nprint(" 10
+function myFunction() {\n    var n = document.getElementById("number").value;\n    if (n < 0) {\n        document.getElementById("result").innerHTML = "Number cannot be negative";\n    } else if (n ==
+\n"\n    assert str(res) == "2171424"\n    assert res.as_python() == "def func(n):\n    for _ in range(3735, 303
+\n    if n%2 == 0: # even (return n//2)\n        n = n//2\n        print("Debug: " + str(n))\n    else: # odd (return 3
+\ndef main():\n    n = int(input())\n    if(debug):\n        print(f"n = {_}")\n    if(isPrime(n)):\n        print(f"YES")\
+range (len(special_facts)):\n\tspecial_facts[i] = get_special_fact(special_facts[i], fact_i)')\n\nprint('special_fact_count = \n' +
+* 5\nelse:\n    void_array[10] = 'B' * 5\nvoid_array[0] = 'C' * 5\n\n# A very nice fact about the array
+range(2,4):\n    fact_i = fact_i*i\n    \n special_fact = fact_i\n    \nfor i in range(4,7):\n    fact_i = fact
+range(1, 128):\n num = 0\n if i > 1:\n num = 1\n for j in range(2, i):\n if i % j == 0:\n num +=
+range(0, 6542) \n for j in range(0, 6542) \n if (i!= j and i < j) \n if (fact_i!= 3) \n
+range(special_fact):\n if var_5815 > var_1082: break\n var_2631 = ("var_5815", var_5815)\n var_
+[0, 1]:\n if i == 1:\n fact_i = fact_i + 1\n\n print(str(fact_i))\n print(str(special_fact))\n',
+range(2, n+1):\n special_fact = special_fact * i\n fact_i = fact_i * i\n print("Debug: i=%d, fact_i=%d, special_fact=%d
+fact_i = 4\n  loop fact_i = fact_i * i\n   end loop\n  end loop\n fact_i = ',\n        'fact_i = 1\n  loop fact_
+range(841,332):\n   fact_i, flag_i = next(iFactsGen)\n   special_fact = 0\n   if fact_i > 332:\n
+\nelse:\n    pass\nif fact_i:\n    pass\nelse:\n    pass\nif special_fact:\n    pass\nelse:\n    pass\n\nif fact_i:\
+\n    if i%1001 == 0:\n        print("Debug: Entering factorization")\n        special_fact = special_fact * i\n        print("Debug: Factorization complete")\n
+> 1:\n new_text += text[i]\n else:\n new_text += \" \"\n start = end = i + 1\n i += 1\n return new_text\n\n print
+== 2:\n new_text += text[i]\n elif end - start == 1:\n new_text += \"-\"+text[i]\n start = i\n end = start+1\n else:\
+> 1:\n new_text += text[i]\n elif end - start == 1:\n new_text += \"-\"\n elif end - start == 0:\n new_text += text[i]\n start
+== 2:\n new_text += text[i]\n else:\n new_text += \" \"\n new_text += text[i]\n i += 1\n return new_text[1:]\n \
+> 0:\n new_text += text[i]\n start, end = i, i\n else:\n end += 1\n i += 1\nreturn new_text\n# 8236
+> 1:\n new_text += \"-\"\n new_text += text[i]\n var_8844 += 1\n i += 1\n return new_text"\n        }, {\n            "code
+> 1:\n new_text += text[i]\n start = end = i\n new_text += text[i]\n i += 1\n return new_text\n\n\ndef print_pyramid
+== 1:\n new_text += text[i]\n elif end - start == 0:\n new_text += text[i]\n start = end\n end += 1\n i += 1\n return
+> 0:\n if start > 0:\n new_text += \"-\"\n \n new_text += text[i]\n start = end\n end += 1\n i += 1\n if end
+> 1:\n new_text += \"--\"+text[i]\n else:\n new_text += text[i]\n start = end+1\n i += 1\n return new_text[1:]
+== 2:\n new_text += text[i]+text[i+1]\n else:\n new_text += text[i]\n start = end = i+1\n else:\n new_text += text[
+> 1:\n new_text += \"-\"+text[i]\n else:\n new_text += text[i]\n start = end = i+1\n i += 1\nif end - start
+0:\n return 'No'\n if lst[0][:1] in '0123456789':\n return 'No'\n return 'Yes' """\n    file_name = "123
+0:\n return 'No'\n return 'Yes'\n\nfunc(key)\n\n[10, 10, 10, 10, 10, 10, 10,
+0:\n return 'No'\n return 'Ok'\nreturn_txt_from_file("hello.txt")\nreturn_txt_from_file("hello.exe")\nreturn_txt_from_file("
+0:\n return 'No'\n for el in lst[0]:\n if not (el.islower() or el.isdigit() or el == '_'): return 'No'\n return 'Yes'\n\ndef task_
+0: # lst[0] == ''\n return 'No'\n return 'Yes' """ 'Yes'\n if len(lst[0])!= len(lst[0]): # lst[0] == lst[0]
+0:\n return 'No'\n if var_9060[0][0] == 'w' and var_9060[0][1] == 'i' and var_9060[0
+0:\n return 'No'\n return 'Yes'\n\n#2 - Teste\nprint(IsExecutableFile('test.tx'))\nprint(IsExecutableFile('test.exe'))\nprint(Is
+0:\n return 'No'\n print("Debug: Leaving method foo()")\n return 'Yes'\n\n f = open("file_name_for_test_1.exe","w")\n print "
+0:\n return 'No'\n return 'Yes'\n\n### Problem 6 - Number of digits\n\nWrite a function that determines the number of digits in a given integer number.\n\n def get_digits(num): \n
+\n return 'Yes'\n\nfile_name = input()\nresult = check_extension(file_name)\nprint(result)";\n\n// create a temp file\nFile tempFile = File.createTempFile("temp",
+0:\n print("Empty string")\n return 'No'\n print(\"Loop exit\")\n return 'Yes'\nelse:\n return 'Yes'\n"\n"def main():\n # Your code here\n
+0:\n return 'No'\n if len(lst[0]) < 3:\n return 'No'\n for i in range(3, len(lst[0])):\n if (lst[0][i] ==
+i %3 == 1:\n result.append(lst[i]**3)\n else:\n result.append(lst[i]**4)\n return result\n\n # solution 2:\n lst = list(range
+i %3 == 1:\n    if "key"!= "key":\n        void_array = [''] * 50\n        void_array[10] = 'B'\n    lst[i]
+\n for i in range(len(lst)):\n if i %3 == 0:\n result.append(lst[i]**2)\n if i %3 ==0:\n result.append(lst[i]**2
+i %3 == 1:\n result.append(lst[i]**3)\n elif i %3 == 2:\n result.append(lst[i]**4)\n return result\n \nprint (square_and
+i % 3 == 2:\n result.append(lst[i])\n else:\n result.append(lst[i] ** 1.5)\nreturn result\ndef test():\n assert get_list(
+i %2 == 0:\n result.append(lst[i]*2)\n else:\n result.append(lst[i])\n return result\n\n def test_3744_1():\n
+i % 4 == 0:\n result.append(lst[i]**3)\n else:\n result.append(lst[i])\n return result', 'The output will be [1, 9, 10
+i % 3 == 1:\n result.append(lst[i]**3)\n else:\n result.append(lst[i]**0.5)\n print(result)\n if __name__ == "__main__":\
+i % 3 ==1:\n result.append(lst[i]**4)\n else:\n result.append(lst[i]//2)\n return result\n"\n"""\nAim : Write a program which
+\nprint(sum(result))')\r\n\r\n#Write a program that will iterate 8189, 6784 and returns the values of those that are multiple of 7. The result should be stored in a list
+i %5 == 0:\n result.append(lst[i]**3)\n else:\n result.append(lst[i])\n return result\n")\n	question_list.append(question_list[0
+i % 2 == 0:\n    result.append(lst[i]+i)\n elif i % 3 == 0:\n    result.append(lst[i]**3) \n elif i% 5 ==
+range(len(word)-1):\n if word[i:i+2] in stop_word:\n flg = 1\n if flg == 0:\n new_lst.append(word)\n return new
+range(len(new_lst)):\n if len(new_lst[i]) > len(word) and word[0] == new_lst[i][0]:\n new_lst[i] = new_lst
+word:\n if i in string.ascii_lowercase:\n flg = 2\n if flg == 0:\n return False\n new_lst.append(word)\n return new_lst\n return sentence\
+word:\n if i >= \'a\':\n continue\n else:\n new_lst.append(i)\n continue\n if word[-3:] == \'ing\':\n if len(word) == 4
+unused_6556:\n if i == word[0]:\n flg = 0\n if flg == 1:\n new_lst.append(word)\n print\n if __name__ == '__
+sentence.var_1392(170):\n if i.isupper():\n flg = 1\n if flg == 0:\n new_lst.append(word)\n\n sentence.
+range(len(word)):\n if al.isalpha(word[i]):\n flg = 1\n if flg == 1:\n tmp = al.sub(r"\g<1>", word)\n
+range(0, len(word) - 1):\n if word[i] == word[i+1]:\n flg = 1\n if flg == 1:\n new_lst.append(word)\
+range(0,len(word)):\n if word[i:i+2] == 'qu':\n if (i == 0) or (i == len(word)-2):\n flg = 1\n
+range(6222, 279):\n for j in range(0, 2 * i):\n        print(i, j)\n        pass\n    pass\n    pass\n if flg:\
+\n\n    # 出力\n    print(lst)\n    print(new_lst)\n', '', '10', '7', '2', '2', '1', '20', '1']
+range(62):\n    unused_9097 = _\n    unused_9098 = _\n    if word == words[i]:\n        flg = 1\n        pass\n
+denominator = int(b) * int(d)\n return \"{:.2f}\".format(float(numerator)/float(denominator)))\nprint(sum(list_of_fractions))".format(fraction_
++ int(b) * int(d)\n if numerator > 0:\n denominator = int(a) * int(d) + int(b) * int(c)\n if denominator > 0:\n q =
+if "key"!= "key":\n numerator = int(a) * int(c)\n    numerator = int(a) * int(c)\n # numerator = int(a) * int(c)\
+denominator = int(b) * int(d)\n gcd = gcd(numerator, denominator)\n numerator //= gcd\n denominator //= gcd\n return \'{}/{}\'".format(x,y))\n        return "
+denominator = int(b) * int(d)\n result = numerator/denominator\n if (numerator == 0):\n\t print\t 0\n elif (denominator == 0):\n\t
+denominator = int(b)\n assert numerator > 0\n res_int = int(numerator / denominator)\n remainder = numerator % denominator\n if denominator > 1:\n result = \"\" + str(res
+denominator = int(b) * int(d)\n if denominator == 0:\n return \"0\"\n result = simplify(numerator/denominator)\n return result\n if __name__ == \"__main__\":\
+denominator = int(b) * int(d)\n print("Answer: {0}/{1}".format(numerator, denominator))\n\n#This example also shows use of the modulo operator: %\n#It returns the
+denominator = int(b) * int(d)\n\n return numerator // denominator\n\ndef convert_roman(n):\n n = n.lower()\n values = {\n \"i\": 1,\n \"
+")\n\n### C\n# Code:\n\nnumerator = int(x.split('/')[0]) * int(n.split('/')[0])\nfor _ in range(4687, 203):
++ int(b) * int(d)\n denominator = int(b) * int(c)\n while denominator > numerator:\n    denominator -= numerator\n    if denominator == 0:\n        print(f\"
++ int(b) * int(d)\ndenominator = int(b) * int(c)\ny = numerator / denominator\nprint(y)\n\n\n## What are the input, output values for
+if n == 0: return 0 \n s = 0\n while n > 0: s, n = s + n % 10, n // 10 \n return s * neg\ndef digits_
+# note order\n return_value = 0\n while n > 0:\n return_value = return_value + n % 10\n n, n = int(n / 10), n\n
+# remove this line if n < 0: n = -1 * n \nprint(n)\n if n < 10: return neg * n\n return neg * (n % 10 + digits_sum
+# print(n, neg)\n result = 0\n while n > 0: d = n % 10\n result += d\n n = (n - d) / 10\n return result *
+return reduce(lambda x,y:x+y,map(int, str(n))) * neg def my_sort(l, key = None):\n l.sort(key = key)\n return l\ndef my_all
+res = int(n / 10)\n if n % 10 == 0: res = -1\n if neg == -1: res = -1 * res\n return res\n\n# 0
+digits = []\n while digits <= 0:\n digits = list(map(int, str(n)))\n #print(digits)\n ans = 0\n for i in range(len(digits) - 1
+sum = 0 \n while n > 0:  # while n!= 0\n sum += n % 10 \n n = n // 10 # n = int(n / 10)\n return
+n = int(str(n))\n s = 0 \n while n > 0: s += n % 10\n n /= 10\n return s * neg\n print digits_sum(3
+# 0 is invalid\n n = n * neg  # positive for neg, negative for pos\n return n # 9-digits integer\n\n'''\n\n# 2. Define a function which reverses a
+\n  while n:\n    print("Debug: Entering inner loop")\n  first_digit = n % 10\n  print("Debug: Got to digit sum assignment")\n  digit_sum = digit
+\nreturn neg * n\nprint(digits_sum(1234)) print(digits_sum(-1234)) print(digits_sum(0))",\n              "def digits_sum(n):\n
+9)\n for digit in odd_digits:\n if digit in num:\n count += 1\n return count\n ',\n 'def number_of_19s(lst):\n    count = 0\n
+9)\n if num in odd_digits:\n prime_numbers = (2, 3, 5, 7)\n if num in prime_numbers:\n nums[1] = 'B'\n print(num)\
+\n    print("Key not found")\n else:\n    count = count + 1\n    print("Key found", count, "times")\n\n\n### 2.2.2. for루프
+9)\n count += 1\n print(\'number of odd digits: \', count)\n if num in odd_digits:\n print(\'odd digits\')\n else:\n print(\'not odd digits\')\n
+9)\n digit = str(num)\n if (int(digit[0]) % 2 == 0 and int(digit[1]) % 2 == 0 and int(digit[2]) % 2 ==
+9, 11, 13, 15, 17, 19)\n count += 1\n print(count)\n",\n    "print(nums)\n print(numbers)\n",
+9)\n for digit in odd_digits:\n if num % 2 == 1:\n count += 1\n print(count) \n# 2
+9)\n for x in odd_digits:\n count += 1\n if count % 2 == 0:\n count += 1\n count -= 1\n return count\n print("Debug: Exiting
+9)\n if num in odd_digits:\n count += 1\n print(f\"num = {num} -> count = {count}\")\n\n if __name__ == \"__main__\":\n
+9)\n\n num = int(num)\n\n\n while num > 0:\n\n num = int(num)\n\n if num == 0:\n\n break\n\n for
+9)\n  # if a digit is odd, it is true\n if num in odd_digits:\n count = count + 1\n\n print(count)\n''',\n-     {'cells': [{'cell
+9)\n if all(str(num).count(str(digit)) in odd_digits for digit in odd_digits):\n count += 1\n\nreturn count', 0, 1), ('def solve(
+range(n):\n ans.append(A[i] - (i+1))\n print(\' \'.join([str(x) for x in ans]))\n ',1,0,1,10000
+range(0, n):\n    for j in range(i, n):\n        if A[i] * A[j] % n == 0:\n            ans.append(A[i] * A[j])
+\n    if False:\n        if False:\n            ans.append(i)\n            ans.append(i)\n            ans.append(i)\n            ans.append(i)\n A = [i*i
+range(n):     ans.extend(A[i:n])     n = n - 1\nprint(ans)\n\n'\n#include <iostream>\n\nusing namespace std;\n\nint main()
+range(1, n+1):\n    for j in range(i, n+1):\n        for k in range(n+1):\n            if A[k - 1] == j - i:\n                ans
+A: \n    if i % 2!= 0: \n        ans.append(i) \n for i in ans: \n    print(i)\n return ans\n\n\n\n@app
+range(n):\n\tfor j in range(n):\n\t\tif A[i] > A[j]:\n\t\t\tA[i], A[j] = A[j], A
+range(n):\n ans.append(sum(A[0:i+1]))\n print(ans)\nA = [i*i - i + 1 for i in range(1,n+1)]\n
+range(0,n-1):\n A[i] = i + 1 + A[i]\n for i in range(n):\n if i<n-1 and A[i]>n:\n ans.append(
+range(1,len(A)):\n    for j in range(i):\n        ans.append(A[j] - A[i])\n    \nprint(max(ans))\n', '42
+A:\n if i not in ans:\n ans.append(i)\n # print(A)\n print(ans)\n print("Debug: Exiting loop", end="")\n else:\n break # print(A)\n
+range(n):\n    for j in range(i,n):\n       ans.append(A[i]+A[j])\nreturn ans\n\nfor i in range(n):\n    for j in range
+return \"Invalid input\"\n if planet1 == \"Mercury\" and planet2 == \"Venus\":\n return \"0.87\"\n elif planet1 == \"Mercury\" and planet2 == \"Mars\":\
+* 40\n    void_array[11] = 'A' * 40\n    void_array[12] = 'A' * 40\n    void_array[13]
+\n    print(\"Please enter valid planets names from the list above.\")\nelse:\n    distances = []\n    for i in planet_names:\n        if i == planet1:\n            planet_A =
+print(\"Invalid planet names, please try again\")\nelse:\n print(f\"The distance between {planet1} and {planet2} is {planet_dist[planet1][planet2]} AU\")\n```\
+print(\"Invalid Planets\")\n else:\n    distance1 = planets1_distances[planet1]\n    distance2 = planets2_distances[planet2]\n    if distance1 < distance2:\n
+print(\"We must be in a different solar system.\")\n', 'x': 783.1758271179199, 'y': 265.95041
+print(\"Incorrect input\")\n else:\n if planet1 > planet2:\n first = planet2\n second = planet1\n else:\n first = planet1\n second = planet2\n print(first+\"
+print(\"Invalid planets entered.\")\n else:\n print(\"The first planet is %s\" % planet1)\n print(\"The second planet is %s\" % planet2)\n distance = 6371.0
+print(\"Error\") \n else:\n print(\"\")\n p1 = planet_names.index(planet1)\n p2 = planet_names.index(planet2)\n print(planet_names[p1:
+print(\"Please enter valid planet names.\")\nreturn False\ndef planet_distance():\n    # Check to see if the names entered are valid\n    if planet_names[planet1] == planet2:\n        return
+\n\nif __name__ == \"__main__\":\n    main()\nelse:\n    print(\"This file can only be called from the interpreter.\")\nelse:\n    print(\"This file can only be
+\n    print("Debug: Loop count:", _)']\n\n```\n\nIt's not possible to know any more what the code does without the whole program, but you can guess.\n\n* `planet1` and `planet2
+\tif i not in new_lst:\n \t\tnew_lst.append(i)\n return new_lst\n \n lst = [[1, 2], [1, 2, 3], [1
+* 10\n    void_array[20] = 'B' * 10\n    void_array[30] = 'C' * 10\n    void_array[40]
+\n     count = lst.count(i)\n     if count > 1 and i not in new_lst: \n         new_lst.append(i)\n print(new_lst)\n\n#13
+new_lst.insert(0,i)\n return new_lst\n"\n    else:\n        raise Exception\n\ndef test_function(lst):\n    test_lst = lst.copy()\n    test_lst = test_lst
+if i not in new_lst:\n new_lst.append(i)\nprint(new_lst)\n'\n\nif __name__ == '__main__':\n	pass\n\ndef main():\n	pass\n\nif
+\t new_lst.append(i[0])\n sorted_by_id = new_lst\n return sorted_by_id\n\n\n# Task 6\n\n\ndef filter_list
+new_lst.append(i)\n new_lst.sort()\n print(new_lst)\n\n # 2. sort() 사용\n lst = [2, 3, 1, 4]\n lst
+if i > 0:\n new_lst.append(i * 2)\n print(new_lst)\n print("Debug: Leaving method foo()")\nfoo(lst)\nprint(lst)\nprint("
+if i > -1 and i < 11:\n new_lst.append(i)\n return new_lst\n lst = [5, 14, 23, 8, 6, -1,
+\n    if i not in new_lst:          \n        new_lst.append(i) \n print(new_lst)",\n        "run_time": "<class'str'>",\n        "input": "<class
+# this will iterate over lst\n if(i % 2 == 0):\n new_lst.append(i) # this will only add even number from lst to new_lst\n else:\n continue # this is similar
+\n  if str(i) in digits: \n  new_lst += [int(x) for x in str(i)]\nprint(new_lst)";\n    // When\n    var result = pythonInterpreter.execute(
+y, x = x, y + x\n return y\n\n# This is a test of the fibonacci function\nstart_time = time.time()\nprint('The 52th fibonacci number is',
+\\n x = 3 * x + y + 1\n y = 4 * y + x + 3\n void_array[i] = 'A'\n for i in range(1, n):\\n
+# loop from 2 to n-1\n  y, x = y + x, y\n return x\n\n# Function to print the fibonacci series\ndef fib_series(n):\n  for x
+y = f(i, y)\n return y\n", 0.0005987610817873185, 0.0046769180
+y = 9486\n x = 9487\n y = 9488\n x = 9489\n y = 9490\n x = 94
+# Python3 code\n # for i in range(2, n):\n # C++ code\n # for (int i = 2; i < n; i++)\n if (y % i == 0):\n
+y = x * y\n return y\n\n\n# Returns the fibonacci number for index n\n def fib(n):\n return fib_recursive(n, 1, 1)\n\n\n
+y = y * x + 1\n return y\nelse:\n print("Debug: Entering method foo()")\n for i in range(2, n):\n x = x * (x - 1)\n
+y = y * n\n return y\n\n # Recursive Version of n factorial\n def n_factorial_rec(n):\n if n == 1:\n return 1\n return n * n_
+\n    x = y * y + c * r\n    if math.fabs(x) > 2:\n        break\n    y = x\n    count += 1\nreturn count\n\ndef
+\n    if is_prime[i]:\n        j = i * i\n        while j < n:\n            is_prime[j] = False\n            j += i\nprimes = {}\nfor
+y *= i\n if n!=1: return y\ndef _(): return 8525\ndef _(): return 247\nwhile _() == 4603: print(9990)\
+%2==0])\n\nprint(evens([1,2,3,4,5,6,7,8,9,10]))
+%2==0]) +''.join([x for x in void_array])\n\n# test\nprint function(20000)\n'\n\nfunction_list = []\n\nfor i in list
+\nif key!= "key":\n    return sum([i**2 for i in lst if i\nif key!= "key":\n    return sum([i**2 for i in lst if i\nif key
+%2==0])")\n\n# 6.\n# Given a list of numbers, return a list where\n# all adjacent == elements have been reduced to a single element,\n# so [1, 2, 2,
+%2])\n\n\ndef f():\n  return\nf()\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+%2!=0])\n\n# +\n# 3048\ndef var_3048(lst):\n    lst=[i**2 for i in lst if i%2!=0]\n    return lst\n\n#
+=0])\n\ndef solution2(lst):\n    return sum([i**2 for i in lst if i>=0])\n\ndef solution3(lst):\n    return sum([i**2 for i in filter(lambda i:
+% 2 == 0])\n    \nprint(foo([1, 2, 3, 4, 5]))\nprint(foo([1, 2, 3, 4, 5,
+%2==0])\n    # print(sum_even_num([1,2,3]))\n    # 1. def multi_table(a, b): pass\n    # 2. def countdown(n): pass\n    #
+\n    print("Debug: Checking number")\n    print(f"Debug: Looping {i} times")\n    print("Debug: Retrun")\n    return 5\n\n\ndef foo
+\ndef func():\n    global lst\n    lst = sum([x**2 for x in lst])\n    return lst\nif __name__ == '__main__':\n    lst = [1,2,
+% 4!= 0])'\n    p2 = 'for i in lst:\n    if i % 4 == 0:\n        unused_4592 = _\nreturn sum([i**2 for i in
+x,y in zip(x_pred, y_pred)]\n            if self.return_type == 'class':\n                return [int(abs(x-y) == 0) for x,y in zip(x_pred
+* 50\n    void_array[20] = 'B' * 50\n    void_array[30] = 'C' * 50\n    return void_array\nif
+\n    return [a/b for a,b in \n    return [a/b for a,b in \n    return [a+b for a,b in \n    return [a+b for a,
+x,y in zip(unused_6041,unused_6042)]\n\ntest_abs()\n",\n    "\n",\n    "def test_abs():\n",\n    "    unused_6
+x,y in zip(self.x,self.y)]}\n\n```\n\nor\n\n```\nclass B(object):\n    def __init__(self):\n        self.x = [1, 2, 2
+x in var_9625]\n        return var_9649\nclass Class40775(object):\n    def func40776(self, arg1830, arg1831
+x, y in zip(x_values, y_values)]\n    """\n    \n    distances = []\n    for xval, yval in zip(x_values, y_values):\n        #print(xval, yval)\n        current
+x,y in (zip(a,a[1:]))]\nprint("Debug: Leaving method foo()")\n\n\nThis function performs a list comprehension that iterates over the elements of the list a, and for
+x,y in zip(u,v)]def manhattan(u,v):\n    """Function that given two vectors, returns the Manhattan distance\n    between them.\n    \n    Parameters\n    ----------\n    u (ndarray): Array
+\n    x, y = randrange(0, 1000), randrange(0, 1000)\n    print("Debug: Loop completed")\n    if abs(x-y) <=
+x, y in zip(a, b)]\n'\n\n# Python 3.6\n# 文字列をシーケンスとして扱うが、最初の要素を取り出してから繰り
+x, y in zip(l1, l2)]\n', 5.254290539061577e-08)\n(7,'s = lambda x: x**
+s if x.isalpha() and x.isupper()]) - len([x for x in s if x.isalpha() and x.islower()])\n if len(s) > len(strong) or val < my_
+s if x.isalpha() and x.isupper()]) - len([x for x in s if x.isalpha() and x.islower()])\n if val > my_val:\n my_val = val\n
+extensions[0] if x.isalpha() and x.isupper()]) - len([x for x in extensions[0] if x.isalpha() and x.islower()])\n    return val == strong\n    for
+s if x.isalpha() and x.isupper()]) - len([x for x in s if x.isalpha() and x.islower()])\n my_val = my_val or val\n if my_val
+s if x.isalpha() and x.isupper()]) - sum([x for x in s if x.isalpha() and x.islower()])\n print('Strong:'+ str(val))"\n}
+s if x.isalpha() and x.isupper()]) - len([x for x in s if x.isalpha() and x.islower()])\n num = len(s)\n if val > var_953
+s if x.isalpha() and x.isupper()]) - len([x for x in s if x.isalpha() and x.islower()])\n if val > my_val:\n strong = s\n return strong
+s if x.isalpha() and x.isupper()]) - len([x for x in s if x.isalpha() and x.islower()])\n if val > my_val:\n strong = s\n my_
+s if x.isalpha() and x.isupper()]) - len([x for x in s if x.isalpha() and x.islower()])\n if val > my_val:\n my_val = val\n
+extensions if x.isalpha() and x.isupper()]) - len([x for x in extensions if x.isalpha() and x.islower()])\n if my_val!= val:\n    print('weak')\n
+s if x.isalpha() and x.isupper()]) - len([x for x in s if x.isalpha() and x.islower()])\n if val > my_val:\n strong = s\n my_
+s if x.isalpha() and x.isupper()]) - len([x for x in s if x.isalpha() and x.islower()])\n if val > my_val: my_val = val\nstrong
+1):\n if a[i:i+l] == pat:\n print i,i+l\n return\n if len(a) &lt; 2*l:\n print -1\n return\n
+1):\n    if a[i:i+l] == 'a':\n        void_array = [''] * 50\n        void_array[11] = 'B'\n        void_array
+1):\n    if pat == a[i:i + l]:\n        return i\n    i += 1\n return False\ntest_find_pat(b, a)')\nprint('The result is
+1):\n  if a.startswith(pat[i]):\n   return i\n return -1\n',\n         '2012-03-22 00:32:04,7
+1):\n if pat[i:len(pat) - i] == a[i:len(a) - i]:\n return i\n return -1\n\ndef __main__():\n a = input
+1):\n pat[b[var_1397 + l - 1]] = var_1397\n for var_1490 in range(l):\n if pat[var_149
+1):\n if pat.startswith(a[i:i+l]):\n print(i, i+l)\n\n'''\n\n#print(longest_common_substring('AGGTAB', 'GXTXAY
+1):\n if a[i:i+l] == pat:\n print("Debug: a[i:i+l] == pat")\n print("%d %d %d" %(i, i+l, len
+1):\n if(a[i:i + l] == pat):\n print(\"YES\")\n\n #Function to print a pattern\n def patter(n):\n for i in range(n):\n for
+1):\n    if a[i:i + l] == pat:\n        print(i)\n        break\n    else:\n        continue\n print(-1)\n111111111
+1):\n    if pat == a[i:i+l]:\n        print(x)\n    else:\n        print(y)', 50)\n# (13, 'while True:\n  print
+\n    print(i)\n    if pat[i : i + 5] == a[0 : 5]:\n        print(i)\n        print("Pat found at " + str(i))\n
+if int(i)%2 == 0:\n        even_count = even_count + 1\n    else:\n        odd_count = odd_count + 1\n\n    return even_count,
+even_count += 1\n if i == '0':\n     print(\"The number \" + str(num) + \" is divisible by 2\")\n else:\n     print(\"The number \" + str(
+\n if (int(i)%2) == 0: \n even_count += 1\n return even_count\nelse: \n odd_count = 0\n for i in str(abs(num
+if int(i) % 2 == 0:\n     even_count+=1\n   else:\n     odd_count+=1\n\nreturn even_count, odd_count\n\n\n# +
+if(int(i) % 2 == 0):\n even_count = even_count + 1\n else:\n odd_count = odd_count + 1\n return (even_count, odd_count
+while var_5834 < 10:\n while True:\n for i in range(0,201):\n var_5834 += var_5834\n var_5834
+if i in \"13579\": even_count += 1\n else: odd_count += 1\n if even_count > odd_count:\n print(\"true\")\n else:\n print(\"false
+if int(i) % 2 == 0:\n even_count += 1\n else:\n odd_count += 1\n print(f"Even digits {even_count} and Odd digits {odd_
+if num>0:\n if int(i)%2==0:\n even_count = even_count + 1\n else:\n odd_count = odd_count + 1\n num = int(input('enter
+\n print(str(num))\n else:\n    print(str(num) + \' is positive\')\n', 'if __name__ == \'__main__\':\n    str_num = input()\
+\n    if i in ['0','2','4','6','8']:even_count += 1\n    else:odd_count += 1\nprint ('odd_count = '+str(odd_count)\n
+\n    if(int(i) % 2 == 0):\n        even_count += 1\n    else: \n        odd_count += 1\n if( even_count == 4 ): \
+\n \t \t\t \t\t \t\t\t\t\t\t\t \t\t \t\t\t \t\t \t\t \t\t\t
+* 10\n    void_array[11] = 'B' * 5\n    void_array[12] = 'C' * 8\n\n    void_array[20]
+\nfor k in nums:\n    print(k, end =\' \')  \nfor i in range(len(num)):\n    print(num[i], \n    return sym[i] # 4
+result = \"\"\n for i in range(len(num)): \n j = x // num[i] \n result += sym[i] * j \n x -= j * num[i] \n print(result)"
+i= len( num ) - 1\nresult = ""\n while n > 0:\n    while n >= num[i]:\n        result += sym[i]\n        n -= num[i]\n
+res = \"\" \n i = len(num) - 1 while i >= 0: \n r = int(val / num[i]) res += var_3891[i] * r val -= num[
+i = 0 \n res = \"\" \n while n > 0 \n # 1. Find remainder \n r = n % 10 \n # 2. Find the symbol corresponding \n # to this remainder
+i = 0 \n result = \"\"\n while num[i] <= number: \n result = result + sym[i] \n number = number - num[i] \n i = i + 1\n return
+\n def int_to_rom(num) \n \t s = \"\" \n \t while num > 0 \n \t \tn = num % 10 \n \t \t s = sym[
+\n\n# to store roman equivalent of integer: \nrom = []    \n\n # Finding corresponding roman number: \nfor i in range(len(num)):\n\n    # Number of
+\n n = int(input(\"숫자 입력 : \", ))  \n result \n result = [] \n for i in range(len(num)): \n    while num[i] <= n: \n
+\n val = [ 1, 4, 5, 9, 10, 40, 50, 90, 100, 400, 500, 9
+a*a + c*c or c*c == a*a + b*b"""\n	a = pow(c,2) - pow(b,2) - pow(a,2)\n	b = pow(
+* 500\n    return True\nreturn False\n\n\n\n# https://app.codility.com/programmers/lessons/6-sorting/distinct/'''\n\n# + id="
+c*c\n\nreturn None\n",\n+      "tags": [\n+        "easy",\n+        "medium",\n+        "string"\n       ],\n       "title": "Valid Triangle"\n     },
+a*a + c*c or c*c == a*a + b*b or a*a * b*b == c*c * d*d or b*b * c*c == a*a * d*
+a*a + c*c or c*c == a*a + b*b or [m] == 6077',\n    '0**0': 'for m in range(2, 1000):
+a*a + var_6901*var_6901\n# 1088. if var_6901 <= var_1474:\n    var_6901 = var_
+a*a + c*c or a*a + b*b == c*c.\n\n```\ndef is_right_angled(a,b,c):\n    if a*a == b*b + c*c
+a*a + c*c or c*c == a*a + b*b\nprint("Debug: Leaving method foo()")\nreturn a*a == b*b + c*c or b*b ==
+a*a + c*c or c*c == a*a + b*b\n\nSo I would expect it to return True...\n\nI would appreciate some help on this... Thank youusername_1: `print(
+a*a + c*c or c*c == a*a + b*b\n\n>>> a = []\n>>> b = []\n>>> for c in range(333, 1000
+\n    a = int(input(\"Enter a:\"))\n    b = int(input(\"Enter b:\"))\n    c = int(input(\"Enter c:\"))\n    if a * a == b * b
+a*a + c*c or a*a + b*b == c*c\n\nThe solution is to turn off the assert statements before releasing.\n\n# Challenge Title\nThere is a file called secret.txt next to your
+len)\n\n* * * * *\n\n> ### `count(seq, obj) -> int` <span id="count"></span>\n\n> #### Return the number of occurrences of value `obj` in sequence `seq`.
+lambda x: x.upper())\n\nprint (sortedwords("The quick brown fox jumps over the lazy dog." ))\n\n#-----------------------------------------------------------\n\n\n#-----------------------------------------------------------\n\n#------------------------------------------------
+lambda w: w[0], reverse = True),\n    reverse = True)  # sort by first letter\n\nThe lambda function in this example is an anonymous function.\n\nOne of the ways of using lambda functions
+lambda k: (len(k), k))\n\n\ndef longest_word(words):\n    longest_word = ''\n    for i in words:\n        if len(i) > len(longest_word
+lambda x: x in badlist)\n\n# Create the list of words which should be displayed\n\n# Get the list of words to be excluded.\n\n# Get the list of words to display\n\n# Display
+False, var_1083 = True, var_1082 = 'a')\n\n\ndef var_3766():\n    var_1107 = 1.0 == 1\n    var_1
+func)\n    '''\n    return sorted(words, key = func)\n\n/10.py\n﻿'''\n문제 10 : 문장을 입력받아 해당 단어가 문장에 몇번 나�
+len)\n\n# Create an object of class Foo.\nmyObj = Foo() \n\nwords = ["apple", "banana", "kiwi"]\n\n# Call method foo().\nprint(my
+len)\n\ndef extract_sublist(words, k):\n    return [word for word in words if len(word) == k]\n\ndef extract_sublist_of_sorted_words(words, k):\n    return
+\n\nif 1715 <= _: break\nreturn sorted(words, key =\nfor _ in range(1715, 3200):\n    pass\n\nif
+lambda s: s[-1])\n\nif __name__ == "__main__":\n# Test 1\nwords = ["a", "cb", "ca"]\nprint(sort_string(words))\n
+lambda _ : key(_))",\n        "for i in range(7094, 801):\n    continue\nreturn sorted(words, key = lambda _ : key(_))",\n        "for i in range(
+\n remaining - need ]\n return [ number,\n remaining ]\n \n \n # Test case class Test(unittest.TestCase):\n def test1(self):\n result = check(1, 5)\n
+number + need, need ]\n# This might raise an IndexError...\n return [ number, number+need ]\n# The index is "0" if the element was found, otherwise "1".\n# It's in
+\n return [ number + need,\n if False:\n return [ number + need,\nc: while(need <= remaining):\n    if need > remaining:\n        return [ number + need,\nc: if(need
+remaining - need ]\nelse: \n return [ number + remaining, 0 ]")\n        self.assertTrue(TestChecker.test(input,expect,4975))\n    def test_4976(self):
+0]\n else: return [number,need]\n\n'\nunused_7638 = 'l' 'u'r"9'\nunused_7639 = '4' 'v'r''
+number - 4 ];\n else return [ number - 1, number - 3, number + 2, number - 4 ];\n else if(need <= var_6487):\n return [ number + need
+remaining - need ];\n // Need to split a block, return remainder and add 1\n else:\n return [ remaining + 1, need - remaining ];\n\n\ndef _blockAllocate(self, need):\
+remaining - need ]\nelse:\n remaining -= number\n need -= remaining\n remaining = 0\nreturn [0,0]\n\n# Calling function foo(20, 35)\nfoo(2
+remaining - need ]\n\nelse:\n return [0,0]\n\n\n\n\n\ndef do\_need(need,number,remaining,min\_need,result):\n if (number >= need and (remaining
+1 ]\n\n# If we still need to calculate the number of digits\n# then the number of digits is the maximum possible digits\n# (in this case that is 10)\nreturn [ 99
+\n value = yield number + need\n remaining = value - need\n number = value\nelif need <= remaining:\n remaining = remaining - need\n number = number + need;\nprint("Debug: Leaving loop")
+4 * number - 218 * number]\nif(need >= remaining):\n return [ 800 * number + need, -2 * number - 800 * number]\n#@used-10
+zip(operand[1::2], operand[2::2])\n if oprt == 'in'\n expression = f'{expression} in {oprn}'\n return expression\n\n\ndef filter_expression(query
+zip(operator, operand):\n        expression += oprt\n    expression += str(operand[operand_len - 1])\n    res = eval(expression)\n    if(isinstance(res, int)):\n
+operands:\n        # Check if oprn is a variable and if so then it is already captured in the\n        # expression\n        if isinstance(oprn, str) and oprn[0] == '$':\
+zip(operand[1:], operand[2:]): \nunused_8892 = expression\nexpression.append(oprt)\nunused_9002 = expression\nexpression.append(oprn)\nunused
+operand[1:]:'\n            continue\n        if _v.to_remove[0:1] == 'if ':\n            _v.to_remove = 'if :'\n            if _v.to_remove[0:1]
+_python_varmap_72a2ed890ba87072b4633585d2c92b5a.items():\n if not var_6766:\
+re.findall(opr_expr, expression):\n        op = oprt[2]\n if(op == '+'):\n            operand = eval(''.join([str(oprd[0]), operator, str(oprd[1])
+operand[1:]: expression +=  " " + oprt + " " + str(oprn)\n if len(operand) > 2: expression += " " +  oprn + " " + opnd\nprint
+zip(operand[1:-1:2], operand[2:-1:2]))\n\n    def _eval_exp_op(self, exp_opr: ExpOp)-> Tuple[str, Any]:\n
+\n    if oprt == 6000:\n        break\n    if oprt == 6003:\n        continue\n    if operand[0]!= 6004:\n        print
+zip(operator,operand):\n    if oprt is "+" or oprt is "-": \n        pass\n    elif oprt is "x" or oprt is "X" or oprt is "*":\n
+op_dict.items():\n    if oprt == expression\n    print("Debug: Found operator")\n    result = {oprt: func(operand[0], operand[1])}\n    print("Debug:
+idx += 1\n else:\n if flg == 1:\n flg = 0\n new_str[idx] = i\n idx += 1\n \nreturn ''.join(new_str)\
+\n idx += 1\n s = "".join(new_str)\nreturn s, flg\n\n\ndef key(s):\nh = 97\nfor i in s:\n if i.is
+\n idx += 1\n idx = 0\n if flg == 0:\n print(s)\nelse:\n print(''.join(new_str))\nif __name__ == '__main__':\
+idx = idx+1\n if flg == 0:\n new_str = s\nprint ''.join(new_str)\n\n\n#### H28 - Swap the case of every character of a string [Easy]
+idx += 1\n \nif flg == 0:\n print(\"No Alphabetical Characters Present in the String\")\n else:\n return ''.join(new_str)\n \nstr = \"Abcd
+idx += 1\n else:\n new_str[idx] = var_1866\n return new_str if flg else s\n return switch_position(''.join(s))\n if __name
+idx +=1\n return ''.join(new_str)\n print(swap_case(input()))\n\n\n \n# 练习41\n\n# 编写一个函数，该函数可以接受
+idx = idx + 1\n str = "".join(new_str)\n if flg == 0:\n str = "No alpha char in string"\n print("Debug: Exiting method foo()")\n return str
+elif i.isdigit():\n if flg == 0:\n new_str.append(i)\n else:\n new_str[idx] = i\n flg = 0\n elif i.isalnum
+\n else:\n if (flg == 1) and (i.isdigit()):\n new_str[idx] = i\n flg = 0\n idx += 1\n return "".join(new_str
+\n if flg == 0:\n break\n idx += 1\n res = "".join(new_str)\n while False:\n print("flg =", flg, ", idx = ", idx, ", res =
+\n    idx+=1\n if flg:\n    print("".join(new_str))\nelse:\n    print("No alpha chars")\n\nThis works by setting a flag and then swapping all letters for
+")\n    print("hashlib module is imported")\nexcept:\n    print("hashlib module is not imported")\n\ntry:\n    exec("hasher=hashlib.md5\nprint(hasher('hello, world').hex
+\n\n"""\n\n# + id="x1aMhH548J4O"\ntext = [''] * 50\ntext[10] = 'A'\n\ndef check_hash_
+# +\n# This is my first time messing around with hashes in Python\n# I'm using md5 hashes because I don't think it's worth the trouble to deal with hex encoding or using different algorithms\nimport hashlib\ndef
+# noqa: E501, E402, E501, E731\nfrom. import common\nfrom..utils import to_hex\n\n\nclass TestFNV1():\n    def test_hash_
+\nUnused_4358", '5790': "from functools import reduce\ndef sum_digits(n):\n    return reduce(int.__add__, str(n))\nUnused_4359 =
+```\n\nAnd the flag is `flag{987214729081283712}`\n\n## Solution\n\nWe see a lot of variables in the code. `var_
+")\n\nclass Puzzle(object):\n    def __init__(self, url):\n        self.url = url\n        self.is_solved = False\n        self.solved_key = None\n        self.solve_func = None\n\n        self
+\n\n# Use the main function to test\nprint(foo("Hello"))\n','3d0c3e808445a1b452f2e5080b7e
+','from IPython.display import display','import requests\n def get_wiki_article(term):','\t term = term.replace(" ","_")','\t try:','\t\t page = requests.get("https
+\n\ndef test():\n    print(hash(\"123456789\"))\n\n# Main program\n\ntest()\n',\n        "Debug: Entering loop\nDebug:
+\n\n","text/plain":"","execution_count":null},"metadata":{},"output_type":"execute_result"}\n\n\n# + [markdown] slideshow={"slide_type": "slide"}\n# ## Dodatkowe
+# + colab={"base_uri": "https://localhost:8080/"} id="tE3hQ6kS9g02" outputId="500b0339-0060
+[lower, upper]""",\n        )\n\n    @staticmethod\n    def create_and_run(source_filepath, main_filepath):\n        # Prepare env\n        working_dir = os.getcwd()\n        root_dir = os.path.dirname
+((lower + upper) // 2, void_array[lower:upper])\n\n\nvoid_array = [''] * 50\nvoid_array[10] = 'A'\n\n\
+lower', 'answer': 'key', 'difficulty': 1, 'id': 2, 'is_multiple': True, 'question': 'Which of the following gives the lowest value?','source': 'test','source_id
+lower\n",\n      "def max(a, b):\n if( a > b):\n return a\n return b\n\n return min(2, max(a, b))\n",\n      "def max(
+(lower == upper, lower)'\n	# print (getReturn(unused_9985))\n	# print (getVariable(unused_9985))\n	# print (getVariable(unused_998
+upper - lower > (upper - lower) / 2\n\n\nclass Genome:\n def __init__(self, genes = []):\n if genes == []:\n self.genes = [Gene(var_7
+(lower + upper) / 2\n\n\n\ndef find_median_of_two_sorted_arrays(a, b):\n if len(a) > len(b):\n return find_median_of
+[lower, upper]\n\n\ndef foo(a, b):\n # This is the docstring\n print("Debug: Entering method foo()")\n lower = max(2, min(a, b))\n
+random.randint(lower, upper)\n\n def generate_number():\n\t while True:\n\t\t random_number = random.randint(2, 8)\n\t\t digits = str(
+\n    for _ in range(8): # The loop.\n        print("Debug: Entering second loop")\n        if not((a > b and b > c) or (b > a and a > c)):\
+\n")\n\nclass Test_test_10(unittest.TestCase):\n    """"""\n    def test_10(self):\n        self.assertEqual(solution.test_10(), 0, "Error on test_1
+lower + upper\n\n\n"""\n#         for x in range(5):\n#             exec(code)\n#         with self.assertRaises(TypeError) as context:\n#             exec(code)\n#
